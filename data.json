@@ -1,0 +1,3054 @@
+[
+  {
+    "nome": "Renascentismo",
+    "id": "Q4692",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Renascimento",
+    "legenda": "Mona Lisa (c. 1503-1506), de Leonardo da Vinci",
+    "período": "Séculos XIV–XVI",
+    "origem": "República Florentina e República de Veneza (atual Itália)",
+    "características": [
+      { "nome": "Valorização do humanismo", "link": "https://pt.wikipedia.org/wiki/Humanismo" },
+      { "nome": "Perspectiva linear", "link": "https://pt.wikipedia.org/wiki/Perspectiva_linear" },
+      { "nome": "Estudo da anatomia", "link": "https://pt.wikipedia.org/wiki/Anatomia" },
+      { "nome": "Equilíbrio e proporção", "link": null },
+      { "nome": "Retorno à Antiguidade clássica", "link": "https://pt.wikipedia.org/wiki/Antiguidade_cl%C3%A1ssica" }
+    ],
+    "influencias": [
+      { "nome": "Antiguidade clássica", "link": "https://pt.wikipedia.org/wiki/Antiguidade_cl%C3%A1ssica" },
+      { "nome":"Arte da Grécia Antiga", "link":"https://pt.wikipedia.org/wiki/Arte_da_Gr%C3%A9cia_Antiga"},
+      { "nome": "Arte da Roma Antiga", "link": "https://pt.wikipedia.org/wiki/Arte_da_Roma_Antiga" },
+      { "nome": "Humanismo", "link": "https://pt.wikipedia.org/wiki/Humanismo" }
+    ],
+    "reação": [
+      { "nome": "Gótico", "link": "https://pt.wikipedia.org/wiki/Arte_g%C3%B3tica" },
+      { "nome": "Teocentrismo", "link": "https://pt.wikipedia.org/wiki/Teocentrismo" }
+    ],
+    "influenciou": [
+      { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" },
+      { "nome": "Chiaroscuro", "link": "https://pt.wikipedia.org/wiki/Chiaroscuro_(cinema)" },
+      { "nome": "Classicismo", "link": "https://pt.wikipedia.org/wiki/Classicismo" },
+      { "nome": "Iluminismo", "link": "https://pt.wikipedia.org/wiki/Iluminismo" },
+      { "nome": "Ciência", "link": "https://pt.wikipedia.org/wiki/Ci%C3%AAncia" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "Filippo Brunelleschi", "link": "https://pt.wikipedia.org/wiki/Filippo_Brunelleschi" },
+        { "nome": "Leon Battista Alberti", "link": "https://pt.wikipedia.org/wiki/Leon_Battista_Alberti" },
+        { "nome": "Donato Bramante", "link": "https://pt.wikipedia.org/wiki/Donato_Bramante" },
+        { "nome": "Andrea Palladio", "link": "https://pt.wikipedia.org/wiki/Andrea_Palladio" }
+      ],
+      "escultores": [
+        { "nome": "Donatello", "link": "https://pt.wikipedia.org/wiki/Donatello" },
+        { "nome": "Michelangelo", "link": "https://pt.wikipedia.org/wiki/Michelangelo" },
+        { "nome": "Lorenzo Ghiberti", "link": "https://pt.wikipedia.org/wiki/Lorenzo_Ghiberti" }
+      ],
+      "pintores": [
+        { "nome": "Leonardo da Vinci", "link": "https://pt.wikipedia.org/wiki/Leonardo_da_Vinci" },
+        { "nome": "Rafael Sanzio", "link": "https://pt.wikipedia.org/wiki/Rafael_Sanzio" },
+        { "nome": "Sandro Botticelli", "link": "https://pt.wikipedia.org/wiki/Sandro_Botticelli" },
+        { "nome": "Masaccio", "link": "https://pt.wikipedia.org/wiki/Masaccio" },
+        { "nome": "Andrea Mantegna", "link": "https://pt.wikipedia.org/wiki/Andrea_Mantegna" },
+        { "nome": "Piero della Francesca", "link": "https://pt.wikipedia.org/wiki/Piero_della_Francesca" }
+      ],
+      "musicos": [
+        { "nome": "Giovanni Pierluigi da Palestrina", "link": "https://pt.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina" },
+        { "nome": "Josquin des Prez", "link": "https://pt.wikipedia.org/wiki/Josquin_des_Prez" },
+        { "nome": "Claudio Monteverdi", "link": "https://pt.wikipedia.org/wiki/Claudio_Monteverdi" }
+      ],
+      "escritores": [
+        { "nome": "Dante Alighieri", "link": "https://pt.wikipedia.org/wiki/Dante_Alighieri" },
+        { "nome": "Francesco Petrarca", "link": "https://pt.wikipedia.org/wiki/Francesco_Petrarca" },
+        { "nome": "Giovanni Boccaccio", "link": "https://pt.wikipedia.org/wiki/Giovanni_Boccaccio" },
+        { "nome": "William Shakespeare", "link": "https://pt.wikipedia.org/wiki/William_Shakespeare" },
+        { "nome": "Luís de Camões", "link": "https://pt.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es" },
+        { "nome": "Thomas More", "link": "https://pt.wikipedia.org/wiki/Thomas_More" }
+      ],
+      "organizações": [
+        { "nome": "Academia Platônica de Florença", "link": "https://pt.wikipedia.org/wiki/Academia_Plat%C3%B4nica_de_Floren%C3%A7a" },
+        { "nome": "Ateliê e mecenato dos Médici", "link": "https://pt.wikipedia.org/wiki/M%C3%A9dici" }
+      ],
+      "obras": [
+        {
+          "titulo": "A Última Ceia",
+          "ano": "c. 1495–1498",
+          "artista": "Da Vinci",
+          "link": "https://pt.wikipedia.org/wiki/A_%C3%9Altima_Ceia_(Leonardo_da_Vinci)"
+        },
+        {
+          "titulo": "O Nascimento de Vênus",
+          "ano": "c. 1484–1486",
+          "artista": "Botticelli",
+          "link": "https://pt.wikipedia.org/wiki/O_Nascimento_de_V%C3%AAnus"
+        },
+        {
+          "titulo": "A Escola de Atenas",
+          "ano": "1509–1511",
+          "artista": "Rafael",
+          "link": "https://pt.wikipedia.org/wiki/A_Escola_de_Atenas"
+        },
+        {
+          "titulo": "Davi",
+          "ano": "1501–1504",
+          "artista": "Michelangelo",
+          "link": "https://pt.wikipedia.org/wiki/David_(Michelangelo)"
+        },
+        {
+          "titulo": "A Primavera",
+          "ano": "c. 1482",
+          "artista": "Botticelli",
+          "link": "https://pt.wikipedia.org/wiki/Primavera_(Botticelli)"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Barroco",
+    "id": "Q37853",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ceiling_of_Palazzo_Barberini.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Barroco",
+    "legenda": "Pietro da Cortona: O triunfo da Divina Providência, 1633-1639. Afresco em teto do Palazzo Barberini, Roma",
+    "período": "Séculos XVI - XVIII",
+    "origem": "Península Itálica",
+    "características": [
+      { "nome": "Dramaticidade e exuberância", "link": null },
+      { "nome": "Movimento e contraste (chiaroscuro)", "link": "https://pt.wikipedia.org/wiki/Chiaroscuro" },
+      { "nome": "Expressividade emocional", "link": null },
+      { "nome": "Integração das artes", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Renascentismo", "link": "https://pt.wikipedia.org/wiki/Renascimento" },
+      { "nome": "Maneirismo", "link": "https://pt.wikipedia.org/wiki/Maneirismo" },
+      { "nome": "Contrarreforma", "link": "https://pt.wikipedia.org/wiki/Contrarreforma" },
+      { "nome": "Antiguidade clássica", "link": "https://pt.wikipedia.org/wiki/Antiguidade_cl%C3%A1ssica" }
+    ],
+    "reação": [
+      { "nome": "Reforma Protestante", "link": "https://pt.wikipedia.org/wiki/Reforma_Protestante" }
+    ],
+    "influenciou": [
+      { "nome": "Rococó", "link": "https://pt.wikipedia.org/wiki/Rococ%C3%B3" },
+      { "nome": "Classicismo", "link": "https://pt.wikipedia.org/wiki/Classicismo" },
+      { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" },
+      { "nome": "Barroco mineiro", "link": "https://pt.wikipedia.org/wiki/Barroco_mineiro" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "Francesco Borromini", "link": "https://pt.wikipedia.org/wiki/Francesco_Borromini" },
+        { "nome": "Gian Lorenzo Bernini", "link": "https://pt.wikipedia.org/wiki/Gian_Lorenzo_Bernini" },
+        { "nome": "Guarino Guarini", "link": "https://pt.wikipedia.org/wiki/Guarino_Guarini" },
+        { "nome": "Carlo Maderno", "link": "https://pt.wikipedia.org/wiki/Carlo_Maderno" },
+        { "nome": "Filippo Juvarra", "link": "https://pt.wikipedia.org/wiki/Filippo_Juvarra" }
+      ],
+      "escultores": [
+        { "nome": "Gian Lorenzo Bernini", "link": "https://pt.wikipedia.org/wiki/Gian_Lorenzo_Bernini" },
+        { "nome": "Alessandro Algardi", "link": "https://pt.wikipedia.org/wiki/Alessandro_Algardi" },
+        { "nome": "Pierre Puget", "link": "https://pt.wikipedia.org/wiki/Pierre_Puget" }
+      ],
+      "pintores": [
+        { "nome": "Caravaggio", "link": "https://pt.wikipedia.org/wiki/Caravaggio" },
+        { "nome": "Peter Paul Rubens", "link": "https://pt.wikipedia.org/wiki/Peter_Paul_Rubens" },
+        { "nome": "Diego Velázquez", "link": "https://pt.wikipedia.org/wiki/Diego_Vel%C3%A1zquez" },
+        { "nome": "Rembrandt", "link": "https://pt.wikipedia.org/wiki/Rembrandt" },
+        { "nome": "Johannes Vermeer", "link": "https://pt.wikipedia.org/wiki/Johannes_Vermeer" },
+        { "nome": "Artemisia Gentileschi", "link": "https://pt.wikipedia.org/wiki/Artemisia_Gentileschi" },
+        { "nome": "Bartolomé Esteban Murillo", "link": "https://pt.wikipedia.org/wiki/Bartolom%C3%A9_Esteban_Murillo" }
+      ],
+      "musicos": [
+        { "nome": "Johann Sebastian Bach", "link": "https://pt.wikipedia.org/wiki/Johann_Sebastian_Bach" },
+        { "nome": "Antonio Vivaldi", "link": "https://pt.wikipedia.org/wiki/Antonio_Vivaldi" },
+        { "nome": "Georg Friedrich Händel", "link": "https://pt.wikipedia.org/wiki/Georg_Friedrich_H%C3%A4ndel" },
+        { "nome": "Cláudio Monteverdi", "link": "https://pt.wikipedia.org/wiki/Claudio_Monteverdi" },
+        { "nome": "Domenico Scarlatti", "link": "https://pt.wikipedia.org/wiki/Domenico_Scarlatti" }
+      ],
+      "escritores": [
+        { "nome": "Luís de Camões", "link": "https://pt.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es" },
+        { "nome": "Gregório de Matos", "link": "https://pt.wikipedia.org/wiki/Greg%C3%B3rio_de_Matos" },
+        { "nome": "Padre António Vieira", "link": "https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Vieira" },
+        { "nome": "Sor Juana Inés de la Cruz", "link": "https://pt.wikipedia.org/wiki/Sor_Juana_In%C3%A9s_de_la_Cruz" },
+        { "nome": "John Milton", "link": "https://pt.wikipedia.org/wiki/John_Milton" }
+      ],
+      "organizações": [],
+      "obras": [
+        {
+          "titulo": "Massacre dos Inocentes",
+          "ano": "1611",
+          "artista": "Rubens",
+          "link": "https://pt.wikipedia.org/wiki/Massacre_dos_Inocentes_(Rubens)"
+        },
+        {
+          "titulo": "Igreja e Torre dos Clérigos",
+          "ano": "1779",
+          "artista": "Nicolau Nasoni",
+          "link": "https://pt.wikipedia.org/wiki/Igreja_e_Torre_dos_Cl%C3%A9rigos"
+        },
+        {
+          "titulo": "Judite e Holofernes",
+          "ano": "1599",
+          "artista": "Caravaggio",
+          "link": "https://pt.wikipedia.org/wiki/Judite_e_Holofernes_(Caravaggio)"
+        },
+        {
+          "titulo": "Coluna da Peste",
+          "ano": "1693",
+          "artista": "von Erlach",
+          "link": "https://pt.wikipedia.org/wiki/Coluna_da_Peste_(Viena)"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Romantismo",
+    "id": "Q37068",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Romantismo",
+    "legenda": "Viajante Sobre o Mar de Névoa (1818), de Caspar Friedrich",
+    "período": "Auge entre 1800 e 1850",
+    "origem": "Europa",
+    "características": [
+      { "nome": "Ênfase na emoção intensa e individualismo", "link": "https://pt.wikipedia.org/wiki/Individualismo" },
+      { "nome": "Glorificação do passado e da natureza", "link": null },
+      { "nome": "Sentimentalismo e interação com o eu lírico", "link": "https://pt.wikipedia.org/wiki/Eu_l%C3%ADrico" },
+      { "nome": "Fusão entre grotesco e sublime", "link": "https://pt.wikipedia.org/wiki/Sublime" }
+    ],
+    "influencias": [
+      { "nome": "Arte gótica", "link": "https://pt.wikipedia.org/wiki/Arte_g%C3%B3tica" },
+      { "nome": "Medievalismo", "link": "https://pt.wikipedia.org/wiki/Medievalismo" },
+      { "nome": "Romance de cavalaria", "link": "https://pt.wikipedia.org/wiki/Romance_de_cavalaria" },
+      { "nome": "Sturm und Drang", "link": "https://pt.wikipedia.org/wiki/Sturm_und_Drang" }
+    ],
+    "reação": [
+      { "nome": "Classicismo", "link": "https://pt.wikipedia.org/wiki/Classicismo" },
+      { "nome": "Racionalismo", "link": "https://pt.wikipedia.org/wiki/Racionalismo" },
+      { "nome": "Iluminismo", "link": "https://pt.wikipedia.org/wiki/Iluminismo" },
+      { "nome": "Revolução Industrial", "link": "https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Industrial" }
+    ],
+    "influenciou": [
+      { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo" },
+      { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
+      { "nome": "Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" },
+      { "nome": "Nacionalismo", "link": "https://pt.wikipedia.org/wiki/Nacionalismo" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "Eugène Viollet-le-Duc", "link": "https://pt.wikipedia.org/wiki/Eug%C3%A8ne_Viollet-le-Duc" },
+        { "nome": "Charles Barry", "link": "https://pt.wikipedia.org/wiki/Charles_Barry" },
+        { "nome": "Augustus Pugin", "link": "https://pt.wikipedia.org/wiki/Augustus_Pugin" },
+        { "nome": "Karl Friedrich Schinkel", "link": "https://pt.wikipedia.org/wiki/Karl_Friedrich_Schinkel" }
+      ],
+      "escultores": [
+        { "nome": "François Rude", "link": "https://pt.wikipedia.org/wiki/Fran%C3%A7ois_Rude" },
+        { "nome": "Antoine-Louis Barye", "link": "https://pt.wikipedia.org/wiki/Antoine-Louis_Barye" },
+        { "nome": "David d'Angers", "link": "https://pt.wikipedia.org/wiki/David_d%27Angers" },
+        { "nome": "Bertel Thorvaldsen", "link": "https://pt.wikipedia.org/wiki/Bertel_Thorvaldsen" }
+      ],
+      "pintores": [
+        { "nome": "Eugène Delacroix", "link": "https://pt.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix" },
+        { "nome": "Théodore Géricault", "link": "https://pt.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault" },
+        { "nome": "Francisco de Goya", "link": "https://pt.wikipedia.org/wiki/Francisco_de_Goya" },
+        { "nome": "Caspar David Friedrich", "link": "https://pt.wikipedia.org/wiki/Caspar_David_Friedrich" },
+        { "nome": "William Blake", "link": "https://pt.wikipedia.org/wiki/William_Blake" },
+        { "nome": "J. M. W. Turner", "link": "https://pt.wikipedia.org/wiki/J._M._W._Turner" }
+      ],
+      "musicos": [
+        { "nome": "Ludwig van Beethoven", "link": "https://pt.wikipedia.org/wiki/Ludwig_van_Beethoven" },
+        { "nome": "Franz Schubert", "link": "https://pt.wikipedia.org/wiki/Franz_Schubert" },
+        { "nome": "Frédéric Chopin", "link": "https://pt.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin" },
+        { "nome": "Hector Berlioz", "link": "https://pt.wikipedia.org/wiki/Hector_Berlioz" },
+        { "nome": "Richard Wagner", "link": "https://pt.wikipedia.org/wiki/Richard_Wagner" }
+      ],
+      "escritores": [
+        { "nome": "Johann Wolfgang von Goethe", "link": "https://pt.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe" },
+        { "nome": "Lord Byron", "link": "https://pt.wikipedia.org/wiki/Lord_Byron" },
+        { "nome": "Victor Hugo", "link": "https://pt.wikipedia.org/wiki/Victor_Hugo" },
+        { "nome": "José de Alencar", "link": "https://pt.wikipedia.org/wiki/Jos%C3%A9_de_Alencar" },
+        { "nome": "Gonçalves Dias", "link": "https://pt.wikipedia.org/wiki/Gon%C3%A7alves_Dias" },
+        { "nome": "Álvares de Azevedo", "link": "https://pt.wikipedia.org/wiki/%C3%81lvares_de_Azevedo" }
+      ],
+      "organizações": [],
+      "obras": [
+        {
+          "titulo": "A Liberdade guiando o povo",
+          "ano": "1830",
+          "artista": "Eugène Delacroix",
+          "link": "https://pt.wikipedia.org/wiki/A_Liberdade_guiando_o_povo"
+        },
+        {
+          "titulo": "A Balsa da Medusa",
+          "ano": "1819",
+          "artista": "Théodore Géricault",
+          "link": "https://pt.wikipedia.org/wiki/A_Balsa_da_Medusa"
+        },
+        {
+          "titulo": "Os Trabalhadores do Mar",
+          "ano": "1866",
+          "artista": "Victor Hugo",
+          "link": "https://pt.wikipedia.org/wiki/Os_Trabalhadores_do_Mar"
+        },
+        {
+          "titulo": "Sinfonia Fantástica",
+          "ano": "1830",
+          "artista": "Hector Berlioz",
+          "link": "https://pt.wikipedia.org/wiki/Sinfonia_Fant%C3%A1stica"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Art Nouveau",
+    "id": "Q34636",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Alfons_Mucha_-_1898_-_Dance.jpg/960px-Alfons_Mucha_-_1898_-_Dance.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Art_Nouveau",
+    "legenda": "\"Dança\" (1898), de Alfons Mucha",
+    "período": "c. 1890 – década de 1920",
+    "origem": "Europa",
+    "características": [
+      { "nome": "Uso de linha chicote (whiplash)", "link": "https://pt.wikipedia.org/wiki/Art_Nouveau#Caracter%C3%ADsticas" },
+      { "nome": "Motivos orgânicos e busca da \"Arte Total\"", "link": "https://pt.wikipedia.org/wiki/Gesamtkunstwerk" },
+      { "nome": "Rejeição ao historicismo", "link": "https://pt.wikipedia.org/wiki/Historicismo" }
+    ],
+    "influencias": [
+      { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
+      { "nome": "Pré-rafaelismo", "link": "https://pt.wikipedia.org/wiki/Pr%C3%A9-rafaelismo" },
+      { "nome": "Japonismo", "link": "https://pt.wikipedia.org/wiki/Japonismo" },
+      { "nome": "Rococó", "link": "https://pt.wikipedia.org/wiki/Rococ%C3%B3" }
+    ],
+    "reação": [
+      { "nome": "Academicismo", "link": "https://pt.wikipedia.org/wiki/Academicismo" },
+      { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" },
+      { "nome": "Revivalismo", "link": "https://pt.wikipedia.org/wiki/Revivalismo" }
+    ],
+    "influenciou": [
+      { "nome": "Jugendstil", "link": "https://pt.wikipedia.org/wiki/Jugendstil" },
+      { "nome": "Estilo sapino", "link": "https://pt.wikipedia.org/wiki/Estilo_sapino" },
+      { "nome": "Art Déco", "link": "https://pt.wikipedia.org/wiki/Art_d%C3%A9co" },
+      { "nome": "Modernismo catalão", "link": "https://pt.wikipedia.org/wiki/Modernismo_catal%C3%A3o" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "Antoni Gaudí", "link": "https://pt.wikipedia.org/wiki/Antoni_Gaud%C3%AD" },
+        { "nome": "Victor Horta", "link": "https://pt.wikipedia.org/wiki/Victor_Horta" },
+        { "nome": "Hector Guimard", "link": "https://pt.wikipedia.org/wiki/Hector_Guimard" },
+        { "nome": "Charles Rennie Mackintosh", "link": "https://pt.wikipedia.org/wiki/Charles_Rennie_Mackintosh" },
+        { "nome": "Henry Van de Velde", "link": "https://pt.wikipedia.org/wiki/Henry_Van_de_Velde" }
+      ],
+      "escultores": [],
+      "pintores": [
+        { "nome": "Alfons Mucha", "link": "https://pt.wikipedia.org/wiki/Alfons_Mucha" },
+        { "nome": "Gustav Klimt", "link": "https://pt.wikipedia.org/wiki/Gustav_Klimt" }
+      ],
+      "joalheiros": [
+        { "nome": "René Lalique", "link": "https://pt.wikipedia.org/wiki/Ren%C3%A9_Lalique" },
+        { "nome": "Louis Comfort Tiffany", "link": "https://pt.wikipedia.org/wiki/Louis_Comfort_Tiffany" }
+      ],
+      "designers": [
+        { "nome": "Peter Behrens", "link": "https://pt.wikipedia.org/wiki/Peter_Behrens" },
+        { "nome": "Eliseu Visconti", "link": "https://pt.wikipedia.org/wiki/Eliseu_Visconti" },
+        { "nome": "Josef Hoffmann", "link": "https://pt.wikipedia.org/wiki/Josef_Hoffmann" }
+      ],
+      "musicos": [],
+      "escritores": [],
+      "organizações": [
+        { "nome": "Revista Jugend", "link": "https://pt.wikipedia.org/wiki/Jugend" },
+        { "nome": "Revista Mir Iskusstva", "link": "https://pt.wikipedia.org/wiki/Mir_Iskusstva" },
+        { "nome": "Casa-Museu Horta", "link": "https://pt.wikipedia.org/wiki/Casa-Museu_Horta" },
+        { "nome": "Wiener Werkstätte", "link": "https://pt.wikipedia.org/wiki/Wiener_Werkst%C3%A4tte" }
+      ],
+      "obras": [
+        {
+          "titulo": "Templo Expiatório da Sagrada Família",
+          "ano": "não concluído",
+          "artista": "Gaudí",
+          "link": "https://pt.wikipedia.org/wiki/Templo_Expiat%C3%B3rio_da_Sagrada_Fam%C3%ADlia"
+        },
+        {
+          "titulo": "Livraria Lello",
+          "ano": "1906",
+          "artista": "",
+          "link": "https://pt.wikipedia.org/wiki/Livraria_Lello"
+        },
+        {
+          "titulo": "Viaduto Santa Ifigênia",
+          "ano": "1913",
+          "artista": "",
+          "link": "https://pt.wikipedia.org/wiki/Viaduto_Santa_Ifig%C3%AAnia"
+        },
+        {
+          "titulo": "Retrato de Adele Bloch-Bauer I",
+          "ano": "1907",
+          "artista": "Klimt",
+          "link": "https://pt.wikipedia.org/wiki/Retrato_de_Adele_Bloch-Bauer_I"
+        },
+        {
+          "titulo": "Danaë",
+          "ano": "1907",
+          "artista": "Klimt",
+          "link": "https://pt.wikipedia.org/wiki/Dana%C3%AB_(Klimt)"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Neoclassicismo",
+    "id": "Q14378",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/David-Oath_of_the_Horatii-1784.jpg/960px-David-Oath_of_the_Horatii-1784.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Neoclassicismo",
+    "legenda": "O Juramento dos Horácios (1784), de Jacques-Louis David, Museu do Louvre",
+    "período": "Meados do Século XVIII – meados do Século XIX",
+    "origem": "Estados Papais e França",
+    "características": [
+      { "nome": "Valorização da Arte Clássica greco-romana", "link": "https://pt.wikipedia.org/wiki/Arte_cl%C3%A1ssica" },
+      { "nome": "Racionalismo, objetividade e academicismo", "link": "https://pt.wikipedia.org/wiki/Racionalismo" },
+      { "nome": "Oposição ao Barroco e Rococó", "link": "https://pt.wikipedia.org/wiki/Barroco" },
+      { "nome": "Clareza, equilíbrio e simetria", "link": null },
+      { "nome": "Temas cívicos, morais e mitológicos", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Arte grega", "link": "https://pt.wikipedia.org/wiki/Arte_da_Gr%C3%A9cia_Antiga" },
+      { "nome": "Arte romana", "link": "https://pt.wikipedia.org/wiki/Arte_da_Roma_Antiga" },
+      { "nome": "Iluminismo", "link": "https://pt.wikipedia.org/wiki/Iluminismo" },
+      { "nome": "Renascentismo", "link": "https://pt.wikipedia.org/wiki/Renascimento" }
+    ],
+    "reação": [
+      { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" },
+      { "nome": "Rococó", "link": "https://pt.wikipedia.org/wiki/Rococ%C3%B3" }
+    ],
+    "influenciou": [
+      { "nome": "Neoclassicismo no século XX", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo_no_s%C3%A9culo_XX_(m%C3%BAsica)" }
+    ],
+    "vertentes": [
+      { "nome": "Arquitetura neoclássica", "link": "https://pt.wikipedia.org/wiki/Arquitetura_neocl%C3%A1ssica" },
+      { "nome": "Arcadismo", "link": "https://pt.wikipedia.org/wiki/Arcadismo" },
+      { "nome": "Pintura neoclássica", "link": "https://pt.wikipedia.org/wiki/Pintura_do_neoclassicismo" },
+      { "nome": "Escultura neoclássica", "link": "https://pt.wikipedia.org/wiki/Escultura_do_neoclassicismo" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "Grandjean de Montigny", "link": "https://pt.wikipedia.org/wiki/Grandjean_de_Montigny" },
+        { "nome": "Jacques-Germain Soufflot", "link": "https://pt.wikipedia.org/wiki/Jacques-Germain_Soufflot" },
+        { "nome": "Leo von Klenze", "link": "https://pt.wikipedia.org/wiki/Leo_von_Klenze" }
+      ],
+      "escultores": [
+        { "nome": "Antonio Canova", "link": "https://pt.wikipedia.org/wiki/Antonio_Canova" },
+        { "nome": "Bertel Thorvaldsen", "link": "https://pt.wikipedia.org/wiki/Bertel_Thorvaldsen" }
+      ],
+      "pintores": [
+        { "nome": "Jacques-Louis David", "link": "https://pt.wikipedia.org/wiki/Jacques-Louis_David" },
+        { "nome": "Jean-Auguste Dominique Ingres", "link": "https://pt.wikipedia.org/wiki/Jean-Auguste_Dominique_Ingres" },
+        { "nome": "Angelica Kauffmann", "link": "https://pt.wikipedia.org/wiki/Angelica_Kauffmann" },
+        { "nome": "Jean-Baptiste Debret", "link": "https://pt.wikipedia.org/wiki/Jean-Baptiste_Debret" },
+        { "nome": "Nicolas-Antoine Taunay", "link": "https://pt.wikipedia.org/wiki/Nicolas-Antoine_Taunay" }
+      ],
+      "joalheiros": [], "designers": [], "musicos": [],
+      "escritores": [
+        { "nome": "Cláudio Manuel da Costa", "link": "https://pt.wikipedia.org/wiki/Cl%C3%A1udio_Manuel_da_Costa" },
+        { "nome": "Tomás Antônio Gonzaga", "link": "https://pt.wikipedia.org/wiki/Tom%C3%A1s_Ant%C3%B4nio_Gonzaga" },
+        { "nome": "Silva Alvarenga", "link": "https://pt.wikipedia.org/wiki/Silva_Alvarenga" }
+      ],
+      "organizações": [],
+      "obras": [
+        {
+          "titulo": "O Juramento dos Horácios",
+          "ano": "1784",
+          "artista": "Jacques-Louis David",
+          "link": "https://pt.wikipedia.org/wiki/O_Juramento_dos_Hor%C3%A1cios"
+        },
+        {
+          "titulo": "Psiquê reanimada pelo beijo do amor",
+          "ano": "1787-1793",
+          "artista": "Antonio Canova",
+          "link": "https://pt.wikipedia.org/wiki/Psiqu%C3%AA_reanimada_pelo_beijo_do_amor"
+        },
+        {
+          "titulo": "Panteão de Paris",
+          "ano": "1758-1790",
+          "artista": "Jacques-Germain Soufflot",
+          "link": "https://pt.wikipedia.org/wiki/Pante%C3%A3o_de_Paris"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Surrealismo",
+    "id": "Q39427",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Salvador_Dali_A_%28Dali_Atomicus%29_09633u.jpg/960px-Salvador_Dali_A_%28Dali_Atomicus%29_09633u.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Surrealismo",
+    "legenda": "Fotografia surrealista 'Dali Atomicus' de Philippe Halsman (1948)",
+    "período": "1924 – década de 1960",
+    "origem": "França",
+    "características": [
+      { "nome": "Exploração do inconsciente e dos sonhos", "link": "https://pt.wikipedia.org/wiki/Inconsciente" },
+      { "nome": "Justaposição de elementos inesperados", "link": null },
+      { "nome": "Liberdade criativa e automatismo psíquico", "link": "https://pt.wikipedia.org/wiki/Automatismo_ps%C3%ADquico" }
+    ],
+    "influencias": [
+      { "nome": "Dadaísmo", "link": "https://pt.wikipedia.org/wiki/Dada%C3%ADsmo" },
+      { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" },
+      { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" },
+      { "nome": "Psicanálise", "link": "https://pt.wikipedia.org/wiki/Psican%C3%A1lise" }
+    ],
+    "reação": [
+      { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo" },
+      { "nome": "Naturalismo", "link": "https://pt.wikipedia.org/wiki/Naturalismo" },
+      { "nome": "Racionalismo", "link": "https://pt.wikipedia.org/wiki/Racionalismo" }
+    ],
+    "influenciou": [
+      { "nome": "Pop Art", "link": "https://pt.wikipedia.org/wiki/Pop_art" },
+      { "nome": "Arte conceitual", "link": "https://pt.wikipedia.org/wiki/Arte_conceitual" }
+    ],
+    "vertentes": [],
+    "artistas_e_obras": {
+      "arquitetos": [],
+      "escultores": [
+        { "nome": "Alberto Giacometti", "link": "https://pt.wikipedia.org/wiki/Alberto_Giacometti" },
+        { "nome": "Max Ernst", "link": "https://pt.wikipedia.org/wiki/Max_Ernst" },
+        { "nome": "Jean Arp", "link": "https://pt.wikipedia.org/wiki/Jean_Arp" }
+      ],
+      "pintores": [
+        { "nome": "Salvador Dalí", "link": "https://pt.wikipedia.org/wiki/Salvador_Dal%C3%AD" },
+        { "nome": "René Magritte", "link": "https://pt.wikipedia.org/wiki/Ren%C3%A9_Magritte" },
+        { "nome": "Joan Miró", "link": "https://pt.wikipedia.org/wiki/Joan_Mir%C3%B3" },
+        { "nome": "Yves Tanguy", "link": "https://pt.wikipedia.org/wiki/Yves_Tanguy" },
+        { "nome": "Leonora Carrington", "link": "https://pt.wikipedia.org/wiki/Leonora_Carrington" },
+        { "nome": "Remedios Varo", "link": "https://pt.wikipedia.org/wiki/Remedios_Varo" }
+      ],
+      "joalheiros": [], "designers": [], "musicos": [],
+      "escritores": [
+        { "nome": "André Breton", "link": "https://pt.wikipedia.org/wiki/Andr%C3%A9_Breton" },
+        { "nome": "Paul Éluard", "link": "https://pt.wikipedia.org/wiki/Paul_%C3%89luard" },
+        { "nome": "Louis Aragon", "link": "https://pt.wikipedia.org/wiki/Louis_Aragon" }
+      ],
+      "cineastas": [
+        { "nome": "Luis Buñuel", "link": "https://pt.wikipedia.org/wiki/Luis_Bu%C3%B1uel" },
+        { "nome": "Man Ray", "link": "https://pt.wikipedia.org/wiki/Man_Ray" },
+        { "nome": "Jean Cocteau", "link": "https://pt.wikipedia.org/wiki/Jean_Cocteau" }
+      ],
+      "fotografos": [
+        { "nome": "Man Ray", "link": "https://pt.wikipedia.org/wiki/Man_Ray" },
+        { "nome": "Philippe Halsman", "link": "https://pt.wikipedia.org/wiki/Philippe_Halsman" },
+        { "nome": "Lee Miller", "link": "https://pt.wikipedia.org/wiki/Lee_Miller" }
+      ],
+      "artistas_de_moda": [
+        { "nome": "Elsa Schiaparelli", "link": "https://pt.wikipedia.org/wiki/Elsa_Schiaparelli" }
+      ],
+      "organizações": [],
+      "obras": [
+        {
+          "titulo": "Um Cão Andaluz",
+          "ano": "1929",
+          "artista": "Buñuel e Dalí",
+          "link": "https://pt.wikipedia.org/wiki/Um_C%C3%A3o_Andaluz"
+        },
+        {
+          "titulo": "A Persistência da Memória",
+          "ano": "1931",
+          "artista": "Dalí",
+          "link": "https://pt.wikipedia.org/wiki/A_Persist%C3%AAncia_da_Mem%C3%B3ria"
+        },
+        {
+          "titulo": "O Filho do Homem",
+          "ano": "1964",
+          "artista": "Magritte",
+          "link": "https://pt.wikipedia.org/wiki/O_Filho_do_Homem"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Realismo",
+    "id": "Q106423",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gustave_Courbet_-_Bonjour_Monsieur_Courbet_-_Mus%C3%A9e_Fabre.jpg/960px-Gustave_Courbet_-_Bonjour_Monsieur_Courbet_-_Mus%C3%A9e_Fabre.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Realismo",
+    "legenda": "Pintura 'Bonjour, Monsieur Courbet' (1854), de Gustave Courbet.",
+    "período": "Década de 1840 – final do século XIX",
+    "origem": "França",
+    "características": [
+      { "nome": "Representação objetiva da realidade", "link": null },
+      { "nome": "Rejeição ao idealismo do Romantismo", "link": "https://pt.wikipedia.org/wiki/Romantismo" },
+      { "nome": "Temas sociais e da vida cotidiana", "link": null },
+      { "nome": "Verossimilhança", "link": "https://pt.wikipedia.org/wiki/Verossimilhan%C3%A7a" }
+    ],
+    "influencias": [
+      { "nome": "Iluminismo", "link": "https://pt.wikipedia.org/wiki/Iluminismo" },
+      { "nome": "Naturalismo", "link": "https://pt.wikipedia.org/wiki/Naturalismo" },
+      { "nome": "Positivismo", "link": "https://pt.wikipedia.org/wiki/Positivismo" },
+      { "nome": "Materialismo", "link": "https://pt.wikipedia.org/wiki/Materialismo" },
+      { "nome": "Revolução Industrial", "link": "https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Industrial" }
+    ],
+    "reação": [
+      { "nome": "Romantismo", "link": "https://pt.wikipedia.org/wiki/Romantismo" },
+      { "nome": "Idealismo", "link": "https://pt.wikipedia.org/wiki/Idealismo" }
+    ],
+    "influenciou": [
+      { "nome": "Naturalismo", "link": "https://pt.wikipedia.org/wiki/Naturalismo" },
+      { "nome": "Verismo", "link": "https://pt.wikipedia.org/wiki/Verismo" },
+      { "nome": "Realismo socialista", "link": "https://pt.wikipedia.org/wiki/Realismo_socialista" },
+      { "nome": "Neorrealismo", "link": "https://pt.wikipedia.org/wiki/Neorrealismo" },
+      { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" }
+    ],
+    "vertentes": [
+      { "nome": "Realismo literário", "link": "https://pt.wikipedia.org/wiki/Realismo_no_Brasil" },
+      { "nome": "Realismo pictórico", "link": null },
+      { "nome": "Realismo social", "link": "https://pt.wikipedia.org/wiki/Realismo_social" }
+    ],
+    "artistas_e_obras": {
+      "pintores": [
+        { "nome": "Gustave Courbet", "link": "https://pt.wikipedia.org/wiki/Gustave_Courbet" },
+        { "nome": "Jean-François Millet", "link": "https://pt.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet" },
+        { "nome": "Honoré Daumier", "link": "https://pt.wikipedia.org/wiki/Honor%C3%A9_Daumier" },
+        { "nome": "Ilia Repin", "link": "https://pt.wikipedia.org/wiki/Ilia_Repin" }
+      ],
+      "escritores": [
+        { "nome": "Gustave Flaubert", "link": "https://pt.wikipedia.org/wiki/Gustave_Flaubert" },
+        { "nome": "Honoré de Balzac", "link": "https://pt.wikipedia.org/wiki/Honor%C3%A9_de_Balzac" },
+        { "nome": "Émile Zola", "link": "https://pt.wikipedia.org/wiki/%C3%89mile_Zola" },
+        { "nome": "Machado de Assis", "link": "https://pt.wikipedia.org/wiki/Machado_de_Assis" },
+        { "nome": "Eça de Queirós", "link": "https://pt.wikipedia.org/wiki/E%C3%A7a_de_Queir%C3%B3s" },
+        { "nome": "Liev Tolstói", "link": "https://pt.wikipedia.org/wiki/Liev_Tolst%C3%B3i" },
+        { "nome": "Fiódor Dostoiévski", "link": "https://pt.wikipedia.org/wiki/Fi%C3%B3dor_Dostoi%C3%A9vski" }
+      ],
+      "teatristas": [
+        { "nome": "Henrik Ibsen", "link": "https://pt.wikipedia.org/wiki/Henrik_Ibsen" },
+        { "nome": "Anton Tchekhov", "link": "https://pt.wikipedia.org/wiki/Anton_Tchekhov" }
+      ],
+      "fotografos": [
+        { "nome": "Nadar", "link": "https://pt.wikipedia.org/wiki/Nadar_(fot%C3%B3grafo)" }
+      ],
+      "organizações": [
+        { "nome": "Escola de Barbizon", "link": "https://pt.wikipedia.org/wiki/Escola_de_Barbizon" }
+      ],
+      "obras": [
+        {
+          "titulo": "Um Funeral em Ornans",
+          "ano": "1849–50",
+          "artista": "Courbet",
+          "link": "https://pt.wikipedia.org/wiki/Um_Funeral_em_Ornans"
+        },
+        {
+          "titulo": "O Ateliê do Artista",
+          "ano": "1855",
+          "artista": "Courbet",
+          "link": "https://pt.wikipedia.org/wiki/O_Ateli%C3%AA_do_Artista"
+        },
+        {
+          "titulo": "Madame Bovary",
+          "ano": "1857",
+          "artista": "Gustave Flaubert",
+          "link": "https://pt.wikipedia.org/wiki/Madame_Bovary"
+        },
+        {
+          "titulo": "Memórias Póstumas de Brás Cubas",
+          "ano": "1881",
+          "artista": "Machado de Assis",
+          "link": "https://pt.wikipedia.org/wiki/Mem%C3%B3rias_P%C3%B3stumas_de_Br%C3%A1s_Cubas"
+        },
+        {
+          "titulo": "Os Maias",
+          "ano": "1888",
+          "artista": "Eça de Queirós",
+          "link": "https://pt.wikipedia.org/wiki/Os_Maias"
+        },
+        {
+          "titulo": "Tio Vânia",
+          "ano": "1899",
+          "artista": "Tchekhov",
+          "link": "https://pt.wikipedia.org/wiki/Tio_V%C3%A2nia"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Maneirismo",
+    "id": "Q131808",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Giambologna_raptodasabina.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Maneirismo",
+    "legenda": "Giambologna: 'O Rapto da Sabina', 1582. Florença",
+    "período": "c. 1515–1600",
+    "origem": "Península Itálica",
+    "características": [
+      { "nome": "Afastamento das regras clássicas de equilíbrio e naturalidade", "link": null },
+      { "nome": "Composições artificiais, complexas e expressivas", "link": null },
+      { "nome": "Originalidade e interpretação individual valorizadas", "link": null },
+      { "nome": "Contradição e conflito marcantes", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Gótico", "link": "https://pt.wikipedia.org/wiki/Arte_g%C3%B3tica" },
+      { "nome": "Renascentismo", "link": "https://pt.wikipedia.org/wiki/Renascimento" },
+      { "nome": "Humanismo", "link": "https://pt.wikipedia.org/wiki/Humanismo" }
+    ],
+    "reação": [
+      { "nome": "Classicismo", "link": "https://pt.wikipedia.org/wiki/Classicismo" },
+      { "nome": "Contrarreforma", "link": "https://pt.wikipedia.org/wiki/Contrarreforma" }
+    ],
+    "influenciou": [
+      { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" },
+      { "nome": "Arte moderna", "link": "https://pt.wikipedia.org/wiki/Arte_moderna" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "Andrea Palladio", "link": "https://pt.wikipedia.org/wiki/Andrea_Palladio" },
+        { "nome": "Giulio Romano", "link": "https://pt.wikipedia.org/wiki/Giulio_Romano" },
+        { "nome": "Jacopo Vignola", "link": "https://pt.wikipedia.org/wiki/Jacopo_Vignola" },
+        { "nome": "Bernardo Buontalenti", "link": "https://pt.wikipedia.org/wiki/Bernardo_Buontalenti" }
+      ],
+      "escultores": [
+        { "nome": "Benvenuto Cellini", "link": "https://pt.wikipedia.org/wiki/Benvenuto_Cellini" },
+        { "nome": "Giambologna", "link": "https://pt.wikipedia.org/wiki/Giambologna" },
+        { "nome": "Alonso Berruguete", "link": "https://pt.wikipedia.org/wiki/Alonso_Berruguete" },
+        { "nome": "Diego de Siloé", "link": "https://pt.wikipedia.org/wiki/Diego_de_Silo%C3%A9" }
+      ],
+      "pintores": [
+        { "nome": "Jacopo da Pontormo", "link": "https://pt.wikipedia.org/wiki/Jacopo_da_Pontormo" },
+        { "nome": "Rosso Fiorentino", "link": "https://pt.wikipedia.org/wiki/Rosso_Fiorentino" },
+        { "nome": "Parmigianino", "link": "https://pt.wikipedia.org/wiki/Parmigianino" },
+        { "nome": "El Greco", "link": "https://pt.wikipedia.org/wiki/El_Greco" }
+      ],
+      "musicos": [
+        { "nome": "Carlo Gesualdo", "link": "https://pt.wikipedia.org/wiki/Carlo_Gesualdo" },
+        { "nome": "Luzzasco Luzzaschi", "link": "https://pt.wikipedia.org/wiki/Luzzasco_Luzzaschi" },
+        { "nome": "Cipriano de Rore", "link": "https://pt.wikipedia.org/wiki/Cipriano_de_Rore" },
+        { "nome": "Giovanni da Palestrina", "link": "https://pt.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina" },
+        { "nome": "Orlande de Lassus", "link": "https://pt.wikipedia.org/wiki/Orlande_de_Lassus" }
+      ],
+      "escritores": [
+        { "nome": "Torquato Tasso", "link": "https://pt.wikipedia.org/wiki/Torquato_Tasso" },
+        { "nome": "Miguel de Cervantes", "link": "https://pt.wikipedia.org/wiki/Miguel_de_Cervantes" },
+        { "nome": "William Shakespeare", "link": "https://pt.wikipedia.org/wiki/William_Shakespeare" },
+        { "nome": "Giambattista Marino", "link": "https://pt.wikipedia.org/wiki/Giambattista_Marino" }
+      ],
+      "organizações": [
+        { "nome": "La Pléiade", "link": "https://pt.wikipedia.org/wiki/La_Pl%C3%A9iade" }
+      ],
+      "obras": [
+        {
+          "titulo": "O Enterro do Conde de Orgaz",
+          "ano": "1586",
+          "artista": "El Greco",
+          "link": "https://pt.wikipedia.org/wiki/O_Enterro_do_Conde_de_Orgaz"
+        },
+        {
+          "titulo": "A Última Ceia",
+          "ano": "1594",
+          "artista": "Tintoretto",
+          "link": "https://pt.wikipedia.org/wiki/A_%C3%9Altima_Ceia_(Tintoretto)"
+        },
+        {
+          "titulo": "Aparição do Anjo a S. Roque",
+          "ano": "década de 1580",
+          "artista": "Gaspar Dias",
+          "link": "https://pt.wikipedia.org/wiki/Apari%C3%A7%C3%A3o_do_Anjo_a_S._Roque_(Gaspar_Dias)"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Impressionismo",
+    "id": "Q40415",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Claude_Monet%2C_Impression%2C_soleil_levant.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Impressionismo",
+    "legenda": "Claude Monet, Impressão, soleil levant (1872), óleo sobre tela, Museu Marmottan Monet, Paris. Essa pintura se tornou a fonte do nome do movimento.",
+    "período": "Década de 1860 – início do século XX",
+    "origem": "França",
+    "características": [
+      { "nome": "Pintura ao ar livre", "link": "https://pt.wikipedia.org/wiki/Plein_air" },
+      { "nome": "Pinceladas soltas e visíveis", "link": null },
+      { "nome": "Valorização da luz e da cor", "link": null },
+      { "nome": "Ênfase nas sensações visuais e atmosferas transitórias", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Romantismo", "link": "https://pt.wikipedia.org/wiki/Romantismo" },
+      { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo" },
+      { "nome": "Belle Époque", "link": "https://pt.wikipedia.org/wiki/Belle_%C3%89poque" }
+    ],
+    "reação": [
+      { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo" },
+      { "nome": "Academicismo", "link": "https://pt.wikipedia.org/wiki/Academicismo" }
+    ],
+    "influenciou": [
+      { "nome": "Pós-impressionismo", "link": "https://pt.wikipedia.org/wiki/P%C3%B3s-impressionismo" },
+      { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" },
+      { "nome": "Fauvismo", "link": "https://pt.wikipedia.org/wiki/Fauvismo" },
+      { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" },
+      { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
+      { "nome": "Pontilhismo", "link": "https://pt.wikipedia.org/wiki/Pontilhismo" },
+      { "nome": "Neoimpressionismo", "link": "https://pt.wikipedia.org/wiki/Neoimpressionismo" }
+    ],
+    "artistas_e_obras": {
+      "pintores": [
+        { "nome": "Claude Monet", "link": "https://pt.wikipedia.org/wiki/Claude_Monet" },
+        { "nome": "Pierre-Auguste Renoir", "link": "https://pt.wikipedia.org/wiki/Pierre-Auguste_Renoir" },
+        { "nome": "Camille Pissarro", "link": "https://pt.wikipedia.org/wiki/Camille_Pissarro" },
+        { "nome": "Edgar Degas", "link": "https://pt.wikipedia.org/wiki/Edgar_Degas" },
+        { "nome": "Eliseu Visconti", "link": "https://pt.wikipedia.org/wiki/Eliseu_Visconti" },
+        { "nome": "Berthe Morisot", "link": "https://pt.wikipedia.org/wiki/Berthe_Morisot" },
+        { "nome": "Alfred Sisley", "link": "https://pt.wikipedia.org/wiki/Alfred_Sisley" },
+        { "nome": "Mary Cassatt", "link": "https://pt.wikipedia.org/wiki/Mary_Cassatt" }
+      ],
+      "musicos": [
+        { "nome": "Claude Debussy", "link": "https://pt.wikipedia.org/wiki/Claude_Debussy" },
+        { "nome": "Maurice Ravel", "link": "https://pt.wikipedia.org/wiki/Maurice_Ravel" },
+        { "nome": "Erik Satie", "link": "https://pt.wikipedia.org/wiki/Erik_Satie" }
+      ],
+      "escritores": [
+        { "nome": "Paul Verlaine", "link": "https://pt.wikipedia.org/wiki/Paul_Verlaine" },
+        { "nome": "Stéphane Mallarmé", "link": "https://pt.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9" },
+        { "nome": "Marcel Proust", "link": "https://pt.wikipedia.org/wiki/Marcel_Proust" }
+      ],
+      "obras": [
+        {
+          "titulo": "Impressão, nascer do sol",
+          "ano": "1872",
+          "artista": "Monet",
+          "link": "https://pt.wikipedia.org/wiki/Impress%C3%A3o,_nascer_do_sol"
+        },
+        {
+          "titulo": "Prélude à l'après-midi d'un faune",
+          "ano": "1894",
+          "artista": "Debussy",
+          "link": "https://pt.wikipedia.org/wiki/Pr%C3%A9lude_%C3%A0_l%27apr%C3%A8s-midi_d%27un_faune"
+        },
+        {
+          "titulo": "Boulevard Montmartre de noite",
+          "ano": "1897",
+          "artista": "Pissarro",
+          "link": "https://pt.wikipedia.org/wiki/Boulevard_Montmartre_de_noite_(Pissarro)"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Gótico",
+    "id": "Q46825",
+    "tipo": "período",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tours_Cathedral_Saint-Gatian_adj.jpg/500px-Tours_Cathedral_Saint-Gatian_adj.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Arte_g%C3%B3tica",
+    "legenda": "Fachada da Catedral de Tours (1170-1547)",
+    "período": "c. 1140 – c. 1500",
+    "origem": "França",
+    "características": [
+      { "nome": "Arco ogival", "link": "https://pt.wikipedia.org/wiki/Arco_quebrado" },
+      { "nome": "Abóbadas de ogivas", "link": "https://pt.wikipedia.org/wiki/Ab%C3%B3bada_de_ogivas" },
+      { "nome": "Arcobotantes", "link": "https://pt.wikipedia.org/wiki/Arcobotante" },
+      { "nome": "Verticalidade e luminosidade", "link": null },
+      { "nome": "Estética espiritualizada", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Arte românica", "link": "https://pt.wikipedia.org/wiki/Arte_rom%C3%A2nica" },
+      { "nome": "Arquitetura normanda", "link": "https://pt.wikipedia.org/wiki/Arquitetura_normanda" },
+      { "nome": "Arte bizantina", "link": "https://pt.wikipedia.org/wiki/Arte_bizantina" },
+      { "nome": "Renascimento do século XII", "link": "https://pt.wikipedia.org/wiki/Renascimento_do_s%C3%A9culo_XII" }
+    ],
+    "reação": [],
+    "influenciou": [
+      { "nome": "Renascentismo", "link": "https://pt.wikipedia.org/wiki/Renascimento" },
+      { "nome": "Neogótico", "link": "https://pt.wikipedia.org/wiki/Neog%C3%B3tico" },
+      { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" },
+      { "nome": "Moda gótica", "link": "https://pt.wikipedia.org/wiki/Moda_g%C3%B3tica" }
+    ],
+    "vertentes": [
+      { "nome": "Gótico clássico", "link": "https://pt.wikipedia.org/wiki/G%C3%B3tico_cl%C3%A1ssico" },
+      { "nome": "Gótico radiante", "link": "https://pt.wikipedia.org/wiki/G%C3%B3tico_radiante" },
+      { "nome": "Gótico flamboyant", "link": "https://pt.wikipedia.org/wiki/G%C3%B3tico_flamboyant" },
+      { "nome": "Gótico inglês", "link": "https://pt.wikipedia.org/wiki/G%C3%B3tico_ingl%C3%AAs" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "Abade Suger", "link": "https://pt.wikipedia.org/wiki/Abade_Suger" },
+        { "nome": "Pierre de Montreuil", "link": "https://pt.wikipedia.org/wiki/Pierre_de_Montreuil" },
+        { "nome": "Arnolfo di Cambio", "link": "https://pt.wikipedia.org/wiki/Arnolfo_di_Cambio" }
+      ],
+      "escultores": [
+        { "nome": "Claus Sluter", "link": "https://pt.wikipedia.org/wiki/Claus_Sluter" },
+        { "nome": "Giovanni Pisano", "link": "https://pt.wikipedia.org/wiki/Giovanni_Pisano" }
+      ],
+      "pintores": [
+        { "nome": "Giotto di Bondone", "link": "https://pt.wikipedia.org/wiki/Giotto_di_Bondone" },
+        { "nome": "Duccio di Buoninsegna", "link": "https://pt.wikipedia.org/wiki/Duccio_di_Buoninsegna" },
+        { "nome": "Simone Martini", "link": "https://pt.wikipedia.org/wiki/Simone_Martini" },
+        { "nome": "Fra Angelico", "link": "https://pt.wikipedia.org/wiki/Fra_Angelico" },
+        { "nome": "Jean Pucelle", "link": "https://pt.wikipedia.org/wiki/Jean_Pucelle" },
+        { "nome": "Irmãos Limbourg", "link": "https://pt.wikipedia.org/wiki/Irm%C3%A3os_Limbourg" }
+      ],
+      "obras": [
+        {
+          "titulo": "Catedral de Notre-Dame de Paris",
+          "ano": "início do séc. XIII",
+          "artista": "",
+          "link": "https://pt.wikipedia.org/wiki/Catedral_de_Notre-Dame_de_Paris"
+        },
+        {
+          "titulo": "Catedral de Chartres",
+          "ano": "c. 1194–1250",
+          "artista": "",
+          "link": "https://pt.wikipedia.org/wiki/Catedral_de_Chartres"
+        },
+        {
+          "titulo": "Catedral de Reims",
+          "ano": "séc. XIII",
+          "artista": "",
+          "link": "https://pt.wikipedia.org/wiki/Catedral_de_Reims"
+        },
+        {
+          "titulo": "O Beijo de Judas",
+          "ano": "c. 1306",
+          "artista": "Giotto di Bondone",
+          "link": "https://pt.wikipedia.org/wiki/O_Beijo_de_Judas_(Giotto)"
+        },
+        {
+          "titulo": "A Anunciação",
+          "ano": "1333",
+          "artista": "Simone Martini",
+          "link": "https://pt.wikipedia.org/wiki/A_Anuncia%C3%A7%C3%A3o_(Martini)"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Rococó",
+    "id": "Q122960",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fragonard%2C_The_Swing.jpg/960px-Fragonard%2C_The_Swing.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Rococ%C3%B3",
+    "legenda": "'O Balanço' (c. 1767), de Jean-Honoré Fragonard.",
+    "período": "c. 1720 – c. 1780",
+    "origem": "França",
+    "características": [
+      { "nome": "Leveza, graça e intimismo", "link": null },
+      { "nome": "Sensualidade e ornamentação excessiva", "link": "https://pt.wikipedia.org/wiki/Sensualidade" },
+      { "nome": "Uso de cores claras, tons pastel e dourado", "link": null },
+      { "nome": "Temas de lazer aristocrático, amor e mitologia leve", "link": null },
+      { "nome": "Uso de espelhos, gesso e ornamentos de conchas (rocaille)", "link": "https://pt.wikipedia.org/wiki/Rocaille" }
+    ],
+    "influencias": [
+      { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" }
+    ],
+    "reação": [
+      { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" }
+    ],
+    "influenciou": [
+      { "nome": "Art Nouveau", "link": "https://pt.wikipedia.org/wiki/Art_Nouveau" },
+      { "nome": "Barroco mineiro", "link": "https://pt.wikipedia.org/wiki/Barroco_mineiro" },
+      { "nome": "Estilo Luís XV", "link": "https://pt.wikipedia.org/wiki/Estilo_Lu%C3%ADs_XV" },
+      { "nome": "Arte moderna", "link": "https://pt.wikipedia.org/wiki/Arte_moderna" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "François de Cuvilliés", "link": "https://pt.wikipedia.org/wiki/Fran%C3%A7ois_de_Cuvilli%C3%A9s" },
+        { "nome": "Balthasar Neumann", "link": "https://pt.wikipedia.org/wiki/Balthasar_Neumann" },
+        { "nome": "Georg von Knobelsdorff", "link": "https://pt.wikipedia.org/wiki/Georg_Wenzeslaus_von_Knobelsdorff" }
+      ],
+      "escultores": [
+        { "nome": "Clodion", "link": "https://pt.wikipedia.org/wiki/Clodion" },
+        { "nome": "José de Santo António Vilaça", "link": "https://pt.wikipedia.org/wiki/Jos%C3%A9_de_Santo_Ant%C3%B3nio_Vila%C3%A7a" }
+      ],
+      "pintores": [
+        { "nome": "Jean-Antoine Watteau", "link": "https://pt.wikipedia.org/wiki/Jean-Antoine_Watteau" },
+        { "nome": "François Boucher", "link": "https://pt.wikipedia.org/wiki/Fran%C3%A7ois_Boucher" },
+        { "nome": "Jean-Honoré Fragonard", "link": "https://pt.wikipedia.org/wiki/Jean-Honor%C3%A9_Fragonard" },
+        { "nome": "Thomas Gainsborough", "link": "https://pt.wikipedia.org/wiki/Thomas_Gainsborough" }
+      ],
+      "musicos": [
+        { "nome": "Johann Christian Bach", "link": "https://pt.wikipedia.org/wiki/Johann_Christian_Bach" },
+        { "nome": "François Couperin", "link": "https://pt.wikipedia.org/wiki/Fran%C3%A7ois_Couperin" },
+        { "nome": "Jean-Philippe Rameau", "link": "https://pt.wikipedia.org/wiki/Jean-Philippe_Rameau" }
+      ],
+      "escritores": [
+        { "nome": "Pierre de Marivaux", "link": "https://pt.wikipedia.org/wiki/Pierre_de_Marivaux" },
+        { "nome": "Pierre-Augustin Caron de Beaumarchais", "link": "https://pt.wikipedia.org/wiki/Pierre-Augustin_Caron_de_Beaumarchais" }
+      ],
+      "joalheiros": [
+        { "nome": "Juste-Aurèle Meissonnier", "link": "https://pt.wikipedia.org/wiki/Juste-Aur%C3%A8le_Meissonnier" }
+      ],
+      "obras": [
+        {
+          "titulo": "Peregrinação à ilha de Citera",
+          "ano": "1717",
+          "artista": "Watteau",
+          "link": "https://pt.wikipedia.org/wiki/Peregrina%C3%A7%C3%A3o_%C3%A0_ilha_de_Citera_(Watteau)"
+        },
+        {
+          "titulo": "Palácio de Queluz",
+          "ano": "1747",
+          "artista": "",
+          "link": "https://pt.wikipedia.org/wiki/Pal%C3%A1cio_de_Queluz"
+        },
+        {
+          "titulo": "Sanssouci",
+          "ano": "1747",
+          "artista": "von Knobelsdorff",
+          "link": "https://pt.wikipedia.org/wiki/Sanssouci"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Simbolismo",
+    "id": "Q164855",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Death_of_the_Grave_Digger.jpg/500px-The_Death_of_the_Grave_Digger.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Simbolismo",
+    "legenda": "A Morte do Coveiro, de Carlos Schwabe, é um compêndio visual dos temas do simbolismo: Morte, anjos, neve e poses dramáticas.",
+    "período": "Século XIX",
+    "origem": "França e países germânicos",
+    "características": [
+      { "nome": "Valorização da subjetividade e irracionalidade", "link": "https://pt.wikipedia.org/wiki/Subjetividade" },
+      { "nome": "Exploração de sonhos e esoterismo", "link": "https://pt.wikipedia.org/wiki/Esoterismo" },
+      { "nome": "Impressões pessimistas e melancólicas", "link": "https://pt.wikipedia.org/wiki/Melancolia" }
+    ],
+    "influencias": [
+      { "nome": "Romantismo", "link": "https://pt.wikipedia.org/wiki/Romantismo" },
+      { "nome": "Decadentismo", "link": "https://pt.wikipedia.org/wiki/Decadentismo" },
+      { "nome": "Pré-rafaelismo", "link": "https://pt.wikipedia.org/wiki/Irmandade_Pr%C3%A9-Rafaelita" }
+    ],
+    "reação": [
+      { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo" },
+      { "nome": "Naturalismo", "link": "https://pt.wikipedia.org/wiki/Naturalismo" },
+      { "nome": "Parnasianismo", "link": "https://pt.wikipedia.org/wiki/Parnasianismo" },
+      { "nome": "Positivismo", "link": "https://pt.wikipedia.org/wiki/Positivismo" }
+    ],
+    "influenciou": [
+      { "nome": "Art Nouveau", "link": "https://pt.wikipedia.org/wiki/Art_Nouveau" },
+      { "nome": "Surrealismo", "link": "https://pt.wikipedia.org/wiki/Surrealismo" }
+    ],
+    "vertentes": [
+      { "nome": "Pintura do simbolismo", "link": "https://pt.wikipedia.org/wiki/Pintura_do_simbolismo" }
+    ],
+    "artistas_e_obras": {
+      "pintores": [
+        { "nome": "Aristide Maillol", "link": "https://pt.wikipedia.org/wiki/Aristide_Maillol" },
+        { "nome": "Gustave Moreau", "link": "https://pt.wikipedia.org/wiki/Gustave_Moreau" },
+        { "nome": "Odilon Redon", "link": "https://pt.wikipedia.org/wiki/Odilon_Redon" },
+        { "nome": "Maurice Denis", "link": "https://pt.wikipedia.org/wiki/Maurice_Denis" },
+        { "nome": "Paul Gauguin", "link": "https://pt.wikipedia.org/wiki/Paul_Gauguin" },
+        { "nome": "Paul Sérusier", "link": "https://pt.wikipedia.org/wiki/Paul_S%C3%A9rusier" }
+      ],
+      "escultores": [
+        { "nome": "Max Klinger", "link": "https://pt.wikipedia.org/wiki/Max_Klinger" }
+      ],
+      "escritores": [
+        { "nome": "Alphonsus de Guimaraens", "link": "https://pt.wikipedia.org/wiki/Alphonsus_de_Guimaraens" },
+        { "nome": "Augusto dos Anjos", "link": "https://pt.wikipedia.org/wiki/Augusto_dos_Anjos" },
+        { "nome": "Camilo Pessanha", "link": "https://pt.wikipedia.org/wiki/Camilo_Pessanha" },
+        { "nome": "Charles Baudelaire", "link": "https://pt.wikipedia.org/wiki/Charles_Baudelaire" },
+        { "nome": "Cruz e Sousa", "link": "https://pt.wikipedia.org/wiki/Cruz_e_Sousa" },
+        { "nome": "Eugénio de Castro", "link": "https://pt.wikipedia.org/wiki/Eug%C3%A9nio_de_Castro" },
+        { "nome": "Jean Moréas", "link": "https://pt.wikipedia.org/wiki/Jean_Mor%C3%A9as" },
+        { "nome": "Joris-Karl Huysmans", "link": "https://pt.wikipedia.org/wiki/Joris-Karl_Huysmans" }
+      ],
+      "teatristas": [
+        { "nome": "Henrik Ibsen", "link": "https://pt.wikipedia.org/wiki/Henrik_Ibsen" },
+        { "nome": "Maurice Maeterlinck", "link": "https://pt.wikipedia.org/wiki/Maurice_Maeterlinck" }
+      ],
+      "organizações": [
+        { "nome": "Escola de Pont-Aven", "link": "https://pt.wikipedia.org/wiki/Escola_de_Pont-Aven" },
+        { "nome": "Les Nabis", "link": "https://pt.wikipedia.org/wiki/Les_Nabis" }
+      ],
+      "obras": [
+        {
+          "titulo": "O Beijo",
+          "ano": "1907-1908",
+          "artista": "Gustav Klimt",
+          "link": "https://pt.wikipedia.org/wiki/O_Beijo_(Gustav_Klimt)"
+        },
+        {
+          "titulo": "As Flores do Mal",
+          "ano": "1857",
+          "artista": "Charles Baudelaire",
+          "link": "https://pt.wikipedia.org/wiki/Les_Fleurs_du_mal"
+        },
+        {
+          "titulo": "O Pecado",
+          "ano": "1893",
+          "artista": "Franz von Stuck",
+          "link": "https://pt.wikipedia.org/wiki/O_Pecado_(pintura)"
+        },
+        {
+          "titulo": "A Ilha dos Mortos",
+          "ano": "1880",
+          "artista": "Arnold Böcklin",
+          "link": "https://pt.wikipedia.org/wiki/A_Ilha_dos_Mortos_(pintura)"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Expressionismo",
+    "id": "Q80113",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kirchner_-_Fr%C3%A4nzi_vor_geschnitztem_Stuhl.jpg/500px-Kirchner_-_Fr%C3%A4nzi_vor_geschnitztem_Stuhl.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Expressionismo",
+    "legenda": "Fränzi perante uma cadeira talhada (1910), de Ernst Ludwig Kirchner, Museu Thyssen-Bornemisza, Madrid",
+    "período": "Início do século XX - c. 1930",
+    "origem": "Alemanha",
+    "características": [
+      { "nome": "Deformação da realidade", "link": null },
+      { "nome": "Expressão emocional e subjetiva", "link": null },
+      { "nome": "Temáticas de solidão, miséria e angústia", "link": "https://pt.wikipedia.org/wiki/Angst" }
+    ],
+    "influencias": [
+      { "nome": "Gótico alemão", "link": "https://pt.wikipedia.org/wiki/Arte_g%C3%B3tica" },
+      { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
+      { "nome": "Pós-impressionismo", "link": "https://pt.wikipedia.org/wiki/P%C3%B3s-impressionismo" },
+      { "nome": "Romantismo", "link": "https://pt.wikipedia.org/wiki/Romantismo" },
+      { "nome": "Fauvismo", "link": "https://pt.wikipedia.org/wiki/Fauvismo" },
+      { "nome": "Irracionalismo", "link": "https://pt.wikipedia.org/wiki/Irracionalismo" },
+      { "nome": "Existencialismo", "link": "https://pt.wikipedia.org/wiki/Existencialismo" },
+      { "nome": "Arts & Crafts", "link": "https://pt.wikipedia.org/wiki/Arts_%26_Crafts" }
+    ],
+    "reação": [
+      { "nome": "Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" },
+      { "nome": "Naturalismo", "link": "https://pt.wikipedia.org/wiki/Naturalismo" },
+      { "nome": "Positivismo", "link": "https://pt.wikipedia.org/wiki/Positivismo" }
+    ],
+    "influenciou": [
+      { "nome": "Nova Objetividade", "link": "https://pt.wikipedia.org/wiki/Nova_Objetividade" },
+      { "nome": "Expressionismo abstrato", "link": "https://pt.wikipedia.org/wiki/Expressionismo_abstrato" },
+      { "nome": "Informalismo", "link": "https://pt.wikipedia.org/wiki/Informalismo" },
+      { "nome": "Neoexpressionismo", "link": "https://pt.wikipedia.org/wiki/Neoexpressionismo" },
+      { "nome": "Arquitetura funcionalista", "link": "https://pt.wikipedia.org/wiki/Funcionalismo_(arquitetura)" },
+      { "nome": "Arquitetura racionalista", "link": "https://pt.wikipedia.org/wiki/Arquitetura_racionalista" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "Bruno Taut", "link": "https://pt.wikipedia.org/wiki/Bruno_Taut" },
+        { "nome": "Walter Gropius", "link": "https://pt.wikipedia.org/wiki/Walter_Gropius" },
+        { "nome": "Erich Mendelsohn", "link": "https://pt.wikipedia.org/wiki/Erich_Mendelsohn" },
+        { "nome": "Hans Poelzig", "link": "https://pt.wikipedia.org/wiki/Hans_Poelzig" },
+        { "nome": "Hermann Finsterlin", "link": "https://pt.wikipedia.org/wiki/Hermann_Finsterlin" },
+        { "nome": "Fritz Höger", "link": "https://pt.wikipedia.org/wiki/Fritz_H%C3%B6ger" },
+        { "nome": "Hans Scharoun", "link": "https://pt.wikipedia.org/wiki/Hans_Scharoun" },
+        { "nome": "Rudolf Steiner", "link": "https://pt.wikipedia.org/wiki/Rudolf_Steiner" }
+      ],
+      "escultores": [
+        { "nome": "Ernst Barlach", "link": "https://pt.wikipedia.org/wiki/Ernst_Barlach" },
+        { "nome": "Wilhelm Lehmbruck", "link": "https://pt.wikipedia.org/wiki/Wilhelm_Lehmbruck" },
+        { "nome": "Käthe Kollwitz", "link": "https://pt.wikipedia.org/wiki/K%C3%A4the_Kollwitz" },
+        { "nome": "Ewald Mataré", "link": "https://pt.wikipedia.org/wiki/Ewald_Matar%C3%A9" }
+      ],
+      "pintores": [
+        { "nome": "Ernst Ludwig Kirchner", "link": "https://pt.wikipedia.org/wiki/Ernst_Ludwig_Kirchner" },
+        { "nome": "Wassily Kandinsky", "link": "https://pt.wikipedia.org/wiki/Wassily_Kandinsky" },
+        { "nome": "Franz Marc", "link": "https://pt.wikipedia.org/wiki/Franz_Marc" },
+        { "nome": "Paul Klee", "link": "https://pt.wikipedia.org/wiki/Paul_Klee" },
+        { "nome": "Edvard Munch", "link": "https://pt.wikipedia.org/wiki/Edvard_Munch" },
+        { "nome": "Amedeo Modigliani", "link": "https://pt.wikipedia.org/wiki/Amedeo_Modigliani" },
+        { "nome": "Egon Schiele", "link": "https://pt.wikipedia.org/wiki/Egon_Schiele" }
+      ],
+      "musicos": [
+        { "nome": "Arnold Schönberg", "link": "https://pt.wikipedia.org/wiki/Arnold_Sch%C3%B6nberg" },
+        { "nome": "Anton Webern", "link": "https://pt.wikipedia.org/wiki/Anton_Webern" },
+        { "nome": "Alban Berg", "link": "https://pt.wikipedia.org/wiki/Alban_Berg" }
+      ],
+      "dancarinos": [
+        { "nome": "Rudolf von Laban", "link": "https://pt.wikipedia.org/wiki/Rudolf_von_Laban" },
+        { "nome": "Mary Wigman", "link": "https://pt.wikipedia.org/wiki/Mary_Wigman" }
+      ],
+      "escritores": [
+        { "nome": "Frank Wedekind", "link": "https://pt.wikipedia.org/wiki/Frank_Wedekind" },
+        { "nome": "Georg Trakl", "link": "https://pt.wikipedia.org/wiki/Georg_Trakl" },
+        { "nome": "Heinrich Mann", "link": "https://pt.wikipedia.org/wiki/Heinrich_Mann" }
+      ],
+      "cineastas": [
+        { "nome": "Robert Wiene", "link": "https://pt.wikipedia.org/wiki/Robert_Wiene" },
+        { "nome": "Fritz Lang", "link": "https://pt.wikipedia.org/wiki/Fritz_Lang" },
+        { "nome": "F. W. Murnau", "link": "https://pt.wikipedia.org/wiki/F._W._Murnau" }
+      ],
+      "fotografos": [
+        { "nome": "August Sander", "link": "https://pt.wikipedia.org/wiki/August_Sander" },
+        { "nome": "Karl Blossfeldt", "link": "https://pt.wikipedia.org/wiki/Karl_Blossfeldt" }
+      ],
+      "organizações": [
+        { "nome": "Die Brücke", "link": "https://pt.wikipedia.org/wiki/Die_Br%C3%BCcke_(grupo_art%C3%ADstico)" },
+        { "nome": "Der Blaue Reiter", "link": "https://pt.wikipedia.org/wiki/Der_Blaue_Reiter" },
+        { "nome": "Der Sturm", "link": "https://pt.wikipedia.org/wiki/Der_Sturm" },
+        { "nome": "Arbeitsrat für Kunst", "link": "https://pt.wikipedia.org/wiki/Arbeitsrat_f%C3%BCr_Kunst" }
+      ],
+      "obras": [
+        {
+          "titulo": "O Grito",
+          "ano": "1893",
+          "artista": "Edvard Munch",
+          "link": "https://pt.wikipedia.org/wiki/O_Grito"
+        },
+        {
+          "titulo": "O Cavaleiro Azul",
+          "ano": "1903",
+          "artista": "Kandinsky",
+          "link": "https://pt.wikipedia.org/wiki/O_Cavaleiro_Azul_(Kandinsky)"
+        },
+        {
+          "titulo": "Goetheanum",
+          "ano": "1928",
+          "artista": "Rudolf Steiner",
+          "link": "https://pt.wikipedia.org/wiki/Goetheanum"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Cubismo",
+    "id": "Q42934",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Makowski_Woman_with_buckets.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Cubismo",
+    "legenda": "'Mulher com baldes' (1913), de Tadeusz Makowski",
+    "período": "1907 – década de 1920",
+    "origem": "França",
+    "características": [
+      { "nome": "Fragmentação das formas", "link": null },
+      { "nome": "Representação simultânea de múltiplos pontos de vista", "link": null },
+      { "nome": "Ruptura com a perspectiva tradicional", "link": "https://pt.wikipedia.org/wiki/Perspectiva_(gr%C3%A1fica)" },
+      { "nome": "Valorização das formas geométricas", "link": null },
+      { "nome": "Rejeição à mimesis", "link": "https://pt.wikipedia.org/wiki/Mimesis" }
+    ],
+    "influencias": [
+      { "nome": "Paul Cézanne", "link": "https://pt.wikipedia.org/wiki/Paul_C%C3%A9zanne" },
+      { "nome": "Arte africana", "link": "https://pt.wikipedia.org/wiki/Arte_de_%C3%81frica" },
+      { "nome": "Pós-impressionismo", "link": "https://pt.wikipedia.org/wiki/P%C3%B3s-impressionismo" }
+    ],
+    "reação": [
+      { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo" },
+      { "nome": "Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" },
+      { "nome": "Naturalismo", "link": "https://pt.wikipedia.org/wiki/Naturalismo" }
+    ],
+    "influenciou": [
+      { "nome": "Futurismo", "link": "https://pt.wikipedia.org/wiki/Futurismo" },
+      { "nome": "Construtivismo", "link": "https://pt.wikipedia.org/wiki/Construtivismo_russo" },
+      { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" },
+      { "nome": "Abstracionismo geométrico", "link": "https://pt.wikipedia.org/wiki/Abstracionismo_geom%C3%A9trico" },
+      { "nome": "Cubofuturismo", "link": "https://pt.wikipedia.org/wiki/Cubofuturismo" }
+    ],
+    "vertentes": [
+      { "nome": "Cubismo analítico", "link": "https://pt.wikipedia.org/wiki/Cubismo_anal%C3%ADtico" },
+      { "nome": "Cubismo sintético", "link": "https://pt.wikipedia.org/wiki/Cubismo_sint%C3%A9tico" }
+    ],
+    "artistas_e_obras": {
+      "pintores": [
+        { "nome": "Pablo Picasso", "link": "https://pt.wikipedia.org/wiki/Pablo_Picasso" },
+        { "nome": "Georges Braque", "link": "https://pt.wikipedia.org/wiki/Georges_Braque" },
+        { "nome": "Juan Gris", "link": "https://pt.wikipedia.org/wiki/Juan_Gris" },
+        { "nome": "Fernand Léger", "link": "https://pt.wikipedia.org/wiki/Fernand_L%C3%A9ger" },
+        { "nome": "Jean Metzinger", "link": "https://pt.wikipedia.org/wiki/Jean_Metzinger" },
+        { "nome": "Albert Gleizes", "link": "https://pt.wikipedia.org/wiki/Albert_Gleizes" },
+        { "nome": "Piet Mondrian", "link": "https://pt.wikipedia.org/wiki/Piet_Mondrian" }
+      ],
+      "escritores": [
+        { "nome": "Guillaume Apollinaire", "link": "https://pt.wikipedia.org/wiki/Guillaume_Apollinaire" },
+        { "nome": "Blaise Cendrars", "link": "https://pt.wikipedia.org/wiki/Blaise_Cendrars" },
+        { "nome": "Pierre Reverdy", "link": "https://pt.wikipedia.org/wiki/Pierre_Reverdy" }
+      ],
+      "escultores": [
+        { "nome": "Jacques Lipchitz", "link": "https://pt.wikipedia.org/wiki/Jacques_Lipchitz" },
+        { "nome": "Alexander Archipenko", "link": "https://pt.wikipedia.org/wiki/Alexander_Archipenko" },
+        { "nome": "Henri Laurens", "link": "https://pt.wikipedia.org/wiki/Henri_Laurens" }
+      ],
+      "arquitetos": [
+        { "nome": "Le Corbusier", "link": "https://pt.wikipedia.org/wiki/Le_Corbusier" }
+      ],
+      "obras": [
+        {
+          "titulo": "Les Demoiselles d'Avignon",
+          "ano": "1907",
+          "artista": "Picasso",
+          "link": "https://pt.wikipedia.org/wiki/Les_Demoiselles_d%27Avignon"
+        },
+        {
+          "titulo": "Guernica",
+          "ano": "1937",
+          "artista": "Picasso",
+          "link": "https://pt.wikipedia.org/wiki/Guernica_(quadro)"
+        },
+        {
+          "titulo": "Natureza-morta com Vaso de Gengibre II",
+          "ano": "1912",
+          "artista": "Mondrian",
+          "link": "https://pt.wikipedia.org/wiki/Natureza-morta_com_Vaso_de_Gengibre_II"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Naturalismo",
+    "id": "Q106414",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Jos%C3%A9_J%C3%BAlio_Sousa_Pinto_-_Barco_desaparecido.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Naturalismo",
+    "legenda": "Óleo sobre tela 'Barco desaparecido' de José Júlio de Souza Pinto (c. 1890)",
+    "período": "Final do século XIX",
+    "origem": "França",
+    "características": [
+      { "nome": "Observação científica da realidade", "link": null },
+      { "nome": "Detalhamento minucioso da vida cotidiana", "link": null },
+      { "nome": "Determinismo social e biológico", "link": "https://pt.wikipedia.org/wiki/Determinismo" },
+      { "nome": "Descrição objetiva de ambientes e comportamentos", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo" },
+      { "nome": "Naturalismo filosófico", "link": "https://pt.wikipedia.org/wiki/Naturalismo_(filosofia)" },
+      { "nome": "Romantismo", "link": "https://pt.wikipedia.org/wiki/Romantismo" },
+      { "nome": "Positivismo", "link": "https://pt.wikipedia.org/wiki/Positivismo" }
+    ],
+    "reação": [
+      { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
+      { "nome": "Decadentismo", "link": "https://pt.wikipedia.org/wiki/Decadentismo" }
+    ],
+    "vertentes": [
+      { "nome": "Pintura realista", "link": "https://pt.wikipedia.org/wiki/Pintura_do_realismo" }
+    ],
+    "artistas_e_obras": {
+      "escultores": [
+        { "nome": "Auguste Rodin", "link": "https://pt.wikipedia.org/wiki/Auguste_Rodin" }
+      ],
+      "pintores": [
+        { "nome": "Jean-François Millet", "link": "https://pt.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet" },
+        { "nome": "Gustave Courbet", "link": "https://pt.wikipedia.org/wiki/Gustave_Courbet" }
+      ],
+      "escritores": [
+        { "nome": "Émile Zola", "link": "https://pt.wikipedia.org/wiki/%C3%89mile_Zola" },
+        { "nome": "Guy de Maupassant", "link": "https://pt.wikipedia.org/wiki/Guy_de_Maupassant" },
+        { "nome": "Aluísio Azevedo", "link": "https://pt.wikipedia.org/wiki/Alu%C3%ADsio_Azevedo" },
+        { "nome": "Raul Pompeia", "link": "https://pt.wikipedia.org/wiki/Raul_Pompeia" }
+      ],
+      "obras": [
+        {
+          "titulo": "Germinal",
+          "ano": "1885",
+          "artista": "Zola",
+          "link": "https://pt.wikipedia.org/wiki/Germinal_(romance)"
+        },
+        {
+          "titulo": "O Cortiço",
+          "ano": "1890",
+          "artista": "Aluísio Azevedo",
+          "link": "https://pt.wikipedia.org/wiki/O_Corti%C3%A7o"
+        },
+        {
+          "titulo": "A Passagem do gado",
+          "ano": "1887",
+          "artista": "Cristino da Silva",
+          "link": "https://pt.wikipedia.org/wiki/A_Passagem_do_gado_(Cristino_da_Silva)"
+        },
+        {
+          "titulo": "A Volta do mercado",
+          "ano": "1886",
+          "artista": "Silva Porto",
+          "link": "https://pt.wikipedia.org/wiki/A_Volta_do_mercado_(Silva_Porto)"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Art Déco",
+    "id": "Q173276",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/9f/Lempicka_musician.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Art_d%C3%A9co",
+    "legenda": "'La Musicienne' (1929), de Tamara de Lempicka.",
+    "período": "c. 1910–1939",
+    "origem": "França",
+    "características": [
+      { "nome": "Ênfase em formas geométricas", "link": "https://pt.wikipedia.org/wiki/Forma_geom%C3%A9trica" },
+      { "nome": "Uso de materiais ricos e nobres", "link": null },
+      { "nome": "Linhas estilizadas e design limpo", "link": null },
+      { "nome": "Fé no progresso social e tecnológico", "link": "https://pt.wikipedia.org/wiki/Primeiro_p%C3%B3s-guerra" }
+    ],
+    "influencias": [
+      { "nome": "Art Nouveau", "link": "https://pt.wikipedia.org/wiki/Art_Nouveau" },
+      { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" },
+      { "nome": "Futurismo", "link": "https://pt.wikipedia.org/wiki/Futurismo" },
+      { "nome": "Fauvismo", "link": "https://pt.wikipedia.org/wiki/Fauvismo" },
+      { "nome": "Construtivismo", "link": "https://pt.wikipedia.org/wiki/Construtivismo_russo" },
+      { "nome": "Arte egípcia", "link": "https://pt.wikipedia.org/wiki/Arte_eg%C3%ADpcia_antiga" },
+      { "nome": "Arte asteca", "link": "https://pt.wikipedia.org/wiki/Arte_asteca" },
+      { "nome": "Arte africana", "link": "https://pt.wikipedia.org/wiki/Arte_de_%C3%81frica" }
+    ],
+    "reação": [
+      { "nome": "Art Nouveau", "link": "https://pt.wikipedia.org/wiki/Art_Nouveau" }
+    ],
+    "influenciou": [
+      { "nome": "Streamline Moderne", "link": "https://pt.wikipedia.org/wiki/Streamline_Moderne" },
+      { "nome": "Kitsch", "link": "https://pt.wikipedia.org/wiki/Kitsch" },
+      { "nome": "Cinema de Hollywood", "link": "https://pt.wikipedia.org/wiki/Cinema_dos_Estados_Unidos" }
+    ],
+    "artistas_e_obras": {
+      "pintores": [
+        { "nome": "Tamara de Lempicka", "link": "https://pt.wikipedia.org/wiki/Tamara_de_Lempicka" }
+      ],
+      "escultores": [
+        { "nome": "René Lalique", "link": "https://pt.wikipedia.org/wiki/Ren%C3%A9_Lalique" },
+        { "nome": "Paul Landowski", "link": "https://pt.wikipedia.org/wiki/Paul_Landowski" },
+        { "nome": "Gheorghe Leonida", "link": "https://pt.wikipedia.org/wiki/Gheorghe_Leonida" }
+      ],
+      "arquitetos": [
+        { "nome": "Auguste Perret", "link": "https://pt.wikipedia.org/wiki/Auguste_Perret" },
+        { "nome": "William Van Alen", "link": "https://pt.wikipedia.org/wiki/William_Van_Alen" },
+        { "nome": "Albert Caquot", "link": "https://pt.wikipedia.org/wiki/Albert_Caquot" }
+      ],
+      "designers": [
+        { "nome": "Eileen Gray", "link": "https://pt.wikipedia.org/wiki/Eileen_Gray" },
+        { "nome": "Gio Ponti", "link": "https://pt.wikipedia.org/wiki/Gio_Ponti" }
+      ],
+      "joalheiros": [
+        { "nome": "Cartier", "link": "https://pt.wikipedia.org/wiki/Cartier_(joalheria)" },
+        { "nome": "Van Cleef & Arpels", "link": "https://pt.wikipedia.org/wiki/Van_Cleef_%26_Arpels" },
+        { "nome": "Jean Fouquet", "link": "https://pt.wikipedia.org/wiki/Jean_Fouquet_(joalheiro)" }
+      ],
+      "organizações": [
+        { "nome": "Exposição Internacional de Artes Decorativas e Industriais Modernas", "link": "https://pt.wikipedia.org/wiki/Exposi%C3%A7%C3%A3o_Internacional_de_Artes_Decorativas_e_Industriais_Modernas" }
+      ],
+      "obras": [
+        {
+          "titulo": "Edifício Chrysler",
+          "ano": "1930",
+          "artista": "Van Alen",
+          "link": "https://pt.wikipedia.org/wiki/Edif%C3%ADcio_Chrysler"
+        },
+        {
+          "titulo": "Empire State Building",
+          "ano": "1931",
+          "artista": "Shreve, Lamb & Harmon",
+          "link": "https://pt.wikipedia.org/wiki/Empire_State_Building"
+        },
+        {
+          "titulo": "Cristo Redentor",
+          "ano": "1931",
+          "artista": "Caquot, Landowski, Leonida",
+          "link": "https://pt.wikipedia.org/wiki/Cristo_Redentor"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Futurismo",
+    "id": "Q131221",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/States_of_Mind-_The_Farewells_by_Umberto_Boccioni%2C_1911.jpeg/960px-States_of_Mind-_The_Farewells_by_Umberto_Boccioni%2C_1911.jpeg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Futurismo",
+    "legenda": "'Estados de Espírito I: As Despedidas' (1911), pintura de Umberto Boccioni",
+    "período": "1909 – década de 1930",
+    "origem": "Itália",
+    "características": [
+      { "nome": "Exaltação da velocidade, máquina e vida moderna", "link": null },
+      { "nome": "Dinamismo e rejeição do passado", "link": null },
+      { "nome": "Glorificação da guerra e do progresso tecnológico", "link": null },
+      { "nome": "Uso de cores intensas e linhas diagonais", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" },
+      { "nome": "Divisionismo", "link": "https://pt.wikipedia.org/wiki/Divisionismo" },
+      { "nome": "Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" }
+    ],
+    "reação": [
+      { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
+      { "nome": "Romantismo", "link": "https://pt.wikipedia.org/wiki/Romantismo" }
+    ],
+    "influenciou": [
+      { "nome": "Dadaísmo", "link": "https://pt.wikipedia.org/wiki/Dada%C3%ADsmo" },
+      { "nome": "Surrealismo", "link": "https://pt.wikipedia.org/wiki/Surrealismo" },
+      { "nome": "Concretismo", "link": "https://pt.wikipedia.org/wiki/Concretismo" },
+      { "nome": "Vorticismo", "link": "https://pt.wikipedia.org/wiki/Vorticismo" },
+      { "nome": "Arquitetura construtivista", "link": "https://pt.wikipedia.org/wiki/Arquitetura_construtivista" },
+      { "nome": "Cyberpunk", "link": "https://pt.wikipedia.org/wiki/Cyberpunk" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "Antonio Sant'Elia", "link": "https://pt.wikipedia.org/wiki/Antonio_Sant%27Elia" }
+      ],
+      "escultores": [
+        { "nome": "Umberto Boccioni", "link": "https://pt.wikipedia.org/wiki/Umberto_Boccioni" }
+      ],
+      "pintores": [
+        { "nome": "Giacomo Balla", "link": "https://pt.wikipedia.org/wiki/Giacomo_Balla" },
+        { "nome": "Gino Severini", "link": "https://pt.wikipedia.org/wiki/Gino_Severini" },
+        { "nome": "Carlo Carrà", "link": "https://pt.wikipedia.org/wiki/Carlo_Carr%C3%A0" }
+      ],
+      "musicos": [
+        { "nome": "Luigi Russolo", "link": "https://pt.wikipedia.org/wiki/Luigi_Russolo" }
+      ],
+      "escritores": [
+        { "nome": "Filippo Tommaso Marinetti", "link": "https://pt.wikipedia.org/wiki/Filippo_Tommaso_Marinetti" }
+      ],
+      "cineastas": [
+        { "nome": "Anton Giulio Bragaglia", "link": "https://pt.wikipedia.org/wiki/Anton_Giulio_Bragaglia" }
+      ],
+      "teatristas": [
+        { "nome": "Filippo Tommaso Marinetti", "link": "https://pt.wikipedia.org/wiki/Filippo_Tommaso_Marinetti" }
+      ],
+      "fotografos": [
+        { "nome": "Anton Giulio Bragaglia", "link": "https://pt.wikipedia.org/wiki/Anton_Giulio_Bragaglia" }
+      ],
+      "obras": [
+        {
+          "titulo": "Formas Únicas de Continuidade no Espaço",
+          "ano": "1913",
+          "artista": "Umberto Boccioni",
+          "link": "https://pt.wikipedia.org/wiki/Formas_%C3%9Anicas_de_Continuidade_no_Espa%C3%A7o"
+        },
+        {
+          "titulo": "Vitória Sobre o Sol",
+          "ano": "1913",
+          "artista": "",
+          "link": "https://pt.wikipedia.org/wiki/Vit%C3%B3ria_Sobre_o_Sol"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Pop Art",
+    "id": "Q134147",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/AMSTRDM_240217_DFace_01.jpg/960px-AMSTRDM_240217_DFace_01.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Pop_art",
+    "legenda": "Grafitti '…I Feel So… Incomplete' (2017), de D*Face em Amsterdã",
+    "período": "Década de 1950 – década de 1970",
+    "origem": "Reino Unido",
+    "características": [
+      { "nome": "Uso de imagens da cultura de massa e publicidade", "link": null },
+      { "nome": "Fusão entre arte erudita e cultura popular", "link": null },
+      { "nome": "Ironia, reprodutibilidade e crítica ao consumo", "link": null },
+      { "nome": "Valorização do design gráfico e cores artificiais", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Dadaísmo", "link": "https://pt.wikipedia.org/wiki/Dada%C3%ADsmo" },
+      { "nome": "Surrealismo", "link": "https://pt.wikipedia.org/wiki/Surrealismo" },
+      { "nome": "Expressionismo abstrato", "link": "https://pt.wikipedia.org/wiki/Expressionismo_abstrato" },
+      { "nome": "Design gráfico", "link": "https://pt.wikipedia.org/wiki/Design_gr%C3%A1fico" },
+      { "nome": "Publicidade", "link": "https://pt.wikipedia.org/wiki/Publicidade" },
+      { "nome": "Kustom Kulture", "link": "https://pt.wikipedia.org/wiki/Kustom_Kulture" },
+      { "nome": "Mod", "link": "https://pt.wikipedia.org/wiki/Mod" }
+    ],
+    "reação": [
+      { "nome": "Expressionismo abstrato", "link": "https://pt.wikipedia.org/wiki/Expressionismo_abstrato" },
+      { "nome": "Formalismo", "link": "https://pt.wikipedia.org/wiki/Formalismo_(arte)" }
+    ],
+    "influenciou": [
+      { "nome": "Arte conceitual", "link": "https://pt.wikipedia.org/wiki/Arte_conceitual" },
+      { "nome": "Nova figuração", "link": "https://pt.wikipedia.org/wiki/Nova_figura%C3%A7%C3%A3o" },
+      { "nome": "Neopop", "link": "https://pt.wikipedia.org/wiki/Neopop" },
+      { "nome": "Street art", "link": "https://pt.wikipedia.org/wiki/Street_art" },
+      { "nome": "Arte digital", "link": "https://pt.wikipedia.org/wiki/Arte_digital" }
+    ],
+    "vertentes": [
+      { "nome": "Neopop", "link": "https://pt.wikipedia.org/wiki/Neopop" },
+      { "nome": "Nova figuração", "link": "https://pt.wikipedia.org/wiki/Nova_figura%C3%A7%C3%A3o" }
+    ],
+    "artistas_e_obras": {
+      "pintores": [
+        { "nome": "Richard Hamilton", "link": "https://pt.wikipedia.org/wiki/Richard_Hamilton_(artista)" },
+        { "nome": "Eduardo Paolozzi", "link": "https://pt.wikipedia.org/wiki/Eduardo_Paolozzi" },
+        { "nome": "Andy Warhol", "link": "https://pt.wikipedia.org/wiki/Andy_Warhol" },
+        { "nome": "Roy Lichtenstein", "link": "https://pt.wikipedia.org/wiki/Roy_Lichtenstein" },
+        { "nome": "Tom Wesselmann", "link": "https://pt.wikipedia.org/wiki/Tom_Wesselmann" },
+        { "nome": "James Rosenquist", "link": "https://pt.wikipedia.org/wiki/James_Rosenquist" },
+        { "nome": "David Hockney", "link": "https://pt.wikipedia.org/wiki/David_Hockney" }
+      ],
+      "musicos": [
+        { "nome": "The Velvet Underground", "link": "https://pt.wikipedia.org/wiki/The_Velvet_Underground" },
+        { "nome": "David Bowie", "link": "https://pt.wikipedia.org/wiki/David_Bowie" },
+        { "nome": "The Beatles", "link": "https://pt.wikipedia.org/wiki/The_Beatles" }
+      ],
+      "escultores": [
+        { "nome": "Claes Oldenburg", "link": "https://pt.wikipedia.org/wiki/Claes_Oldenburg" },
+        { "nome": "George Segal", "link": "https://pt.wikipedia.org/wiki/George_Segal" },
+        { "nome": "Edward Kienholz", "link": "https://pt.wikipedia.org/wiki/Edward_Kienholz" }
+      ],
+      "designers": [
+        { "nome": "Peter Blake", "link": "https://pt.wikipedia.org/wiki/Peter_Blake" },
+        { "nome": "Paul Rand", "link": "https://pt.wikipedia.org/wiki/Paul_Rand" }
+      ],
+      "cineastas": [
+        { "nome": "Andy Warhol", "link": "https://pt.wikipedia.org/wiki/Andy_Warhol" },
+        { "nome": "Kenneth Anger", "link": "https://pt.wikipedia.org/wiki/Kenneth_Anger" }
+      ],
+      "fotografos": [
+        { "nome": "Dennis Hopper", "link": "https://pt.wikipedia.org/wiki/Dennis_Hopper" }
+      ],
+      "obras": [
+        {
+          "titulo": "Marilyn Diptych",
+          "ano": "1962",
+          "artista": "Andy Warhol",
+          "link": "https://pt.wikipedia.org/wiki/Marilyn_Diptych"
+        },
+        {
+          "titulo": "Exploding Plastic Inevitable",
+          "ano": "1966–67",
+          "artista": "Andy Warhol e The Velvet Underground",
+          "link": "https://pt.wikipedia.org/wiki/Exploding_Plastic_Inevitable"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Arte Românica",
+    "id": "Q46805",
+    "tipo": "período",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/PM_69092_B_Nivelles.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Arte_rom%C3%A2nica",
+    "legenda": "Fachada da Igreja de Santa Gertrude, Nivelles.",
+    "período": "c. 1000 – 1150",
+    "origem": "Europa",
+    "características": [
+      { "nome": "Construções maciças", "link": null },
+      { "nome": "Arcos de volta perfeita", "link": "https://pt.wikipedia.org/wiki/Arco_de_volta_perfeita" },
+      { "nome": "Abóbadas de berço", "link": "https://pt.wikipedia.org/wiki/Ab%C3%B3bada_de_ber%C3%A7o" },
+      { "nome": "Esculturas simbólicas e pinturas didático-religiosas", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Arte paleocristã", "link": "https://pt.wikipedia.org/wiki/Arte_paleocrist%C3%A3" },
+      { "nome": "Arte bizantina", "link": "https://pt.wikipedia.org/wiki/Arte_bizantina" },
+      { "nome": "Arte carolíngia", "link": "https://pt.wikipedia.org/wiki/Arte_carol%C3%ADngia" },
+      { "nome": "Arte insular", "link": "https://pt.wikipedia.org/wiki/Arte_hiberno-sax%C3%B3nica" },
+      { "nome": "Arte otoniana", "link": "https://pt.wikipedia.org/wiki/Arte_otoniana" },
+      { "nome": "Cristianismo", "link": "https://pt.wikipedia.org/wiki/Cristianismo" },
+      { "nome": "Monasticismo", "link": "https://pt.wikipedia.org/wiki/Monasticismo" },
+      { "nome": "Peregrinações", "link": "https://pt.wikipedia.org/wiki/Peregrina%C3%A7%C3%A3o" }
+    ],
+    "reação": [
+      { "nome": "Islamismo", "link": "https://pt.wikipedia.org/wiki/Islamismo" }
+    ],
+    "influenciou": [
+      { "nome": "Arte gótica", "link": "https://pt.wikipedia.org/wiki/Arte_g%C3%B3tica" },
+      { "nome": "Arquitetura neorromânica", "link": "https://pt.wikipedia.org/wiki/Arquitetura_neorrom%C3%A2nica" }
+    ],
+    "vertentes": [
+      { "nome": "Arquitetura românica", "link": "https://pt.wikipedia.org/wiki/Arquitetura_rom%C3%A2nica" },
+      { "nome": "Escultura românica", "link": "https://pt.wikipedia.org/wiki/Escultura_do_rom%C3%A2nico" },
+      { "nome": "Pintura românica", "link": "https://pt.wikipedia.org/wiki/Pintura_do_rom%C3%A2nico" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "Lanfranco", "link": "https://pt.wikipedia.org/wiki/Lanfranco_(arquiteto)" }
+      ],
+      "escultores": [
+        { "nome": "Rainer de Huy", "link": "https://pt.wikipedia.org/wiki/Rainer_de_Huy" }
+      ],
+      "pintores": [
+        { "nome": "Berlinghiero Berlinghieri", "link": "https://pt.wikipedia.org/wiki/Berlinghiero_Berlinghieri" },
+        { "nome": "Herrad de Landsberg", "link": "https://pt.wikipedia.org/wiki/Herrad_de_Landsberg" },
+        { "nome": "Mestre de Taüll", "link": "https://pt.wikipedia.org/wiki/Mestre_de_Ta%C3%BCll" }
+      ],
+      "escritores": [
+        { "nome": "Hildegarda de Bingen", "link": "https://pt.wikipedia.org/wiki/Hildegarda_de_Bingen" }
+      ],
+      "joalheiros": [
+        { "nome": "Nicolas de Verdun", "link": "https://pt.wikipedia.org/wiki/Nicolas_de_Verdun" }
+      ],
+      "obras": [
+        {
+          "titulo": "Basílica de Saint-Sernin de Toulouse",
+          "ano": "séc. XI–XII",
+          "artista": "",
+          "link": "https://pt.wikipedia.org/wiki/Bas%C3%ADlica_de_Saint-Sernin_de_Toulouse"
+        },
+        {
+          "titulo": "Catedral de Santiago de Compostela",
+          "ano": "c. 1112",
+          "artista": "",
+          "link": "https://pt.wikipedia.org/wiki/Catedral_de_Santiago_de_Compostela"
+        },
+        {
+          "titulo": "Torre de Pisa",
+          "ano": "c. 1174",
+          "artista": "",
+          "link": "https://pt.wikipedia.org/wiki/Torre_de_Pisa"
+        },
+        {
+          "titulo": "Relicário dos Três Reis Magos",
+          "ano": "c. 1200",
+          "artista": "",
+          "link": "https://pt.wikipedia.org/wiki/Relic%C3%A1rio_dos_Tr%C3%AAs_Reis_Magos"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Arte da Grécia Antiga",
+    "id": "Q1747618",
+    "tipo": "período",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/V%C3%A9nus_de_Milo_-_Mus%C3%A9e_du_Louvre_AGER_LL_299_%3B_N_527_%3B_Ma_399.jpg/500px-V%C3%A9nus_de_Milo_-_Mus%C3%A9e_du_Louvre_AGER_LL_299_%3B_N_527_%3B_Ma_399.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Arte_da_Gr%C3%A9cia_Antiga",
+    "legenda": "Estátua Vênus de Milo (c. 130–100 a.C.), atribuída a Alexandre de Antioquia",
+    "período": "c. 1100 a.C. – 31 a.C.",
+    "origem": "Grécia Antiga",
+    "características": [
+      { "nome": "Produzida entre os períodos geométrico e helenístico", "link": null },
+      { "nome": "Busca da harmonia, proporção, equilíbrio e idealização da forma humana", "link": null },
+      { "nome": "Integração de valores de racionalidade e beleza ideal", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Arte minoica", "link": "https://pt.wikipedia.org/wiki/Arte_minoica" },
+      { "nome": "Arte micênica", "link": "https://pt.wikipedia.org/wiki/Arte_mic%C3%AAnica" },
+      { "nome": "Arte do Antigo Egito", "link": "https://pt.wikipedia.org/wiki/Arte_do_Antigo_Egito" }
+    ],
+    "reação": [],
+    "influenciou": [
+      { "nome": "Arte da Roma Antiga", "link": "https://pt.wikipedia.org/wiki/Arte_da_Roma_Antiga" },
+      { "nome": "Renascentismo", "link": "https://pt.wikipedia.org/wiki/Renascimento" },
+      { "nome": "Classicismo", "link": "https://pt.wikipedia.org/wiki/Classicismo" },
+      { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" }
+    ],
+    "vertentes": [
+      { "nome": "Período geométrico", "link": "https://pt.wikipedia.org/wiki/Per%C3%ADodo_geom%C3%A9trico" },
+      { "nome": "Período arcaico", "link": "https://pt.wikipedia.org/wiki/Escultura_da_Gr%C3%A9cia_arcaica" },
+      { "nome": "Período clássico", "link": "https://pt.wikipedia.org/wiki/Gr%C3%A9cia_Cl%C3%A1ssica" },
+      { "nome": "Período helenístico", "link": "https://pt.wikipedia.org/wiki/Per%C3%ADodo_helen%C3%ADstico" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "Ictinos", "link": "https://pt.wikipedia.org/wiki/Ictinos" },
+        { "nome": "Calícrates", "link": "https://pt.wikipedia.org/wiki/Cal%C3%ADcrates" },
+        { "nome": "Mnesicles", "link": "https://pt.wikipedia.org/wiki/Mnesicles" }
+      ],
+      "escultores": [
+        { "nome": "Alexandre de Antioquia", "link": "https://pt.wikipedia.org/wiki/Alexandre_de_Antioquia" },
+        { "nome": "Fídias", "link": "https://pt.wikipedia.org/wiki/F%C3%ADdias" },
+        { "nome": "Míron", "link": "https://pt.wikipedia.org/wiki/M%C3%ADron" },
+        { "nome": "Policleto", "link": "https://pt.wikipedia.org/wiki/Policleto" },
+        { "nome": "Praxiteles", "link": "https://pt.wikipedia.org/wiki/Praxiteles" },
+        { "nome": "Escopas de Paros", "link": "https://pt.wikipedia.org/wiki/Escopas_de_Paros" }
+      ],
+      "pintores": [
+        { "nome": "Apeles", "link": "https://pt.wikipedia.org/wiki/Apeles" },
+        { "nome": "Zêuxis", "link": "https://pt.wikipedia.org/wiki/Z%C3%AAuxis" }
+      ],
+      "escritores": [
+        { "nome": "Homero", "link": "https://pt.wikipedia.org/wiki/Homero" },
+        { "nome": "Hesíodo", "link": "https://pt.wikipedia.org/wiki/Hes%C3%ADodo" },
+        { "nome": "Esopo", "link": "https://pt.wikipedia.org/wiki/Esopo" }
+      ],
+      "teatristas": [
+        { "nome": "Ésquilo", "link": "https://pt.wikipedia.org/wiki/%C3%89squilo" },
+        { "nome": "Sófocles", "link": "https://pt.wikipedia.org/wiki/S%C3%B3focles" },
+        { "nome": "Eurípides", "link": "https://pt.wikipedia.org/wiki/Eur%C3%ADpides" },
+        { "nome": "Aristófanes", "link": "https://pt.wikipedia.org/wiki/Arist%C3%B3fanes" }
+      ],
+      "obras": [
+        {
+          "titulo": "Partenon",
+          "ano": "447–432 a.C.",
+          "artista": "Ictinos e Calícrates",
+          "link": "https://pt.wikipedia.org/wiki/Partenon"
+        },
+        {
+          "titulo": "Discóbolo",
+          "ano": "c. 450 a.C.",
+          "artista": "Míron",
+          "link": "https://pt.wikipedia.org/wiki/Disc%C3%B3bolo"
+        },
+        {
+          "titulo": "Afrodite de Cnido",
+          "ano": "c. 360 a.C.",
+          "artista": "Praxiteles",
+          "link": "https://pt.wikipedia.org/wiki/Afrodite_de_Cnido"
+        },
+        {
+          "titulo": "Laocoonte e seus filhos",
+          "ano": "c. 200 a.C.",
+          "artista": "Agesandro, Atenodoro, Polidoro de Rodes",
+          "link": "https://pt.wikipedia.org/wiki/Grupo_de_Laocoonte"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Arte da Roma Antiga",
+    "id": "Q3354732",
+    "tipo": "período",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/500px-Augustus_of_Prima_Porta.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Arte_da_Roma_Antiga",
+    "legenda": "Augusto de Prima Porta (início do século I d.C.)",
+    "período": "c. 509 a.C. – 476 d.C.",
+    "origem": "República Romana",
+    "características": [
+      { "nome": "Assimilação e reelaboração da arte grega e etrusca", "link": null },
+      { "nome": "Busca de realismo retratístico e monumentalidade", "link": null },
+      { "nome": "Forte função propagandística", "link": null },
+      { "nome": "Engloba escultura, pintura, mosaico e arquitetura", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Arte etrusca", "link": "https://pt.wikipedia.org/wiki/Arte_etrusca" },
+      { "nome": "Arte da Grécia Antiga", "link": "https://pt.wikipedia.org/wiki/Arte_da_Gr%C3%A9cia_Antiga" },
+      { "nome": "Arte helenística", "link": "https://pt.wikipedia.org/wiki/Arte_helen%C3%ADstica" }
+    ],
+    "reação": [],
+    "influenciou": [
+      { "nome": "Arte bizantina", "link": "https://pt.wikipedia.org/wiki/Arte_bizantina" },
+      { "nome": "Arte românica", "link": "https://pt.wikipedia.org/wiki/Arte_rom%C3%A2nica" },
+      { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" }
+    ],
+    "vertentes": [
+      { "nome": "Escultura da Roma Antiga", "link": "https://pt.wikipedia.org/wiki/Escultura_da_Roma_Antiga" },
+      { "nome": "Pintura da Roma Antiga", "link": "https://pt.wikipedia.org/wiki/Pintura_da_Roma_Antiga" },
+      { "nome": "Música da Roma Antiga", "link": "https://pt.wikipedia.org/wiki/M%C3%BAsica_da_Roma_Antiga" },
+      { "nome": "Arquitetura da Roma Antiga", "link": "https://pt.wikipedia.org/wiki/Arquitetura_da_Roma_Antiga" },
+      { "nome": "Literatura latina", "link": "https://pt.wikipedia.org/wiki/Literatura_latina" },
+      { "nome": "Teatro da Roma Antiga", "link": "https://pt.wikipedia.org/wiki/Teatro_da_Roma_Antiga" }
+    ],
+    "artistas_e_obras": {
+      "arquitetos": [
+        { "nome": "Apolodoro de Damasco", "link": "https://pt.wikipedia.org/wiki/Apolodoro_de_Damasco" },
+        { "nome": "Vitrúvio", "link": "https://pt.wikipedia.org/wiki/Vitr%C3%BAvio" }
+      ],
+      "escultores": [
+        { "nome": "Pasíteles", "link": "https://pt.wikipedia.org/wiki/Pas%C3%ADteles" },
+        { "nome": "Agasias, filho de Menófilo", "link": "https://pt.wikipedia.org/wiki/Agasias,_filho_de_Men%C3%B3filo" }
+      ],
+      "pintores": [
+        { "nome": "Caio Fábio Pictor", "link": "https://pt.wikipedia.org/wiki/Caio_F%C3%A1bio_Pictor_(pintor)" },
+        { "nome": "Quinto Pédio", "link": "https://pt.wikipedia.org/wiki/Quinto_P%C3%A9dio_(pintor_surdo)" }
+      ],
+      "escritores": [
+        { "nome": "Virgílio", "link": "https://pt.wikipedia.org/wiki/Virg%C3%ADlio" },
+        { "nome": "Horácio", "link": "https://pt.wikipedia.org/wiki/Hor%C3%A1cio" },
+        { "nome": "Ovídio", "link": "https://pt.wikipedia.org/wiki/Ov%C3%ADdio" },
+        { "nome": "Cícero", "link": "https://pt.wikipedia.org/wiki/C%C3%ADcero" },
+        { "nome": "Tito Lívio", "link": "https://pt.wikipedia.org/wiki/Tito_L%C3%ADvio" },
+        { "nome": "Tácito", "link": "https://pt.wikipedia.org/wiki/T%C3%A1cito" }
+      ],
+      "teatristas": [
+        { "nome": "Plauto", "link": "https://pt.wikipedia.org/wiki/Plauto" },
+        { "nome": "Terêncio", "link": "https://pt.wikipedia.org/wiki/Ter%C3%AAncio" },
+        { "nome": "Sêneca", "link": "https://pt.wikipedia.org/wiki/S%C3%AAnica" }
+      ],
+      "obras": [
+        {
+          "titulo": "Augusto de Prima Porta",
+          "ano": "séc. I d.C.",
+          "artista": "Desconhecido",
+          "link": "https://pt.wikipedia.org/wiki/Augusto_de_Prima_Porta"
+        },
+        {
+          "titulo": "Ara Pacis",
+          "ano": "13–9 a.C.",
+          "artista": "Desconhecido",
+          "link": "https://pt.wikipedia.org/wiki/Ara_Pacis"
+        },
+        {
+          "titulo": "Coluna de Trajano",
+          "ano": "113 d.C.",
+          "artista": "Desconhecido",
+          "link": "https://pt.wikipedia.org/wiki/Coluna_de_Trajano"
+        },
+        {
+          "titulo": "Panteão de Roma",
+          "ano": "c. 118–125 d.C.",
+          "artista": "Desconhecido",
+          "link": "https://pt.wikipedia.org/wiki/Pante%C3%A3o_de_Roma"
+        },
+        {
+          "titulo": "Vaso de Portland",
+          "ano": "c. 5-25 d.C.",
+          "artista": "Desconhecido",
+          "link": "https://pt.wikipedia.org/wiki/Vaso_de_Portland"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Dadaísmo",
+    "id": "Q6034",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg/500px-Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Dada%C3%ADsmo",
+    "legenda": "Fonte (1917), de Marcel Duchamp; fotografia de Alfred Stieglitz",
+    "período": "1916 – c. 1925",
+    "origem": "Suíça",
+    "características": [
+      { "nome": "Expressão do absurdo e da irracionalidade", "link": "https://pt.wikipedia.org/wiki/Absurdismo" },
+      { "nome": "Protesto antiburguês e anticapitalista", "link": "https://pt.wikipedia.org/wiki/Anticapitalismo" },
+      { "nome": "Publicação do Manifesto Dadaísta", "link": "https://pt.wikipedia.org/wiki/Manifesto_Dada%C3%ADsta" }
+    ],
+    "influencias": [
+      { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" },
+      { "nome": "Absurdismo", "link": "https://pt.wikipedia.org/wiki/Absurdismo" },
+      { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" },
+      { "nome": "Futurismo", "link": "https://pt.wikipedia.org/wiki/Futurismo" },
+      { "nome": "Esquerdismo", "link": "https://pt.wikipedia.org/wiki/Esquerda_(pol%C3%ADtica)" }
+    ],
+    "reação": [
+      { "nome": "Primeira Guerra Mundial", "link": "https://pt.wikipedia.org/wiki/Primeira_Guerra_Mundial" },
+      { "nome": "Esteticismo capitalista", "link": "https://pt.wikipedia.org/wiki/Esteticismo" }
+    ],
+    "influenciou": [
+      { "nome": "Surrealismo", "link": "https://pt.wikipedia.org/wiki/Surrealismo" },
+      { "nome": "Nouveau réalisme", "link": "https://pt.wikipedia.org/wiki/Nouveau_r%C3%A9alisme" },
+      { "nome": "Pop art", "link": "https://pt.wikipedia.org/wiki/Pop_art" },
+      { "nome": "Fluxus", "link": "https://pt.wikipedia.org/wiki/Fluxus" }
+    ],
+    "vertentes": [],
+    "artistas_e_obras": {
+      "pintores": [
+        { "nome": "Francis Picabia", "link": "https://pt.wikipedia.org/wiki/Francis_Picabia" },
+        { "nome": "Hannah Höch", "link": "https://pt.wikipedia.org/wiki/Hannah_H%C3%B6ch" },
+        { "nome": "Raoul Hausmann", "link": "https://pt.wikipedia.org/wiki/Raoul_Hausmann" },
+        { "nome": "Marcel Duchamp", "link": "https://pt.wikipedia.org/wiki/Marcel_Duchamp" }
+      ],
+      "escultores": [
+        { "nome": "Hans Arp", "link": "https://pt.wikipedia.org/wiki/Hans_Arp" },
+        { "nome": "Marcel Duchamp", "link": "https://pt.wikipedia.org/wiki/Marcel_Duchamp" }
+      ],
+      "dancarinos": [
+        { "nome": "Sophie Taeuber-Arp", "link": "https://pt.wikipedia.org/wiki/Sophie_Taeuber-Arp" }
+      ],
+      "escritores": [
+        { "nome": "Tristan Tzara", "link": "https://pt.wikipedia.org/wiki/Tristan_Tzara" },
+        { "nome": "Hugo Ball", "link": "https://pt.wikipedia.org/wiki/Hugo_Ball" },
+        { "nome": "Hans Arp", "link": "https://pt.wikipedia.org/wiki/Hans_Arp" }
+      ],
+      "cineastas": [
+        { "nome": "Man Ray", "link": "https://pt.wikipedia.org/wiki/Man_Ray" }
+      ],
+      "fotografos": [
+        { "nome": "Hannah Höch", "link": "https://pt.wikipedia.org/wiki/Hannah_H%C3%B6ch" }
+      ],
+      "organizações": [
+        { "nome": "Cabaret Voltaire", "link": "https://pt.wikipedia.org/wiki/Cabaret_Voltaire" }
+      ],
+      "obras": [
+        {
+          "titulo": "Fonte",
+          "ano": "1917",
+          "artista": "Marcel Duchamp",
+          "link": "https://pt.wikipedia.org/wiki/Fonte_(Duchamp)"
+        },
+        {
+          "titulo": "L.H.O.O.Q.",
+          "ano": "1919",
+          "artista": "Marcel Duchamp",
+          "link": "https://pt.wikipedia.org/wiki/L.H.O.O.Q."
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Fauvismo",
+    "id": "Q166593",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Matisse-Woman-with-a-Hat.jpg/500px-Matisse-Woman-with-a-Hat.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/Fauvismo",
+    "legenda": "Mulher com Chapéu (1905), de Henri Matisse, óleo sobre tela.",
+    "período": "1905 – 1908",
+    "origem": "França",
+    "características": [
+      { "nome": "Uso de cores puras, vibrantes e não-naturais", "link": null },
+      { "nome": "Simplificação das formas e do desenho", "link": null },
+      { "nome": "Ênfase na expressão emocional em detrimento da representação realista", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Pós-impressionismo", "link": "https://pt.wikipedia.org/wiki/P%C3%B3s-impressionismo" },
+      { "nome": "Vincent van Gogh", "link": "https://pt.wikipedia.org/wiki/Vincent_van_Gogh" },
+      { "nome": "Paul Gauguin", "link": "https://pt.wikipedia.org/wiki/Paul_Gauguin" },
+      { "nome": "Arte africana", "link": "https://pt.wikipedia.org/wiki/Arte_de_%C3%81frica" }
+    ],
+    "reação": [
+      { "nome": "Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" }
+    ],
+    "influenciou": [
+      { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" },
+      { "nome": "Abstracionismo lírico", "link": "https://pt.wikipedia.org/wiki/Abstracionismo_l%C3%ADrico" },
+      { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" }
+    ],
+    "vertentes": [],
+    "artistas_e_obras": {
+      "pintores": [
+        { "nome": "Henri Matisse", "link": "https://pt.wikipedia.org/wiki/Henri_Matisse" },
+        { "nome": "André Derain", "link": "https://pt.wikipedia.org/wiki/Andr%C3%A9_Derain" },
+        { "nome": "Maurice de Vlaminck", "link": "https://pt.wikipedia.org/wiki/Maurice_de_Vlaminck" },
+        { "nome": "Kees van Dongen", "link": "https://pt.wikipedia.org/wiki/Kees_van_Dongen" },
+        { "nome": "Raoul Dufy", "link": "https://pt.wikipedia.org/wiki/Raoul_Dufy" }
+      ],
+      "obras": [
+        {
+          "titulo": "La Danse",
+          "ano": "1910",
+          "artista": "Matisse",
+          "link": "https://pt.wikipedia.org/wiki/La_Danse_(Matisse)"
+        },
+        {
+          "titulo": "Le bonheur de vivre",
+          "ano": "1906",
+          "artista": "Matisse",
+          "link": "https://pt.wikipedia.org/wiki/Le_bonheur_de_vivre"
+        }
+      ]
+    }
+  },
+  {
+    "nome": "Pós-impressionismo",
+    "id": "Q166615",
+    "tipo": "movimento",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Starry_Night_Over_the_Rhone.jpg/1024px-Starry_Night_Over_the_Rhone.jpg",
+    "link_wiki": "https://pt.wikipedia.org/wiki/P%C3%B3s-impressionismo",
+    "legenda": "Noite Estrelada Sobre o Ródano (1888), de Vincent van Gogh",
+    "período": "Década de 1880 – início do século XX",
+    "origem": "França",
+    "características": [
+      { "nome": "Ênfase na expressão subjetiva e cores simbólicas", "link": null },
+      { "nome": "Rejeição da observação óptica do Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" },
+      { "nome": "Busca por uma arte mais expressiva, estrutural e emocional", "link": null }
+    ],
+    "influencias": [
+      { "nome": "Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" },
+      { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo" },
+      { "nome": "Japonismo", "link": "https://pt.wikipedia.org/wiki/Japonismo" },
+      { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" }
+    ],
+    "reação": [
+      { "nome": "Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" }
+    ],
+    "influenciou": [
+      { "nome": "Fauvismo", "link": "https://pt.wikipedia.org/wiki/Fauvismo" },
+      { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" },
+      { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" },
+      { "nome": "Abstracionismo", "link": "https://pt.wikipedia.org/wiki/Abstracionismo" }
+    ],
+    "vertentes": [
+      { "nome": "Cloisonnismo", "link": "https://pt.wikipedia.org/wiki/Cloisonnismo" },
+      { "nome": "Pontilhismo", "link": "https://pt.wikipedia.org/wiki/Pontilhismo" },
+      { "nome": "Sintetismo", "link": "https://pt.wikipedia.org/wiki/Sintetismo" },
+      { "nome": "Neoimpressionismo", "link": "https://pt.wikipedia.org/wiki/Neoimpressionismo" },
+      { "nome": "Simbolismo pictórico", "link": "https://pt.wikipedia.org/wiki/Pintura_do_simbolismo" }
+    ],
+    "artistas_e_obras": {
+      "pintores": [
+        { "nome": "Paul Cézanne", "link": "https://pt.wikipedia.org/wiki/Paul_C%C3%A9zanne" },
+        { "nome": "Vincent van Gogh", "link": "https://pt.wikipedia.org/wiki/Vincent_van_Gogh" },
+        { "nome": "Paul Gauguin", "link": "https://pt.wikipedia.org/wiki/Paul_Gauguin" },
+        { "nome": "Henri de Toulouse-Lautrec", "link": "https://pt.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec" },
+        { "nome": "Georges Seurat", "link": "https://pt.wikipedia.org/wiki/Georges_Seurat" },
+        { "nome": "Émile Bernard", "link": "https://pt.wikipedia.org/wiki/%C3%89mile_Bernard" },
+        { "nome": "Odilon Redon", "link": "https://pt.wikipedia.org/wiki/Odilon_Redon" }
+      ],
+      "escultores": [
+        { "nome": "Paul Sérusier", "link": "https://pt.wikipedia.org/wiki/Paul_S%C3%A9rusier" }
+      ],
+      "arquitetos": [
+        { "nome": "Henry van de Velde", "link": "https://pt.wikipedia.org/wiki/Henry_van_de_Velde" }
+      ],
+      "obras": [
+        {
+          "titulo": "Noite Estrelada Sobre o Ródano",
+          "ano": "1888",
+          "artista": "Vincent van Gogh",
+          "link": "https://pt.wikipedia.org/wiki/Noite_Estrelada_Sobre_o_R%C3%B3dano"
+        },
+        {
+          "titulo": "O Almoço sobre a Relva",
+          "ano": "1863",
+          "artista": "Édouard Manet",
+          "link": "https://pt.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%27herbe"
+        },
+        {
+          "titulo": "Visão após o Sermão",
+          "ano": "1888",
+          "artista": "Paul Gauguin",
+          "link": "https://pt.wikipedia.org/wiki/Vis%C3%A3o_ap%C3%B3s_o_Serm%C3%A3o"
+        }
+      ]
+    }
+  },
+  {
+  "nome": "Mangá",
+  "id": "Q1004",
+  "tipo": "gênero",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tagosaku_to_Mokube_no_Tokyo_Kenbutsu.jpg/500px-Tagosaku_to_Mokube_no_Tokyo_Kenbutsu.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Mang%C3%A1",
+  "legenda": "Página de 'Tagosaku to Mokube no Tokyo Kenbutsu' (1902), de Rakuten Kitazawa",
+  "período": "Fim do Séc. XIX – presente",
+  "origem": "Japão",
+  "características": [
+    { "nome": "Leitura da direita para a esquerda", "link": null },
+    { "nome": "Olhos grandes e expressivos", "link": null },
+    { "nome": "Narrativa cinematográfica (enquadramentos)", "link": null },
+    { "nome": "Serialização em revistas", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Emakimono", "link": "https://pt.wikipedia.org/wiki/Emakimono" },
+    { "nome": "Ukiyo-e", "link": "https://pt.wikipedia.org/wiki/Ukiyo-e" },
+    { "nome": "Kamishibai", "link": "https://pt.wikipedia.org/wiki/Kamishibai" },
+    { "nome": "Histórias em quadrinhos", "link": "https://pt.wikipedia.org/wiki/Banda_desenhada" }
+  ],
+  "reação": [],
+  "influenciou": [
+    { "nome": "Anime", "link": "https://pt.wikipedia.org/wiki/Anime" },
+    { "nome": "Cosplay", "link": "https://pt.wikipedia.org/wiki/Cosplay" },
+    { "nome": "J-Pop", "link": "https://pt.wikipedia.org/wiki/J-pop" }
+  ],
+  "vertentes": [
+    { "nome": "Shōnen", "link": "https://pt.wikipedia.org/wiki/Sh%C5%8Dnen" },
+    { "nome": "Shōjo", "link": "https://pt.wikipedia.org/wiki/Sh%C5%8Djo" },
+    { "nome": "Seinen", "link": "https://pt.wikipedia.org/wiki/Seinen" },
+    { "nome": "Josei", "link": "https://pt.wikipedia.org/wiki/Josei" },
+    { "nome": "Kodomo", "link": "https://pt.wikipedia.org/wiki/Kodomo" },
+    { "nome": "Gekiga", "link": "https://pt.wikipedia.org/wiki/Gekiga" },
+    { "nome": "Mecha", "link": "https://pt.wikipedia.org/wiki/Mecha" },
+    { "nome": "Isekai", "link": "https://pt.wikipedia.org/wiki/Isekai" }
+  ],
+  "artistas_e_obras": {
+    "mangakás": [
+      { "nome": "Osamu Tezuka", "link": "https://pt.wikipedia.org/wiki/Osamu_Tezuka" },
+      { "nome": "Akira Toriyama", "link": "https://pt.wikipedia.org/wiki/Akira_Toriyama" },
+      { "nome": "Eiichiro Oda", "link": "https://pt.wikipedia.org/wiki/Eiichiro_Oda" },
+      { "nome": "Masashi Kishimoto", "link": "https://pt.wikipedia.org/wiki/Masashi_Kishimoto" },
+      { "nome": "Takehiko Inoue", "link": "https://pt.wikipedia.org/wiki/Takehiko_Inoue" },
+      { "nome": "Naoki Urasawa", "link": "https://pt.wikipedia.org/wiki/Naoki_Urasawa" },
+      { "nome": "Kentaro Miura", "link": "https://pt.wikipedia.org/wiki/Kentaro_Miura" },
+      { "nome": "Hiromu Arakawa", "link": "https://pt.wikipedia.org/wiki/Hiromu_Arakawa" }
+    ],
+    "organizações": [
+      { "nome": "Shueisha", "link": "https://pt.wikipedia.org/wiki/Shueisha" },
+      { "nome": "Kodansha", "link": "https://pt.wikipedia.org/wiki/Kodansha" },
+      { "nome": "Shōnen Jump", "link": "https://pt.wikipedia.org/wiki/Weekly_Sh%C5%8Dnen_Jump" }
+    ],
+    "obras": [
+      {
+        "titulo": "Astro Boy",
+        "ano": "1952",
+        "artista": "Osamu Tezuka",
+        "link": "https://pt.wikipedia.org/wiki/Astro_Boy"
+      },
+      {
+        "titulo": "Dragon Ball",
+        "ano": "1984",
+        "artista": "Akira Toriyama",
+        "link": "https://pt.wikipedia.org/wiki/Dragon_Ball"
+      },
+      {
+        "titulo": "Akira",
+        "ano": "1982",
+        "artista": "Katsuhiro Otomo",
+        "link": "https://pt.wikipedia.org/wiki/Akira_(mang%C3%A1)"
+      },
+      {
+        "titulo": "One Piece",
+        "ano": "1997",
+        "artista": "Eiichiro Oda",
+        "link": "https://pt.wikipedia.org/wiki/One_Piece"
+      },
+      {
+        "titulo": "Berserk",
+        "ano": "1989",
+        "artista": "Kentaro Miura",
+        "link": "https://pt.wikipedia.org/wiki/Berserk_(mang%C3%A1)"
+      },
+      {
+        "titulo": "Fullmetal Alchemist",
+        "ano": "2001",
+        "artista": "Hiromu Arakawa",
+        "link": "https://pt.wikipedia.org/wiki/Fullmetal_Alchemist"
+      }
+    ]
+  }
+},
+{
+  "nome": "Bauhaus",
+  "id": "Q12435",
+  "tipo": "escola",
+  "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Bauhaus",
+  "legenda": "Edifício da Bauhaus em Dessau (1926), projetado por Walter Gropius",
+  "período": "1919 – 1933",
+  "origem": "Weimar, Alemanha",
+  "características": [
+    { "nome": "Integração entre arte e técnica", "link": "https://pt.wikipedia.org/wiki/Gesamtkunstwerk" },
+    { "nome": "Funcionalismo (forma segue a função)", "link": "https://pt.wikipedia.org/wiki/Funcionalismo_(arquitetura)" },
+    { "nome": "Racionalidade construtiva", "link": "https://pt.wikipedia.org/wiki/Racionalismo_(arquitetura)" },
+    { "nome": "Design modular", "link": null },
+    { "nome": "Interdisciplinaridade", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Arts & Crafts", "link": "https://pt.wikipedia.org/wiki/Arts_%26_Crafts" },
+    { "nome": "Construtivismo", "link": "https://pt.wikipedia.org/wiki/Construtivismo_russo" },
+    { "nome": "De Stijl", "link": "https://pt.wikipedia.org/wiki/De_Stijl" },
+    { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" }
+  ],
+  "reação": [
+    { "nome": "Ecletismo", "link": "https://pt.wikipedia.org/wiki/Ecletismo" },
+    { "nome": "Ornamentação excessiva", "link": "https://pt.wikipedia.org/wiki/Ornamento" }
+  ],
+  "influenciou": [
+    { "nome": "Design moderno", "link": "https://pt.wikipedia.org/wiki/Design_moderno" },
+    { "nome": "Arquitetura moderna", "link": "https://pt.wikipedia.org/wiki/Arquitetura_moderna" },
+    { "nome": "Estilo Internacional", "link": "https://pt.wikipedia.org/wiki/Estilo_Internacional" },
+    { "nome": "Minimalismo", "link": "https://pt.wikipedia.org/wiki/Minimalismo" }
+  ],
+  "artistas_e_obras": {
+    "arquitetos": [
+      { "nome": "Walter Gropius", "link": "https://pt.wikipedia.org/wiki/Walter_Gropius" },
+      { "nome": "Hannes Meyer", "link": "https://pt.wikipedia.org/wiki/Hannes_Meyer" },
+      { "nome": "Ludwig Mies van der Rohe", "link": "https://pt.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe" },
+      { "nome": "Marcel Breuer", "link": "https://pt.wikipedia.org/wiki/Marcel_Breuer" }
+    ],
+    "pintores": [
+      { "nome": "Paul Klee", "link": "https://pt.wikipedia.org/wiki/Paul_Klee" },
+      { "nome": "Wassily Kandinsky", "link": "https://pt.wikipedia.org/wiki/Wassily_Kandinsky" },
+      { "nome": "Josef Albers", "link": "https://pt.wikipedia.org/wiki/Josef_Albers" },
+      { "nome": "László Moholy-Nagy", "link": "https://pt.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy" }
+    ],
+    "designers": [
+      { "nome": "Marcel Breuer", "link": "https://pt.wikipedia.org/wiki/Marcel_Breuer" },
+      { "nome": "Herbert Bayer", "link": "https://pt.wikipedia.org/wiki/Herbert_Bayer" },
+      { "nome": "Marianne Brandt", "link": "https://pt.wikipedia.org/wiki/Marianne_Brandt" },
+      { "nome": "Lilly Reich", "link": "https://pt.wikipedia.org/wiki/Lilly_Reich" }
+    ],
+    "teatristas": [
+      { "nome": "Oskar Schlemmer", "link": "https://pt.wikipedia.org/wiki/Oskar_Schlemmer" }
+    ],
+    "obras": [
+      {
+        "titulo": "Manifesto da Bauhaus",
+        "ano": "1919",
+        "artista": "Walter Gropius",
+        "link": "https://pt.wikipedia.org/wiki/Bauhaus#O_Manifesto_de_1919"
+      },
+      {
+        "titulo": "Cadeira Wassily",
+        "ano": "1925",
+        "artista": "Marcel Breuer",
+        "link": "https://pt.wikipedia.org/wiki/Cadeira_Wassily"
+      },
+      {
+        "titulo": "Edifício da Bauhaus em Dessau",
+        "ano": "1926",
+        "artista": "Walter Gropius",
+        "link": "https://pt.wikipedia.org/wiki/Bauhaus_Dessau"
+      },
+      {
+        "titulo": "Cidade Branca de Tel Aviv",
+        "ano": "anos 1930",
+        "artista": "Vários (Arieh Sharon et al.)",
+        "link": "https://pt.wikipedia.org/wiki/Cidade_Branca_de_Tel_Aviv"
+      }
+    ]
+  }
+}, {
+  "nome": "Realismo socialista",
+  "id": "Q180902",
+  "tipo": "movimento",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Berlin_-_Haus_des_Lehrers_-_Mosaik_-_West_b.jpg/500px-Berlin_-_Haus_des_Lehrers_-_Mosaik_-_West_b.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Realismo_socialista",
+  "legenda": "Parte do mural de Walter Womacka na 'Haus des Lehrers' (1964)",
+  "período": "Décadas de 1930–1980",
+  "origem": "União Soviética",
+  "manifesto": "Institucionalizado no Congresso dos Escritores Soviéticos (1934)",
+  "características": [
+    { "nome": "Idealização segundo o marxismo-leninismo", "link": "https://pt.wikipedia.org/wiki/Marxismo-leninismo" },
+    { "nome": "Exaltação do trabalho e do proletariado", "link": "https://pt.wikipedia.org/wiki/Proletariado" },
+    { "nome": "Clareza formal e monumentalidade", "link": null },
+    { "nome": "Caráter pedagógico e partidário", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo" },
+    { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" },
+    { "nome": "Propaganda soviética", "link": "https://pt.wikipedia.org/wiki/Propaganda_na_Uni%C3%A3o_Sovi%C3%A9tica" }
+  ],
+  "reação": [
+    { "nome": "Modernismo", "link": "https://pt.wikipedia.org/wiki/Modernismo" },
+    { "nome": "Abstracionismo", "link": "https://pt.wikipedia.org/wiki/Abstracionismo" },
+    { "nome": "Formalismo", "link": "https://pt.wikipedia.org/wiki/Formalismo_(arte)" }
+  ],
+  "influenciou": [
+    { "nome": "Muralismo mexicano", "link": "https://pt.wikipedia.org/wiki/Muralismo_mexicano" },
+    { "nome": "Realismo revolucionário", "link": null }
+  ],
+  "artistas_e_obras": {
+    "arquitetos": [
+      { "nome": "Nikolai Nikitin", "link": "https://pt.wikipedia.org/wiki/Nikolai_Nikitin" },
+      { "nome": "Boris Iofan", "link": "https://pt.wikipedia.org/wiki/Boris_Iofan" }
+    ],
+    "escultores": [
+      { "nome": "Vera Mukhina", "link": "https://pt.wikipedia.org/wiki/Vera_Mukhina" },
+      { "nome": "Yevgeny Vuchetich", "link": "https://pt.wikipedia.org/wiki/Yevgeny_Vuchetich" }
+    ],
+    "pintores": [
+      { "nome": "Aleksandr Gerasimov", "link": "https://pt.wikipedia.org/wiki/Aleksandr_Gerasimov" },
+      { "nome": "Isaak Brodsky", "link": "https://pt.wikipedia.org/wiki/Isaak_Brodsky" },
+      { "nome": "Walter Womacka", "link": "https://pt.wikipedia.org/wiki/Walter_Womacka" }
+    ],
+    "musicos": [
+      { "nome": "Dmitri Shostakovich", "link": "https://pt.wikipedia.org/wiki/Dmitri_Shostakovich" },
+      { "nome": "Sergei Prokofiev", "link": "https://pt.wikipedia.org/wiki/Sergei_Prokofiev" },
+      { "nome": "Aram Khachaturian", "link": "https://pt.wikipedia.org/wiki/Aram_Khachaturian" }
+    ],
+    "escritores": [
+      { "nome": "Máximo Górki", "link": "https://pt.wikipedia.org/wiki/M%C3%A1ximo_G%C3%B3rki" },
+      { "nome": "Mikhail Sholokhov", "link": "https://pt.wikipedia.org/wiki/Mikhail_Sholokhov" },
+      { "nome": "Anna Seghers", "link": "https://pt.wikipedia.org/wiki/Anna_Seghers" }
+    ],
+    "cineastas": [
+      { "nome": "Sergei Eisenstein", "link": "https://pt.wikipedia.org/wiki/Sergei_Eisenstein" }
+    ],
+    "obras": [
+      {
+        "titulo": "Operário e Mulher Kolkosiana",
+        "ano": "1937",
+        "artista": "Vera Mukhina",
+        "link": "https://pt.wikipedia.org/wiki/Oper%C3%A1rio_e_Mulher_Kolkosiana"
+      },
+      {
+        "titulo": "A Mãe Pátria Está Chamando",
+        "ano": "1967",
+        "artista": "Yevgeny Vuchetich",
+        "link": "https://pt.wikipedia.org/wiki/Est%C3%A1tua_da_M%C3%A3e_P%C3%A1tria"
+      },
+      {
+        "titulo": "Stalin e Vorochilov no Kremlin",
+        "ano": "1938",
+        "artista": "Aleksandr Gerasimov",
+        "link": "https://pt.wikipedia.org/wiki/Aleksandr_Gerasimov"
+      }
+    ]
+  }
+}, {
+  "nome": "Arcadismo",
+  "id": "Q603619",
+  "tipo": "movimento",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1c/O_Uraguai.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Arcadismo",
+  "legenda": "Capa de 'O Uraguai' (1769), de Basílio da Gama",
+  "período": "1756 – 1825 (Europa); 1768 – 1808 (Brasil)",
+  "origem": "Itália e Brasil",
+  "manifesto": "Cartas Chilenas (Tomás Antônio Gonzaga)",
+  "características": [
+    { "nome": "Bucolismo e pastoralismo", "link": "https://pt.wikipedia.org/wiki/Bucolismo" },
+    { "nome": "Valorização da natureza (Locus amoenus)", "link": "https://pt.wikipedia.org/wiki/Locus_amoenus" },
+    { "nome": "Racionalismo e simplicidade", "link": "https://pt.wikipedia.org/wiki/Racionalismo" },
+    { "nome": "Crítica ao despotismo", "link": "https://pt.wikipedia.org/wiki/Despotismo" }
+  ],
+  "influencias": [
+    { "nome": "Classicismo", "link": "https://pt.wikipedia.org/wiki/Classicismo" },
+    { "nome": "Iluminismo", "link": "https://pt.wikipedia.org/wiki/Iluminismo" },
+    { "nome": "Renascentismo", "link": "https://pt.wikipedia.org/wiki/Renascimento" }
+  ],
+  "reação": [
+    { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" },
+    { "nome": "Absolutismo", "link": "https://pt.wikipedia.org/wiki/Absolutismo" }
+  ],
+  "influenciou": [
+    { "nome": "Romantismo", "link": "https://pt.wikipedia.org/wiki/Romantismo" },
+    { "nome": "Inconfidência Mineira", "link": "https://pt.wikipedia.org/wiki/Inconfid%C3%AAncia_Mineira" },
+    { "nome": "Nativismo", "link": "https://pt.wikipedia.org/wiki/Nativismo" }
+  ],
+  "artistas_e_obras": {
+    "escritores": [
+      { "nome": "Cláudio Manuel da Costa", "link": "https://pt.wikipedia.org/wiki/Cl%C3%A1udio_Manuel_da_Costa" },
+      { "nome": "Tomás Antônio Gonzaga", "link": "https://pt.wikipedia.org/wiki/Tom%C3%A1s_Ant%C3%B4nio_Gonzaga" },
+      { "nome": "Basílio da Gama", "link": "https://pt.wikipedia.org/wiki/Bas%C3%ADlio_da_Gama" },
+      { "nome": "Santa Rita Durão", "link": "https://pt.wikipedia.org/wiki/Santa_Rita_Dur%C3%A3o" }
+    ],
+    "organizações": [
+      { "nome": "Arcádia Lusitana", "link": "https://pt.wikipedia.org/wiki/Arc%C3%A1dia_Lusitana" },
+      { "nome": "Arcádia Ultramarina", "link": "https://pt.wikipedia.org/wiki/Arc%C3%A1dia_Ultramarina" }
+    ],
+    "obras": [
+      {
+        "titulo": "Marília de Dirceu",
+        "ano": "1792",
+        "artista": "Tomás Antônio Gonzaga",
+        "link": "https://pt.wikipedia.org/wiki/Mar%C3%ADlia_de_Dirceu"
+      },
+      {
+        "titulo": "O Uraguai",
+        "ano": "1769",
+        "artista": "Basílio da Gama",
+        "link": "https://pt.wikipedia.org/wiki/O_Uraguai"
+      },
+      {
+        "titulo": "Caramuru",
+        "ano": "1781",
+        "artista": "Santa Rita Durão",
+        "link": "https://pt.wikipedia.org/wiki/Caramuru_(poema_%C3%A9pico)"
+      },
+      {
+        "titulo": "Cartas Chilenas",
+        "ano": "c. 1789",
+        "artista": "Tomás Antônio Gonzaga",
+        "link": "https://pt.wikipedia.org/wiki/Cartas_Chilenas"
+      }
+    ]
+  }
+},
+{
+  "nome": "Construtivismo",
+  "id": "Q172979",
+  "tipo": "movimento",
+  "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Tatlin's_Tower_maket_1919_year.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Construtivismo_russo",
+  "legenda": "Maquete do 'Monumento à Terceira Internacional' (1919–1920), de Vladimir Tatlin",
+  "período": "c. 1913 – 1934",
+  "origem": "Rússia (Império e União Soviética)",
+  "manifesto": "Manifesto Realista (1920), de Gabo e Pevsner",
+  "características": [
+    { "nome": "Rejeição da 'arte pela arte'", "link": "https://pt.wikipedia.org/wiki/Arte_pela_arte" },
+    { "nome": "Arte a serviço da revolução e função social", "link": null },
+    { "nome": "Estética industrial e geométrica", "link": null },
+    { "nome": "Uso de materiais modernos (ferro, vidro)", "link": null },
+    { "nome": "Tipografia e fotomontagem", "link": "https://pt.wikipedia.org/wiki/Fotomontagem" }
+  ],
+  "influencias": [
+    { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" },
+    { "nome": "Futurismo", "link": "https://pt.wikipedia.org/wiki/Futurismo" },
+    { "nome": "Suprematismo", "link": "https://pt.wikipedia.org/wiki/Suprematismo" }
+  ],
+  "reação": [
+    { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
+    { "nome": "Arte acadêmica", "link": "https://pt.wikipedia.org/wiki/Academicismo" }
+  ],
+  "influenciou": [
+    { "nome": "Bauhaus", "link": "https://pt.wikipedia.org/wiki/Bauhaus" },
+    { "nome": "De Stijl", "link": "https://pt.wikipedia.org/wiki/De_Stijl" },
+    { "nome": "Arte concreta", "link": "https://pt.wikipedia.org/wiki/Arte_concreta" },
+    { "nome": "Arquitetura modernista", "link": "https://pt.wikipedia.org/wiki/Arquitetura_moderna" }
+  ],
+  "vertentes": [
+    { "nome": "Arquitetura construtivista", "link": "https://pt.wikipedia.org/wiki/Arquitetura_construtivista" }
+  ],
+  "artistas_e_obras": {
+    "arquitetos": [
+      { "nome": "Vladimir Tatlin", "link": "https://pt.wikipedia.org/wiki/Vladimir_Tatlin" },
+      { "nome": "El Lissitzky", "link": "https://pt.wikipedia.org/wiki/El_Lissitzky" }
+    ],
+    "escultores": [
+      { "nome": "Naum Gabo", "link": "https://pt.wikipedia.org/wiki/Naum_Gabo" },
+      { "nome": "Antoine Pevsner", "link": "https://pt.wikipedia.org/wiki/Antoine_Pevsner" }
+    ],
+    "pintores": [
+      { "nome": "Lyubov Popova", "link": "https://pt.wikipedia.org/wiki/Lyubov_Popova" },
+      { "nome": "Kasimir Malevich", "link": "https://pt.wikipedia.org/wiki/Kasimir_Malevich" }
+    ],
+    "designers": [
+      { "nome": "Varvara Stepanova", "link": "https://pt.wikipedia.org/wiki/Varvara_Stepanova" },
+      { "nome": "Alexander Rodchenko", "link": "https://pt.wikipedia.org/wiki/Alexander_Rodchenko" },
+      { "nome": "Gustav Klutsis", "link": "https://pt.wikipedia.org/wiki/Gustav_Klutsis" },
+      { "nome": "Alexei Gan", "link": "https://pt.wikipedia.org/wiki/Alexei_Gan" }
+    ],
+    "obras": [
+      {
+        "titulo": "Monumento à Terceira Internacional",
+        "ano": "1919–1920",
+        "artista": "Vladimir Tatlin",
+        "link": "https://pt.wikipedia.org/wiki/Monumento_%C3%A0_Terceira_Internacional"
+      },
+      {
+        "titulo": "Golpeiem os Brancos com a Cunha Vermelha",
+        "ano": "1919",
+        "artista": "El Lissitzky",
+        "link": "https://pt.wikipedia.org/wiki/Golpeiem_os_Brancos_com_a_Cunha_Vermelha"
+      }
+    ]
+  }
+},
+{
+  "nome": "Pré-rafaelismo",
+  "id": "Q184814",
+  "tipo": "movimento",
+  "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Beloved_by_Dante_Gabriel_Rossetti.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Pr%C3%A9-rafaelismo",
+  "legenda": "A Noiva (1865–66), de Dante Gabriel Rossetti",
+  "período": "1848 – início do século XX",
+  "origem": "Reino Unido",
+  "características": [
+    { "nome": "Fidelidade à natureza (Mímesis)", "link": "https://pt.wikipedia.org/wiki/Mimesis" },
+    { "nome": "Estética medieval e espiritualidade", "link": "https://pt.wikipedia.org/wiki/Medievalismo" },
+    { "nome": "Cores intensas e detalhamento minucioso", "link": null },
+    { "nome": "Temas literários e bíblicos", "link": null },
+    { "nome": "Moral vitoriana", "link": "https://pt.wikipedia.org/wiki/Era_vitoriana" }
+  ],
+  "influencias": [
+    { "nome": "Renascimento italiano (pré-Rafael)", "link": "https://pt.wikipedia.org/wiki/Renascimento_italiano" },
+    { "nome": "Romantismo", "link": "https://pt.wikipedia.org/wiki/Romantismo" },
+    { "nome": "Nazarenos", "link": "https://pt.wikipedia.org/wiki/Nazarenos" }
+  ],
+  "reação": [
+    { "nome": "Academicismo", "link": "https://pt.wikipedia.org/wiki/Academicismo" },
+    { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" },
+    { "nome": "Maneirismo", "link": "https://pt.wikipedia.org/wiki/Maneirismo" }
+  ],
+  "influenciou": [
+    { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
+    { "nome": "Esteticismo", "link": "https://pt.wikipedia.org/wiki/Esteticismo" },
+    { "nome": "Art Nouveau", "link": "https://pt.wikipedia.org/wiki/Art_Nouveau" },
+    { "nome": "Arts & Crafts", "link": "https://pt.wikipedia.org/wiki/Arts_%26_Crafts" }
+  ],
+  "artistas_e_obras": {
+    "pintores": [
+      { "nome": "John Everett Millais", "link": "https://pt.wikipedia.org/wiki/John_Everett_Millais" },
+      { "nome": "Dante Gabriel Rossetti", "link": "https://pt.wikipedia.org/wiki/Dante_Gabriel_Rossetti" },
+      { "nome": "William Holman Hunt", "link": "https://pt.wikipedia.org/wiki/William_Holman_Hunt" },
+      { "nome": "Edward Burne-Jones", "link": "https://pt.wikipedia.org/wiki/Edward_Burne-Jones" },
+      { "nome": "Ford Madox Brown", "link": "https://pt.wikipedia.org/wiki/Ford_Madox_Brown" },
+      { "nome": "Arthur Hughes", "link": "https://pt.wikipedia.org/wiki/Arthur_Hughes" }
+    ],
+    "escritores": [
+      { "nome": "Christina Rossetti", "link": "https://pt.wikipedia.org/wiki/Christina_Rossetti" },
+      { "nome": "William Morris", "link": "https://pt.wikipedia.org/wiki/William_Morris" },
+      { "nome": "Algernon Charles Swinburne", "link": "https://pt.wikipedia.org/wiki/Algernon_Charles_Swinburne" }
+    ],
+    "fotografos": [
+      { "nome": "Julia Margaret Cameron", "link": "https://pt.wikipedia.org/wiki/Julia_Margaret_Cameron" }
+    ],
+    "designers": [
+      { "nome": "William Morris", "link": "https://pt.wikipedia.org/wiki/William_Morris" },
+      { "nome": "Philip Webb", "link": "https://pt.wikipedia.org/wiki/Philip_Webb" }
+    ],
+    "organizações": [
+      { "nome": "Irmandade Pré-Rafaelita", "link": "https://pt.wikipedia.org/wiki/Irmandade_Pr%C3%A9-Rafaelita" },
+      { "nome": "Revista The Germ", "link": "https://pt.wikipedia.org/wiki/The_Germ" }
+    ],
+    "obras": [
+      {
+        "titulo": "Ophelia",
+        "ano": "1851–52",
+        "artista": "John Everett Millais",
+        "link": "https://pt.wikipedia.org/wiki/Ophelia_(Millais)"
+      },
+      {
+        "titulo": "A Luz do Mundo",
+        "ano": "1851–53",
+        "artista": "William Holman Hunt",
+        "link": "https://pt.wikipedia.org/wiki/A_Luz_do_Mundo_(pintura)"
+      },
+      {
+        "titulo": "O Espelho de Vénus",
+        "ano": "1875",
+        "artista": "Edward Burne-Jones",
+        "link": "https://pt.wikipedia.org/wiki/O_Espelho_de_V%C3%A9nus"
+      }
+    ]
+  }
+},
+{
+  "nome": "Ukiyo-e",
+  "id": "Q185905",
+  "tipo": "gênero",
+  "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Great_Wave_off_Kanagawa.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Ukiyo-e",
+  "legenda": "A Grande Onda de Kanagawa (c. 1830–33), de Katsushika Hokusai",
+  "período": "Séculos XVII – XIX (Período Edo)",
+  "origem": "Japão",
+  "características": [
+    { "nome": "Retratos do 'Mundo Flutuante' (prazeres urbanos)", "link": "https://pt.wikipedia.org/wiki/Ukiyo" },
+    { "nome": "Xilogravura policromática (nishiki-e)", "link": "https://pt.wikipedia.org/wiki/Nishiki-e" },
+    { "nome": "Linhas de contorno nítidas e cores planas", "link": null },
+    { "nome": "Composições assimétricas e cortes inusitados", "link": null },
+    { "nome": "Temas: teatro Kabuki, mulheres, paisagens e folclore", "link": "https://pt.wikipedia.org/wiki/Kabuki" }
+  ],
+  "influencias": [
+    { "nome": "Yamato-e", "link": "https://pt.wikipedia.org/wiki/Yamato-e" },
+    { "nome": "Escola Kanō", "link": "https://pt.wikipedia.org/wiki/Escola_Kan%C5%8D" },
+    { "nome": "Pintura chinesa", "link": "https://pt.wikipedia.org/wiki/Pintura_chinesa" }
+  ],
+  "reação": [
+    { "nome": "Academicismo da Escola Kanō", "link": "https://pt.wikipedia.org/wiki/Escola_Kan%C5%8D" }
+  ],
+  "influenciou": [
+    { "nome": "Japonismo", "link": "https://pt.wikipedia.org/wiki/Japonismo" },
+    { "nome": "Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" },
+    { "nome": "Art Nouveau", "link": "https://pt.wikipedia.org/wiki/Art_Nouveau" },
+    { "nome": "Shin-hanga", "link": "https://pt.wikipedia.org/wiki/Shin-hanga" },
+    { "nome": "Mangá", "link": "https://pt.wikipedia.org/wiki/Mang%C3%A1" }
+  ],
+  "vertentes": [
+    { "nome": "Bijin-ga (belas mulheres)", "link": "https://pt.wikipedia.org/wiki/Bijin-ga" },
+    { "nome": "Yakusha-e (atores de Kabuki)", "link": "https://pt.wikipedia.org/wiki/Yakusha-e" },
+    { "nome": "Shunga (erotismo)", "link": "https://pt.wikipedia.org/wiki/Shunga" },
+    { "nome": "Musha-e (guerreiros)", "link": "https://pt.wikipedia.org/wiki/Musha-e" }
+  ],
+  "artistas_e_obras": {
+    "gravuristas": [
+      { "nome": "Katsushika Hokusai", "link": "https://pt.wikipedia.org/wiki/Katsushika_Hokusai" },
+      { "nome": "Utagawa Hiroshige", "link": "https://pt.wikipedia.org/wiki/Utagawa_Hiroshige" },
+      { "nome": "Kitagawa Utamaro", "link": "https://pt.wikipedia.org/wiki/Kitagawa_Utamaro" },
+      { "nome": "Tōshūsai Sharaku", "link": "https://pt.wikipedia.org/wiki/T%C5%8Dsh%C5%ABsai_Sharaku" },
+      { "nome": "Suzuki Harunobu", "link": "https://pt.wikipedia.org/wiki/Suzuki_Harunobu" },
+      { "nome": "Utagawa Kuniyoshi", "link": "https://pt.wikipedia.org/wiki/Utagawa_Kuniyoshi" },
+      { "nome": "Hishikawa Moronobu", "link": "https://pt.wikipedia.org/wiki/Hishikawa_Moronobu" }
+    ],
+    "obras": [
+      {
+        "titulo": "A Grande Onda de Kanagawa",
+        "ano": "c. 1830–33",
+        "artista": "Hokusai",
+        "link": "https://pt.wikipedia.org/wiki/A_Grande_Onda_de_Kanagawa"
+      },
+      {
+        "titulo": "Cinquenta e Três Estações da Tōkaidō",
+        "ano": "1833–34",
+        "artista": "Hiroshige",
+        "link": "https://pt.wikipedia.org/wiki/As_Cinquenta_e_Tr%C3%AAs_Esta%C3%A7%C3%B5es_da_T%C5%8Dkaid%C5%8D"
+      },
+      {
+        "titulo": "Otani Oniji III como Yakko Edobei",
+        "ano": "1794",
+        "artista": "Sharaku",
+        "link": "https://pt.wikipedia.org/wiki/T%C5%8Dsh%C5%ABsai_Sharaku"
+      }
+    ]
+  }
+},
+{
+  "nome": "Suprematismo",
+  "id": "Q185905",
+  "tipo": "movimento",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kazimir_Malevich%2C_Magnetic_Construction_%28S-240%29%2C_1916.jpg/960px-Kazimir_Malevich%2C_Magnetic_Construction_%28S-240%29%2C_1916.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Suprematismo",
+  "legenda": "Pintura Construção Magnética (1916), de Kazimir Malevich",
+  "período": "c. 1913 – 1919",
+  "origem": "Império Russo",
+  "manifesto": "Do Cubismo e do Futurismo ao Suprematismo: O novo realismo pictórico (1915)",
+  "características": [
+    { "nome": "Supremacia do sentimento puro sobre o objeto", "link": null },
+    { "nome": "Não-objetividade e abstração geométrica radical", "link": "https://pt.wikipedia.org/wiki/Arte_abstrata" },
+    { "nome": "Uso de formas elementares (quadrado, círculo, cruz)", "link": null },
+    { "nome": "Paleta de cores primárias reduzida (monocromia na fase final)", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" },
+    { "nome": "Futurismo", "link": "https://pt.wikipedia.org/wiki/Futurismo" },
+    { "nome": "Cubofuturismo", "link": "https://pt.wikipedia.org/wiki/Cubofuturismo" }
+  ],
+  "reação": [
+    { "nome": "Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" },
+    { "nome": "Academicismo", "link": "https://pt.wikipedia.org/wiki/Academicismo" }
+  ],
+  "influenciou": [
+    { "nome": "Construtivismo", "link": "https://pt.wikipedia.org/wiki/Construtivismo_russo" },
+    { "nome": "Minimalismo", "link": "https://pt.wikipedia.org/wiki/Minimalismo" },
+    { "nome": "De Stijl", "link": "https://pt.wikipedia.org/wiki/De_Stijl" },
+    { "nome": "Arquitetura modernista", "link": "https://pt.wikipedia.org/wiki/Arquitetura_moderna" }
+  ],
+  "artistas_e_obras": {
+    "pintores": [
+      { "nome": "Kazimir Malevich", "link": "https://pt.wikipedia.org/wiki/Kazimir_Malevich" },
+      { "nome": "El Lissitzky", "link": "https://pt.wikipedia.org/wiki/El_Lissitzky" },
+      { "nome": "Lyubov Popova", "link": "https://pt.wikipedia.org/wiki/Lyubov_Popova" },
+      { "nome": "Aleksandr Rodchenko", "link": "https://pt.wikipedia.org/wiki/Alexander_Rodchenko" },
+      { "nome": "Ivan Puni", "link": "https://pt.wikipedia.org/wiki/Ivan_Puni" }
+    ],
+    "obras": [
+      {
+        "titulo": "O Quadrado Preto",
+        "ano": "1915",
+        "artista": "Kazimir Malevich",
+        "link": "https://pt.wikipedia.org/wiki/O_Quadrado_Preto"
+      },
+      {
+        "titulo": "Construção Magnética",
+        "ano": "1916",
+        "artista": "Kazimir Malevich",
+        "link": "https://pt.wikipedia.org/wiki/Suprematismo"
+      },
+      {
+        "titulo": "Branco sobre Branco",
+        "ano": "1918",
+        "artista": "Kazimir Malevich",
+        "link": "https://pt.wikipedia.org/wiki/Branco_sobre_Branco"
+      }
+    ]
+  }
+},
+{
+  "nome": "Cinema Novo",
+  "id": "Q1092505",
+  "tipo": "movimento",
+  "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/61/Deus_Diabo_Terra_Sol.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Cinema_novo",
+  "legenda": "Cartaz do filme 'Deus e o Diabo na Terra do Sol' (1964), de Glauber Rocha, uma obra fundamental do movimento.",
+  "período": "Anos 1960 e início dos 1970",
+  "origem": "Brasil",
+  "características": [
+    { "nome": "Realismo Social e Político", "link": null },
+    { "nome": "Crítica às injustiças sociais e ao subdesenvolvimento", "link": null },
+    { "nome": "Estética de baixo orçamento ('uma câmera na mão e uma ideia na cabeça')", "link": null },
+    { "nome": "Valorização da cultura popular e regional", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Neorrealismo Italiano", "link": "https://pt.wikipedia.org/wiki/Neorrealismo_italiano" },
+    { "nome": "Nouvelle Vague Francesa", "link": "https://pt.wikipedia.org/wiki/Nouvelle_Vague" },
+    { "nome": "Modernismo Brasileiro", "link": "https://pt.wikipedia.org/wiki/Modernismo_brasileiro" }
+  ],
+  "reação": [
+    { "nome": "Cinema comercial tradicional (Chanchada)", "link": null }
+  ],
+  "influenciou": [
+    { "nome": "Tropicalismo (em sua segunda fase)", "link": "https://pt.wikipedia.org/wiki/Tropicalismo" },
+    { "nome": "Nuevo Cine Latinoamericano", "link": "https://pt.wikipedia.org/wiki/Nuevo_Cine_Latinoamericano" },
+    { "nome": "Cinema Marginal", "link": "https://pt.wikipedia.org/wiki/Cinema_marginal" }
+  ],
+  "artistas_e_obras": {
+    "cineastas": [
+      { "nome": "Glauber Rocha", "link": "https://pt.wikipedia.org/wiki/Glauber_Rocha" },
+      { "nome": "Nelson Pereira dos Santos", "link": "https://pt.wikipedia.org/wiki/Nelson_Pereira_dos_Santos" },
+      { "nome": "Ruy Guerra", "link": "https://pt.wikipedia.org/wiki/Ruy_Guerra" },
+      { "nome": "Cacá Diegues", "link": "https://pt.wikipedia.org/wiki/Carlos_Diegues" },
+      { "nome": "Joaquim Pedro de Andrade", "link": "https://pt.wikipedia.org/wiki/Joaquim_Pedro_de_Andrade" },
+      { "nome": "Leon Hirszman", "link": "https://pt.wikipedia.org/wiki/Leon_Hirszman" }
+    ],
+    "escritores": [
+      { "nome": "Glauber Rocha (Manifesto Estética da Fome)", "link": "https://pt.wikipedia.org/wiki/Glauber_Rocha" }
+    ],
+    "obras": [
+      {
+        "titulo": "Deus e o Diabo na Terra do Sol",
+        "ano": "1964",
+        "artista": "Glauber Rocha",
+        "link": "https://pt.wikipedia.org/wiki/Deus_e_o_Diabo_na_Terra_do_Sol"
+      },
+      {
+        "titulo": "Vidas Secas",
+        "ano": "1963",
+        "artista": "Nelson Pereira dos Santos",
+        "link": "https://pt.wikipedia.org/wiki/Vidas_Secas_(filme)"
+      },
+      {
+        "titulo": "Terra em Transe",
+        "ano": "1967",
+        "artista": "Glauber Rocha",
+        "link": "https://pt.wikipedia.org/wiki/Terra_em_Transe"
+      },
+      {
+        "titulo": "Os Fuzis",
+        "ano": "1964",
+        "artista": "Ruy Guerra",
+        "link": "https://pt.wikipedia.org/wiki/Os_Fuzis"
+      }
+    ]
+  }
+},
+{
+  "nome": "Arts & Crafts",
+  "id": "Q283084",
+  "tipo": "movimento",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Artichoke_wallpaper_Morris_and_Co_J_H_Dearle.jpg",
+  "legenda": "Detalhe de um papel de parede/tapeçaria 'Alcachofra' (Artichoke), desenhado por John Henry Dearle para a Morris & Co., em 1897. Um exemplo da valorização dos motivos florais e do artesanato.",
+  "período": "Segunda metade do Século XIX (c. 1860–1910)",
+  "origem": "Inglaterra",
+  "características": [
+    { "nome": "Revalorização do Artesanato", "link": null },
+    { "nome": "Simplicidade e Funcionalidade (rejeição à ornamentação vitoriana)", "link": null },
+    { "nome": "Motivos da Natureza (florais, vegetais)", "link": null },
+    { "nome": "União de artista e artesão", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Socialismo", "link": "https://pt.wikipedia.org/wiki/Socialismo" },
+    { "nome": "Arte Gótica e Medieval", "link": null },
+    { "nome": "Ideias de John Ruskin", "link": "https://pt.wikipedia.org/wiki/John_Ruskin" }
+  ],
+  "reação": [
+    { "nome": "Mecanização e Produção em Massa (industrialização)", "link": null },
+    { "nome": "Baixa qualidade dos produtos manufaturados da Era Vitoriana", "link": null }
+  ],
+  "influenciou": [
+    { "nome": "Art Nouveau", "link": "https://pt.wikipedia.org/wiki/Art_Nouveau" },
+    { "nome": "Modernismo/Bauhaus (pela busca de funcionalidade)", "link": "https://pt.wikipedia.org/wiki/Bauhaus" },
+    { "nome": "Movimento Mingei (Japão)", "link": null }
+  ],
+  "artistas_e_obras": {
+    "designers": [
+      { "nome": "William Morris", "link": "https://pt.wikipedia.org/wiki/William_Morris" },
+      { "nome": "John Ruskin", "link": "https://pt.wikipedia.org/wiki/John_Ruskin" },
+      { "nome": "C.F.A. Voysey", "link": null },
+      { "nome": "John Henry Dearle", "link": null }
+    ],
+    "escritores": [],
+    "obras": [
+      {
+        "titulo": "Papéis de parede e têxteis (Morris & Co.)",
+        "ano": "Final do Século XIX",
+        "artista": "William Morris e associados",
+        "link": null
+      },
+      {
+        "titulo": "The Red House (Arquitetura)",
+        "ano": "1859",
+        "artista": "Philip Webb (para William Morris)",
+        "link": "https://en.wikipedia.org/wiki/Red_House,_Bexleyheath"
+      }
+    ]
+  }
+},
+{
+  "nome": "Realismo Mágico",
+  "id": "Q174771",
+  "tipo": "movimento",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Die_Fliege_in_der_Kellergasse.jpg/960px-Die_Fliege_in_der_Kellergasse.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Realismo_m%C3%A1gico",
+  "legenda": "'Die Fliege in der Kellergasse', ilustração inspirada no Realismo Mágico.",
+  "período": "Apogeu nas décadas de 1960 e 1970 (Literatura)",
+  "origem": "América Latina",
+  "características": [
+    { "nome": "Elementos mágicos tratados com naturalidade", "link": null },
+    { "nome": "Mistura do factual (realidade) com o fantástico (mágico)", "link": null },
+    { "nome": "Tempo não-linear ou cíclico", "link": null },
+    { "nome": "Crítica político-social velada (metáfora de ditaduras)", "link": null },
+    { "nome": "Forte atenção à cultura, mitos e folclore local", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Surrealismo", "link": "https://pt.wikipedia.org/wiki/Surrealismo" },
+    { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
+    { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo_(literatura)" }
+  ],
+  "reação": [
+    { "nome": "Literatura Fantástica Europeia (buscando uma identidade própria)", "link": null },
+    { "nome": "Ditaduras Militares (como forma de resistência e alegoria)", "link": null }
+  ],
+  "influenciou": [
+    { "nome": "Literatura e cinema fantástico contemporâneo", "link": null }
+  ],
+  "artistas_e_obras": {
+    "escritores": [
+      { "nome": "Gabriel García Márquez", "link": "https://pt.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez" },
+      { "nome": "Jorge Luis Borges", "link": "https://pt.wikipedia.org/wiki/Jorge_Luis_Borges" },
+      { "nome": "Isabel Allende", "link": "https://pt.wikipedia.org/wiki/Isabel_Allende" },
+      { "nome": "Murilo Rubião (Brasil)", "link": "https://pt.wikipedia.org/wiki/Murilo_Rubi%C3%A3o" },
+      { "nome": "José J. Veiga (Brasil)", "link": "https://pt.wikipedia.org/wiki/Jos%C3%A9_J._Veiga" }
+    ],
+    "pintores": [
+      { "nome": "Remedios Varo", "link": "https://pt.wikipedia.org/wiki/Remedios_Varo" },
+      { "nome": "Leonora Carrington", "link": "https://pt.wikipedia.org/wiki/Leonora_Carrington" }
+    ],
+    "obras": [
+      {
+        "titulo": "Cem Anos de Solidão",
+        "ano": "1967",
+        "artista": "Gabriel García Márquez",
+        "link": "https://pt.wikipedia.org/wiki/Cem_Anos_de_Solid%C3%A3o"
+      },
+      {
+        "titulo": "A Casa dos Espíritos",
+        "ano": "1982",
+        "artista": "Isabel Allende",
+        "link": "https://pt.wikipedia.org/wiki/A_Casa_dos_Esp%C3%ADritos"
+      },
+      {
+        "titulo": "O Reino Deste Mundo",
+        "ano": "1949",
+        "artista": "Alejo Carpentier",
+        "link": "https://pt.wikipedia.org/wiki/O_Reino_Deste_Mundo"
+      },
+      {
+        "titulo": "Os Cavalinhos de Platiplanto",
+        "ano": "1959",
+        "artista": "José J. Veiga",
+        "link": null
+      }
+    ]
+  }
+},
+{
+  "nome": "Brutalismo",
+  "id": "Q582527",
+  "tipo": "movimento",
+  "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista_Teatro_teresa_carreño.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Arquitetura_brutalista",
+  "legenda": "O 'Teatro Tereza Careño' (1983), em Caracas, Venezuela, é um exemplo do Brutalismo na arquitetura.",
+  "período": "Décadas de 1950 a 1970",
+  "origem": "Reino Unido (o termo) / França (obras precursoras de Le Corbusier)",
+  "características": [
+    { "nome": "Uso de Concreto Aparente (béton brut)", "link": null },
+    { "nome": "Formas maciças, angulares e monumentais", "link": null },
+    { "nome": "Exposição da estrutura (pilares e vigas visíveis)", "link": null },
+    { "nome": "Ênfase na funcionalidade e honestidade material", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Modernismo Arquitetônico", "link": "https://pt.wikipedia.org/wiki/Arquitetura_moderna" },
+    { "nome": "Obras de Le Corbusier (principalmente a Unité d'Habitation)", "link": "https://pt.wikipedia.org/wiki/Le_Corbusier" },
+    { "nome": "Funcionalismo", "link": "https://pt.wikipedia.org/wiki/Funcionalismo_(arquitetura)" }
+  ],
+  "reação": [
+    { "nome": "Ornamentação excessiva de estilos anteriores", "link": null },
+    { "nome": "Estilos que disfarçavam a função estrutural", "link": null }
+  ],
+  "influenciou": [
+    { "nome": "Escola Paulista (Arquitetura Brasileira)", "link": "https://pt.wikipedia.org/wiki/Escola_Paulista_(arquitetura)" },
+    { "nome": "Algumas correntes do Pós-modernismo", "link": "https://pt.wikipedia.org/wiki/Arquitetura_p%C3%B3s-moderna" }
+  ],
+  "artistas_e_obras": {
+    "arquitetos": [
+      { "nome": "Le Corbusier", "link": "https://pt.wikipedia.org/wiki/Le_Corbusier" },
+      { "nome": "Lina Bo Bardi", "link": "https://pt.wikipedia.org/wiki/Lina_Bo_Bardi" },
+      { "nome": "João Vilanova Artigas", "link": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Vilanova_Artigas" },
+      { "nome": "Alison e Peter Smithson", "link": "https://pt.wikipedia.org/wiki/Alison_e_Peter_Smithson" }
+    ],
+    "obras": [
+      {
+        "titulo": "Unité d'Habitation",
+        "ano": "1952",
+        "artista": "Le Corbusier",
+        "link": "https://pt.wikipedia.org/wiki/Unidade_de_Habita%C3%A7%C3%A3o"
+      },
+      {
+        "titulo": "SESC Pompeia",
+        "ano": "1982",
+        "artista": "Lina Bo Bardi",
+        "link": "https://pt.wikipedia.org/wiki/SESC_Pompeia"
+      },
+      {
+        "titulo": "FAU/USP",
+        "ano": "1969",
+        "artista": "João Vilanova Artigas",
+        "link": "https://pt.wikipedia.org/wiki/Faculdade_de_Arquitetura_e_Urbanismo_da_Universidade_de_S%C3%A3o_Paulo"
+      }
+    ]
+  }
+},
+{
+  "nome": "Chiaroscuro",
+  "id": "Q14668",
+  "tipo": "tendência",
+  "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio_-_La_vocazione_di_San_Matteo.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Chiaroscuro",
+  "legenda": "A Vocação de São Mateus (1599-1600), de Caravaggio, obra-prima do uso dramático de luz e sombra.",
+  "período": "Surgiu no Renascimento, auge no Barroco (Séc. XVII)",
+  "origem": "Itália",
+  "características": [
+    { "nome": "Forte contraste entre luz e sombra", "link": null },
+    { "nome": "Modelagem de volume (tridimensionalidade) através da luz", "link": null },
+    { "nome": "Dramaticidade e teatralidade na composição", "link": null },
+    { "nome": "Fundo escuro para destacar as figuras iluminadas", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Sfumato (Leonardo da Vinci)", "link": "https://pt.wikipedia.org/wiki/Sfumato" },
+    { "nome": "Estudos de óptica e perspectiva", "link": null }
+    , { "nome": "Renascentismo", "link": "https://pt.wikipedia.org/wiki/Renascimento_italiano" }
+  ],
+  "reação": [
+    { "nome": "Iluminação uniforme e plana (Arte Medieval/Renascentista inicial)", "link": null }
+  ],
+  "influenciou": [
+    { "nome": "Tenebrismo", "link": "https://pt.wikipedia.org/wiki/Tenebrismo" },
+    { "nome": "Chiaroscuro", "link": "https://pt.wikipedia.org/wiki/Chiaroscuro_(cinema)" },
+    { "nome": "Filme Noir (Cinema)", "link": "https://pt.wikipedia.org/wiki/Filme_noir" },
+    { "nome": "Fotografia em preto e branco", "link": "https://pt.wikipedia.org/wiki/Fotografia_a_preto_e_branco" },
+    { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" }
+  ],
+  "artistas_e_obras": {
+    "pintores": [
+      { "nome": "Caravaggio", "link": "https://pt.wikipedia.org/wiki/Caravaggio" },
+      { "nome": "Rembrandt", "link": "https://pt.wikipedia.org/wiki/Rembrandt" },
+      { "nome": "Leonardo da Vinci", "link": "https://pt.wikipedia.org/wiki/Leonardo_da_Vinci" },
+      { "nome": "Georges de La Tour", "link": "https://pt.wikipedia.org/wiki/Georges_de_La_Tour" },
+      { "nome": "Gerard van Honthorst", "link": "https://pt.wikipedia.org/wiki/Gerard_van_Honthorst" }
+    ],
+    "cineastas": [
+      { "nome": "Fritz Lang (Cinema Expressionista)", "link": "https://pt.wikipedia.org/wiki/Fritz_Lang" },
+      { "nome": "Orson Welles", "link": "https://pt.wikipedia.org/wiki/Orson_Welles" }
+    ],
+    "obras": [
+      {
+        "titulo": "A Vocação de São Mateus",
+        "ano": "1599–1600",
+        "artista": "Caravaggio",
+        "link": "https://pt.wikipedia.org/wiki/A_Voca%C3%A7%C3%A3o_de_S%C3%A3o_Mateus"
+      },
+      {
+        "titulo": "A Ronda Noturna",
+        "ano": "1642",
+        "artista": "Rembrandt",
+        "link": "https://pt.wikipedia.org/wiki/A_Ronda_Noturna"
+      },
+      {
+        "titulo": "São João Batista",
+        "ano": "1513–1516",
+        "artista": "Leonardo da Vinci",
+        "link": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_Batista_(Leonardo_da_Vinci)"
+      },
+      {
+        "titulo": "O Recém-Nascido",
+        "ano": "c. 1640",
+        "artista": "Georges de La Tour",
+        "link": "https://pt.wikipedia.org/wiki/Georges_de_La_Tour"
+      }
+    ]
+  }
+},
+{
+  "nome": "Classicismo",
+  "id": "Q170292",
+  "tipo": "movimento",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nicolas_Poussin_-_Et_in_Arcadia_ego_%28deuxi%C3%A8me_version%29.jpg/960px-Nicolas_Poussin_-_Et_in_Arcadia_ego_%28deuxi%C3%A8me_version%29.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Classicismo",
+  "legenda": "\"Et in Arcadia ego\" (1637-1638), de Nicolas Poussin, obra que exemplifica o equilíbrio e a racionalidade clássica.",
+  "período": "Séculos XVII e XVIII (Entre o Barroco e o Romantismo)",
+  "origem": "França (Artes Visuais/Literatura) e Áustria (Música)",
+  "características": [
+    { "nome": "Racionalismo e busca pela perfeição formal", "link": "https://pt.wikipedia.org/wiki/Racionalismo" },
+    { "nome": "Equilíbrio, clareza e harmonia", "link": null },
+    { "nome": "Regras estritas de composição (ex: Lei das Três Unidades no teatro)", "link": "https://pt.wikipedia.org/wiki/Regra_das_tr%C3%AAs_unidades" },
+    { "nome": "Idealização da natureza e temas mitológicos", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Antiguidade Clássica (Grécia e Roma)", "link": "https://pt.wikipedia.org/wiki/Antiguidade_cl%C3%A1ssica" },
+    { "nome": "Arte da Grécia Antiga", "link": "https://pt.wikipedia.org/wiki/Arte_da_Gr%C3%A9cia_Antiga" },
+    {"nome": "Arte da Roma Antiga", "link": "https://pt.wikipedia.org/wiki/Arte_da_Roma_Antiga" },
+    { "nome": "Renascentismo", "link": "https://pt.wikipedia.org/wiki/Renascimento" },
+    { "nome": "Filosofia Cartesiana (Descartes)", "link": "https://pt.wikipedia.org/wiki/Ren%C3%A9_Descartes" }
+  ],
+  "reação": [
+    { "nome": "Barroco (contra seus excessos e dramatismo)", "link": "https://pt.wikipedia.org/wiki/Barroco" },
+    { "nome": "Rococó (na fase final)", "link": "https://pt.wikipedia.org/wiki/Rococ%C3%B3" }
+  ],
+  "influenciou": [
+    { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" },
+    { "nome": "Academicismo", "link": "https://pt.wikipedia.org/wiki/Academicismo" }
+  ],
+  "artistas_e_obras": {
+    "pintores": [
+      { "nome": "Nicolas Poussin", "link": "https://pt.wikipedia.org/wiki/Nicolas_Poussin" },
+      { "nome": "Claude Lorrain", "link": "https://pt.wikipedia.org/wiki/Claude_Lorrain" },
+      { "nome": "Charles Le Brun", "link": "https://pt.wikipedia.org/wiki/Charles_Le_Brun" }
+    ],
+    "arquitetos": [
+      { "nome": "Jules Hardouin-Mansart", "link": "https://pt.wikipedia.org/wiki/Jules_Hardouin-Mansart" },
+      { "nome": "Claude Perrault", "link": "https://pt.wikipedia.org/wiki/Claude_Perrault" },
+      { "nome": "Inigo Jones", "link": "https://pt.wikipedia.org/wiki/Inigo_Jones" }
+    ],
+    "escritores": [
+      { "nome": "Molière", "link": "https://pt.wikipedia.org/wiki/Moli%C3%A8re" },
+      { "nome": "Jean Racine", "link": "https://pt.wikipedia.org/wiki/Jean_Racine" },
+      { "nome": "Pierre Corneille", "link": "https://pt.wikipedia.org/wiki/Pierre_Corneille" },
+      { "nome": "Boileau", "link": "https://pt.wikipedia.org/wiki/Nicolas_Boileau" }
+    ],
+    "musicos": [
+      { "nome": "Wolfgang Amadeus Mozart", "link": "https://pt.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart" },
+      { "nome": "Joseph Haydn", "link": "https://pt.wikipedia.org/wiki/Joseph_Haydn" },
+      { "nome": "Christoph Willibald Gluck", "link": "https://pt.wikipedia.org/wiki/Christoph_Willibald_Gluck" }
+    ],
+    "obras": [
+      {
+        "titulo": "Et in Arcadia ego",
+        "ano": "1637-1638",
+        "artista": "Nicolas Poussin",
+        "link": "https://pt.wikipedia.org/wiki/Et_in_Arcadia_ego"
+      },
+      {
+        "titulo": "O Misantropo",
+        "ano": "1666",
+        "artista": "Molière",
+        "link": "https://pt.wikipedia.org/wiki/O_Misantropo"
+      },
+      {
+        "titulo": "Sinfonia nº 40",
+        "ano": "1788",
+        "artista": "Mozart",
+        "link": "https://pt.wikipedia.org/wiki/Sinfonia_n.%C2%BA_40_(Mozart)"
+      },
+      {
+        "titulo": "Fachada Leste do Louvre",
+        "ano": "1667-1670",
+        "artista": "Claude Perrault",
+        "link": "https://pt.wikipedia.org/wiki/Pal%C3%A1cio_do_Louvre"
+      }
+    ]
+  }
+}
+]

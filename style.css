@@ -1,0 +1,742 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap'); /* Importa a fonte Quicksand do Google Fonts */
+
+* {
+    box-sizing: border-box; /* Garante que padding e border não aumentem o tamanho total do elemento */
+}
+
+:root {
+    --primary-color: #8ab4f8; /* Cor primária (azul claro) */
+    --secondary-color: #e8eaed; /* Cor secundária (cinza claro) */
+    --tertiary-color: #9aa0a6; /* Cor terciária (cinza médio) */
+    --accent-color: var(--primary-color); /* Cor de destaque, usando a cor primária */
+    --bg-color: #202124; /* Cor de fundo (cinza escuro) */
+}
+
+body {
+    margin: 0; /* Remove a margem padrão do body */
+    /* Cor de fundo sólida como fallback, caso a imagem não carregue */
+    background-color: var(--bg-color); 
+    /* Aplica a textura de feltro verde a partir de um arquivo local */
+    background-image: url('img/feltro-verde.jpg');
+    background-attachment: fixed; /* Mantém a imagem de fundo estática durante a rolagem */
+    color: var(--secondary-color); /* Define a cor do texto padrão usando uma variável */
+    font-family: "Quicksand", sans-serif; /* Define a família da fonte */
+    display: flex; /* Habilita o layout flexbox */
+    flex-direction: column; /* Organiza os itens em coluna */
+    min-height: 100vh; /* Garante que o body ocupe no mínimo a altura total da tela */
+}
+
+header {
+    padding: 1rem; /* Espaçamento interno reduzido */
+    display: flex; /* Habilita o layout flexbox */
+    align-items: center; /* Alinha os itens verticalmente ao centro */
+    justify-content: space-around; /* Distribui os itens com espaço ao redor */
+    position: sticky; /* Mantém o cabeçalho fixo no topo ao rolar a página */
+    top: 0; /* Posição do topo quando sticky */
+    /* Fundo semi-transparente para um efeito de profundidade sobre a textura */
+    background: rgba(32, 33, 36, 0.8); 
+    z-index: 20; /* Define a ordem de empilhamento para ficar sobre outros elementos (ajustado acima dos ícones dos cards) */
+    border-bottom: 1px solid var(--bg-color); /* Adiciona uma borda inferior */
+    gap: 1rem; /* Espaçamento entre os elementos flex */
+}
+
+header h1 {
+    font-size: 1.5rem; /* Tamanho da fonte */
+    margin: 0; /* Remove a margem padrão */
+    font-weight: 500; /* Peso da fonte (médio) */
+    white-space: nowrap; /* Impede a quebra de linha do texto */
+}
+
+div input {
+    padding: 0.375rem 0.75rem; /* Espaçamento interno */
+    border-radius: 1rem; /* Arredonda as bordas */
+    border: 1px solid var(--tertiary-color); /* Define a borda */
+    background: var(--bg-color); /* Cor de fundo */
+    font-family: inherit; /* Herda a família da fonte do elemento pai */
+    font-size: 1.5rem; /* Tamanho da fonte */
+    transition: all 0.2s ease; /* Adiciona uma transição suave para todas as propriedades */
+    width: 30rem; /* Largura do input */
+    color: var(--secondary-color); /* Cor do texto digitado */
+    margin-right: .5rem; /* Margem à direita */
+}
+
+div input::placeholder {
+    font-size: 1.2rem; /* Tamanho da fonte do placeholder */
+    font-weight: 300; /* Peso da fonte do placeholder */
+    color: var(--tertiary-color); /* Cor do texto do placeholder */
+}
+
+div input:focus {
+    outline: none; /* Remove a borda de foco padrão */
+    border-color: var(--bg-color); /* Muda a cor da borda ao focar */
+    box-shadow: 0 0 0 0.1rem var(--tertiary-color); /* Adiciona uma sombra de caixa para indicar foco */
+}
+
+#botao-busca {
+    padding: 1rem 2rem; /* Espaçamento interno */
+    border-radius: 1rem; /* Arredonda as bordas */
+    border: none; /* Remove a borda padrão */
+    cursor: pointer; /* Muda o cursor para uma mão ao passar por cima */
+    font-family: inherit; /* Herda a família da fonte */
+    font-weight: 500; /* Peso da fonte */
+    font-size: 1rem; /* Tamanho da fonte */
+    white-space: nowrap; /* Impede a quebra de linha do texto */
+    transition: background-color 0.2s ease, color 0.2s ease; /* Transição suave para cor de fundo e cor do texto */
+    background-color: var(--bg-color); /* Cor de fundo */
+    color: var(--secondary-color); /* Cor do texto */
+    border: 1px solid var(--bg-color); /* Adiciona uma borda */
+}
+
+/* Botão de ordenação alfabética ao lado da busca */
+#botao-alfabetico {
+    padding: 0.6rem 0.9rem;
+    border-radius: 1rem;
+    border: 1px solid var(--bg-color);
+    background: transparent;
+    color: var(--secondary-color);
+    margin-left: 0.5rem;
+    cursor: pointer;
+    font-weight: 600;
+}
+#botao-alfabetico:hover { background: rgba(138,180,248,0.12); }
+
+#botao-busca:hover {
+    background-color: var(--primary-color); /* Muda a cor de fundo ao passar o mouse */
+    color: var(--bg-color); /* Muda a cor do texto ao passar o mouse */
+    box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra de caixa */
+}
+
+#botao-busca:active {
+    transform: scale(0.98); /* Efeito de clique (diminui o tamanho) */
+}
+
+main {
+    max-width: 1600px; /* Aumenta a largura máxima para acomodar mais cards */
+    width: 100%; /* Garante que o main ocupe a largura disponível */
+    margin: 2rem auto 0; /* Centraliza e adiciona margem no topo */
+    margin-top: 2rem; /* Margem no topo */
+    padding: 0 1.5rem; /* Adiciona um espaçamento nas laterais */
+}
+
+/* Container que agrupa colunas criadas pelo JS */
+.columns {
+    display: flex;
+    gap: 1.25rem;
+    align-items: flex-start;
+}
+
+.column {
+    flex: 1 1 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    min-width: 0; /* importante para evitar overflow em flex */
+}
+
+article.card {
+    background: #EAE0D5; /* Cor de pergaminho fosco para o fundo do card */
+    border-radius: 12px; /* Bordas mais arredondadas */
+    position: relative;
+    padding: 1.25rem; /* Espaçamento interno reduzido */
+    padding: 1rem; /* Espaçamento interno ainda mais reduzido */
+    box-shadow: 0 6px 12px rgba(0,0,0,0.3); /* Sombra um pouco mais pronunciada para dar profundidade */
+    transition: max-height 0.45s ease-in-out, transform 0.2s ease, box-shadow 0.2s ease;
+    border-bottom: none; /* Remove a borda inferior anterior */
+    padding-bottom: 1.5rem;
+    display: flex; /* Adicionado para o wrapper interno */
+    flex-direction: column; /* Adicionado para o wrapper interno */
+    max-height: 420px; /* Altura colapsada padrão */
+    overflow: hidden; /* Esconder o excesso e animar via max-height */
+}
+
+/* Ícone e cor do título para cards do tipo "movimento" */
+article.card.tipo-movimento .card-icon {
+    position: absolute;
+    top: 1rem; /* alinhado com o título */
+    right: 1rem;
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    z-index: 12;
+    pointer-events: none;
+}
+
+article.card.tipo-movimento h2 {
+    color: crimson; /* cor carmesim para o título */
+}
+
+/* Garante que o link dentro do h2 também fique carmesim (sobrescreve regras gerais de link) */
+article.card.tipo-movimento h2 a {
+    color: crimson;
+}
+
+/* Ícone e cor do título para cards do tipo "período" */
+article.card.tipo-periodo .card-icon {
+    position: absolute;
+    top: 1rem; /* alinhado com o título */
+    right: 1rem;
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    z-index: 12;
+    pointer-events: none;
+}
+
+article.card.tipo-periodo h2 {
+    color: #4169E1; /* RoyalBlue para o título */
+}
+
+article.card.tipo-periodo h2 a {
+    color: #4169E1;
+}
+
+/* Ícone e cor do título para cards do tipo "escola" */
+article.card.tipo-escola .card-icon {
+    position: absolute;
+    top: 1rem; /* alinhado com o título */
+    right: 1rem;
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    z-index: 12;
+    pointer-events: none;
+}
+
+article.card.tipo-escola h2 {
+    color: #006400; /* Verde escuro para o título das escolas */
+}
+
+article.card.tipo-escola h2 a {
+    color: #006400;
+}
+
+/* Ícone e cor do título para cards do tipo "gênero" */
+article.card.tipo-genero .card-icon {
+    position: absolute;
+    top: 1rem; /* alinhado com o título */
+    right: 1rem;
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    z-index: 12;
+    pointer-events: none;
+}
+
+article.card.tipo-genero h2 {
+    color: #bda000; /* Amarelo ouro para títulos de gênero */
+}
+
+article.card.tipo-genero h2 a {
+    color: #c0a300;
+}
+
+/* Ícone e cor do título para cards do tipo "tendência" */
+article.card.tipo-tendencia .card-icon {
+    position: absolute;
+    top: 1rem; /* alinhado com o título */
+    right: 1rem;
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    z-index: 12;
+    pointer-events: none;
+}
+
+article.card.tipo-tendencia h2 {
+    color: #6A0DAD; /* Roxo para títulos de tendência */
+}
+
+article.card.tipo-tendencia h2 a {
+    color: #6A0DAD;
+}
+
+/* Estado expandido: aumenta max-height (transição suave) */
+.card.expandido {
+    max-height: 2000px; /* valor suficientemente grande para a maioria dos conteúdos */
+}
+
+article:hover {
+    transform: translateY(-5px); /* Eleva ligeiramente o card ao passar o mouse */
+    cursor: pointer; /* Muda o cursor para uma mão */
+}
+
+article h2 {
+    margin-top: 0; /* Remove a margem superior */
+    font-weight: 600; /* Peso da fonte */
+    font-size: 1.4rem; /* Tamanho da fonte reduzido */
+    font-size: 1.2rem; /* Tamanho da fonte reduzido pela metade */
+    border-bottom: none; /* Sem borda inferior */
+    padding-bottom: 0; /* Sem espaçamento interno inferior */
+    margin-bottom: 0.25rem; /* Margem inferior */
+    color: #004d00; /* Verde escuro para o título, combinando com o fundo */
+}
+
+article p {
+    margin: 0.5rem 0; /* Margem superior e inferior */
+    line-height: 1.6; /* Altura da linha para melhor legibilidade */
+    font-size: 1rem; /* Tamanho da fonte */
+    font-size: 0.9rem; /* Tamanho da fonte reduzido */
+    margin-bottom: 0.5rem; /* Margem inferior */
+    color: #3d3d3d; /* Cinza escuro para o texto, para boa legibilidade */
+}
+
+article p strong {
+    color: #000; /* Preto para o texto em negrito, para maior destaque */
+    font-weight: 600; /* Aumenta o peso da fonte para o negrito */
+}
+
+article a {
+    color: #006400; /* Verde escuro para links, garantindo alto contraste */
+    text-decoration: none; /* Remove o sublinhado padrão */
+    font-weight: 500; /* Fonte mais espessa para melhor legibilidade */
+}
+
+article img {
+    width: 100%;
+    border-radius: 8px;
+    aspect-ratio: 1 / 1; /* Força a imagem a ter uma proporção quadrada */
+    object-fit: cover; /* Faz a imagem preencher o espaço sem distorcer, cortando o excesso */
+}
+
+/* Ajuste específico para a imagem do Art Nouveau */
+article img[src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Alfons_Mucha_-_1898_-_Dance.jpg/960px-Alfons_Mucha_-_1898_-_Dance.jpg"],
+article img[src="https://upload.wikimedia.org/wikipedia/commons/3/32/Makowski_Woman_with_buckets.jpg"],
+article img[src="https://upload.wikimedia.org/wikipedia/pt/9/9f/Lempicka_musician.jpg"],
+article img[src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/V%C3%A9nus_de_Milo_-_Mus%C3%A9e_du_Louvre_AGER_LL_299_%3B_N_527_%3B_Ma_399.jpg/500px-V%C3%A9nus_de_Milo_-_Mus%C3%A9e_du_Louvre_AGER_LL_299_%3B_N_527_%3B_Ma_399.jpg"],
+article img[src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/500px-Augustus_of_Prima_Porta.jpg"] {
+    object-position: 50% 0%; /* Alinha a imagem pelo topo, em vez de pelo centro */
+}
+
+article .legenda {
+    text-align: center;
+    font-size: 0.8rem; /* Tamanho da fonte da legenda reduzido */
+        color: #000; /* Legendas devem aparecer em preto */
+    font-style: italic; /* Adiciona estilo de itálico para diferenciar a legenda */
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.info-section {
+    margin-top: 1rem;
+    }
+
+    .info-section ul {
+        list-style: none;
+        padding-left: 0;
+        margin-top: 0.5rem;
+    }
+
+    .info-section li {
+        margin-bottom: 0.5rem;
+        line-height: 1.4;
+    }
+
+    .info-section li span {
+        color: #000; /* Texto suplementar (ex.: ano/artista) em preto */
+        font-size: 0.9rem;
+        margin-left: 0.5rem;
+    }
+
+    /* Links de artistas e listas inline (texto corrido separado por vírgulas) */
+    .info-section .inline-links {
+        margin: 0.25rem 0 0 0;
+        font-size: 0.95rem;
+    }
+    .info-section .inline-links a {
+        text-decoration: none;
+    }
+    .info-section .inline-links a:hover { text-decoration: underline; }
+
+    /* Botões de navegação rápida dentro das seções de info (Influências / Reação a / Influenciou) */
+    .info-section .info-btn {
+        background: var(--primary-color);
+        color: var(--bg-color);
+        border: none;
+        padding: 0.25rem 0.6rem;
+        border-radius: 999px;
+        font-size: 0.9rem;
+        cursor: pointer;
+        text-decoration: none;
+        display: inline-block;
+        margin: 0.15rem 0 0 0;
+    }
+    .info-section .info-btn:hover {
+        background: #6fa8ff;
+    }
+    .info-section .info-btn:active {
+        transform: translateY(1px);
+    }
+
+article a:hover {
+    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+}
+
+.footer {
+    width: 100%; /* Largura total */
+    margin-top: auto; /* Empurra o rodapé para o final do espaço flexível */
+    color: var(--tertiary-color); /* Cor do texto */
+    background-color: var(--bg-color); /* Cor de fundo */
+    padding: 10px 20px; /* Espaçamento interno reduzido */
+    border-top: 1px solid #3c4043; /* Borda superior */
+    font-size: 0.8rem; /* Tamanho da fonte */
+    text-align: center; /* Centraliza o texto do rodapé */
+}
+
+.footer-location {
+    color: #9aa0a6; /* Cor do texto */
+    margin-bottom: 10px; /* Margem inferior */
+}
+
+.footer-links {
+    list-style: none; /* Remove os marcadores da lista */
+    display: flex; /* Habilita o layout flexbox */
+    flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha */
+    justify-content: center; /* Centraliza os itens horizontalmente */
+    gap: 15px; /* Espaçamento entre os links */
+}
+
+.footer-links a {
+    color: var(--secondary-color); /* Cor do link */
+    text-decoration: none; /* Remove o sublinhado */
+    transition: color 0.2s; /* Transição suave para a cor */
+}
+
+.footer-links a:hover {
+    color: var(--accent-color); /* Muda a cor do link ao passar o mouse (variável não definida) */
+}
+
+/* Estilo específico para links dentro do rodapé: azul claro */
+.footer a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+.footer a:hover {
+    color: #a8d2ff;
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    header { /* Estilos para telas com largura máxima de 768px */
+        flex-direction: column; /* Organiza os itens do cabeçalho em coluna */
+        padding: 1rem; /* Reduz o espaçamento interno */
+    }
+
+    header h1 { /* Estilos para o h1 no cabeçalho em telas menores */
+        text-align: center; /* Centraliza o texto */
+        margin-bottom: 1rem; /* Adiciona margem inferior */
+    }
+
+    div input { /* Estilos para o input em telas menores */
+        width: 90vw; /* Largura baseada na largura da viewport */
+        font-size: 1.2rem; /* Reduz o tamanho da fonte */
+    }
+
+    main { /* Estilos para o main em telas menores */
+        padding: 0 1rem; /* Adiciona espaçamento lateral */
+    }
+
+    main {
+        column-count: 2; /* Reduz para 2 colunas em tablets */
+        column-width: auto; /* Deixa o navegador calcular a largura */
+    }
+
+    article:hover { /* Estilos para o article em telas menores */
+        transform: none; /* Remove o efeito de elevação ao passar o mouse */
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 { /* Estilos para o h1 em telas com largura máxima de 480px */
+        font-size: 1rem; /* Reduz ainda mais o tamanho da fonte */
+        max-width: 70%; /* Define uma largura máxima */
+        word-wrap: break-word; /* Permite a quebra de palavras longas */
+    }
+
+    main {
+        column-count: 1; /* Uma única coluna em celulares */
+        column-width: auto;
+    }
+
+    div input, /* Estilos para o input e seu placeholder em telas muito pequenas */
+    div input::placeholder {
+        font-size: 1rem; /* Reduz o tamanho da fonte */
+    }
+
+    article h2 { /* Estilos para o h2 do article em telas muito pequenas */
+        font-size: 1.3rem; /* Reduz o tamanho da fonte */
+    }
+
+    div { /* Estilos para a div do cabeçalho em telas muito pequenas */
+        display: flex; /* Habilita flexbox */
+        align-items: center; /* Alinha itens ao centro */
+        justify-content: center; /* Centraliza itens */
+        flex-direction: column; /* Organiza em coluna */
+        gap: 0.5rem; /* Espaçamento entre os itens */
+    }
+
+    .footer { /* Estilos para o rodapé em telas muito pequenas */
+        display: none; /* Oculta o rodapé */
+    }
+
+    button { /* Estilos para o botão em telas muito pequenas */
+        margin-top: 1rem; /* Adiciona margem no topo */
+    }
+}
+
+/* --- Estilos para a página de Influências --- */
+
+.back-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.link-influencia {
+    color: #34a853 !important; /* Verde, !important para sobrescrever outras regras de link */
+    font-weight: bold;
+}
+
+.link-influencia:hover {
+    text-decoration: underline;
+}
+
+/* Links na página 'Sobre' devem aparecer em amarelo ouro */
+body.sobre a {
+    color: #FFD700;
+}
+
+body.sobre a:hover {
+    color: #e6be00;
+    text-decoration: underline;
+}
+
+/* Layout para seção 'Sobre mim' com imagem ao lado */
+body.sobre .sobre-mim {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+body.sobre .sobre-eu-img {
+    width: 200px;
+    height: auto; /* permite mostrar a imagem inteira sem cortes */
+    object-fit: contain; /* mantém proporção e evita crop */
+    border-radius: 8px;
+    flex-shrink: 0;
+}
+
+body.sobre .sobre-mim-text {
+    flex: 1 1 auto;
+}
+
+@media (max-width: 768px) {
+    body.sobre .sobre-mim { flex-direction: column; }
+    body.sobre .sobre-eu-img { width: 100%; height: auto; }
+}
+
+/* Removido deslocamento vertical para evitar cortes; imagem exibida inteira */
+
+.influencias-container {
+    display: flex;
+    width: 100%;
+    max-width: 1600px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+    gap: 2rem;
+    align-items: flex-start;
+}
+
+.caixa-influencias {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+
+.caixa-influencias.esquerda {
+    flex: 3; /* Ocupa 3 partes do espaço */
+    flex-direction: row; /* Garante que os itens fiquem em linha */
+    overflow-x: auto; /* Adiciona rolagem horizontal se necessário */
+    align-items: flex-start; /* Alinha os cards no topo */
+}
+
+/* Define uma largura fixa para os cards na caixa de influenciadores */
+.caixa-influencias.esquerda .card {
+    width: 300px;
+    flex-shrink: 0; /* Impede que o card encolha */
+}
+
+.caixa-influencias.direita {
+    flex: 1; /* Ocupa 1 parte do espaço */
+    position: sticky; /* Fica fixo ao rolar */
+    top: 100px; /* Distância do topo (ajuste conforme seu header) */
+}
+
+.divisor {
+    font-size: 4rem;
+    color: var(--tertiary-color);
+    padding-top: 50vh; /* Centraliza verticalmente de forma aproximada */
+    transform: translateY(-50%);
+}
+
+/* Diminuir o ícone divisor em influenciados para 1/3 do tamanho visual atual */
+.influenciados-container .divisor img {
+    width: 300px; /* tamanho fixo para teste solicitado */
+    max-width: 300px; /* garante limite máximo */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    /* em telas menores reduzimos proporcionalmente para evitar overflow */
+    .influenciados-container .divisor img {
+        width: 80%;
+        max-width: 240px;
+    }
+}
+
+/* mesmo estilo para o divisor na página de influências */
+.influencias-container .divisor img {
+    width: 300px;
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .influencias-container .divisor img {
+        width: 80%;
+        max-width: 240px;
+    }
+}
+
+/* --- Estilos para a página de Influenciados (similar, mas com layout invertido) --- */
+
+.influenciados-container {
+    display: flex;
+    width: 100%;
+    max-width: 1600px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+    gap: 2rem;
+    align-items: flex-start;
+}
+
+.influenciados-container .caixa-influencias.esquerda {
+    flex: 1; /* Caixa menor na esquerda */
+    position: sticky;
+    top: 100px;
+}
+
+.influenciados-container .caixa-influencias.direita {
+    flex: 3; /* Caixa maior na direita */
+    flex-direction: row; /* Permite múltiplos cards lado a lado */
+    display: flex;
+    overflow-x: auto; /* Rolagem horizontal quando muitos cards */
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+/* Card único à esquerda: ocupa 100% da coluna (tamanho consistente) */
+.influenciados-container .caixa-influencias.esquerda .card {
+    width: 100%;
+}
+
+/* Cards à direita: largura fixa igual aos da página de influências */
+.influenciados-container .caixa-influencias.direita .card {
+    width: 300px;
+    flex-shrink: 0; /* Impede que encolham */
+}
+
+/* Garante que todos os cards nas páginas de influências e influenciados
+   tenham a mesma altura visual (ajustável via variável). */
+:root {
+    --card-height: 420px;
+}
+
+.influencias-container article.card,
+.influenciados-container article.card {
+    height: var(--card-height);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden; /* Evita que conteúdo quebre o layout */
+}
+
+/* Conteúdo interno pode rolar se exceder a altura fixa */
+.influencias-container article.card .card-content-wrapper,
+.influenciados-container article.card .card-content-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden; /* remove barras de rolagem verticais */
+    gap: 0.5rem;
+}
+
+/* Ajuste da imagem dentro dos cards para não afetar a altura total */
+.influencias-container article.card img,
+.influenciados-container article.card img {
+    width: 100%;
+    height: 200px; /* altura fixa da imagem dentro do card */
+    aspect-ratio: auto; /* sobrescreve regra global quadrada quando necessário */
+    object-fit: cover;
+}
+
+/* Trunca texto também na página de influências para evitar scroll vertical */
+.influencias-container article.card .conteudo-visivel p {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* --- Ajustes específicos para a página influenciados: remover barra vertical --- */
+.influenciados-container article.card .card-content-wrapper {
+    overflow: hidden; /* evita barra de rolagem vertical nesta página */
+}
+
+/* Reduz a altura da imagem dentro dos cards da página influenciados
+   para criar mais espaço para texto e reduzir necessidade de scroll */
+.influenciados-container article.card img {
+    height: 180px;
+}
+
+/* Trunca texto em múltiplas linhas para evitar overflow visível
+   sem usar barra de rolagem vertical. Ajuste -webkit-line-clamp conforme necessário. */
+.influenciados-container article.card .conteudo-visivel p {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+@media (max-width: 768px) {
+    :root { --card-height: 360px; }
+}
+
+@media (max-width: 480px) {
+    :root { --card-height: 320px; }
+}
+
+/* Estilos básicos para paginação (barra de navegação) */
+.pagination {
+    display: flex;
+    gap: .5rem;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 0 2rem 0;
+}
+.pagination button {
+    background: #2b2b2b;
+    color: var(--secondary-color);
+    border: 1px solid #444;
+    padding: 0.4rem 0.6rem;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.pagination button.active {
+    background: var(--primary-color);
+    color: var(--bg-color);
+    font-weight: 600;
+}
+.pagination button:disabled {
+    opacity: 0.4;
+    cursor: default;
+}
