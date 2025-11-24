@@ -654,21 +654,13 @@ body.sobre .sobre-mim-text {
     --card-height: 420px;
 }
 
-.influencias-container article.card,
-.influenciados-container article.card {
-    height: var(--card-height);
-    display: flex;
-    flex-direction: column;
-    overflow: hidden; /* Evita que conteúdo quebre o layout */
-}
-
 /* Conteúdo interno pode rolar se exceder a altura fixa */
 .influencias-container article.card .card-content-wrapper,
 .influenciados-container article.card .card-content-wrapper {
     display: flex;
     flex-direction: column;
     height: 100%;
-    overflow: hidden; /* remove barras de rolagem verticais */
+    overflow-y: hidden; /* Remove a barra de rolagem interna para permitir a expansão do card */
     gap: 0.5rem;
 }
 
@@ -690,7 +682,7 @@ body.sobre .sobre-mim-text {
 
 /* --- Ajustes específicos para a página influenciados: remover barra vertical --- */
 .influenciados-container article.card .card-content-wrapper {
-    overflow: hidden; /* evita barra de rolagem vertical nesta página */
+    overflow-y: hidden; /* Remove a barra de rolagem interna */
 }
 
 /* Reduz a altura da imagem dentro dos cards da página influenciados

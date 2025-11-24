@@ -26,10 +26,12 @@
       { "nome": "Teocentrismo", "link": "https://pt.wikipedia.org/wiki/Teocentrismo" }
     ],
     "influenciou": [
+      { "nome": "Maneirismo", "link": "https://pt.wikipedia.org/wiki/Maneirismo" },
       { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" },
       { "nome": "Chiaroscuro", "link": "https://pt.wikipedia.org/wiki/Chiaroscuro_(cinema)" },
       { "nome": "Classicismo", "link": "https://pt.wikipedia.org/wiki/Classicismo" },
-      { "nome": "Iluminismo", "link": "https://pt.wikipedia.org/wiki/Iluminismo" },
+      { "nome": "Arcadismo", "link": "https://pt.wikipedia.org/wiki/Arcadismo" },
+      { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" },
       { "nome": "Ciência", "link": "https://pt.wikipedia.org/wiki/Ci%C3%AAncia" }
     ],
     "artistas_e_obras": {
@@ -126,6 +128,7 @@
     ],
     "reação": [
       { "nome": "Reforma Protestante", "link": "https://pt.wikipedia.org/wiki/Reforma_Protestante" }
+      ,{ "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" }
     ],
     "influenciou": [
       { "nome": "Rococó", "link": "https://pt.wikipedia.org/wiki/Rococ%C3%B3" },
@@ -214,7 +217,7 @@
       { "nome": "Fusão entre grotesco e sublime", "link": "https://pt.wikipedia.org/wiki/Sublime" }
     ],
     "influencias": [
-      { "nome": "Arte gótica", "link": "https://pt.wikipedia.org/wiki/Arte_g%C3%B3tica" },
+      { "nome": "Gótico", "link": "https://pt.wikipedia.org/wiki/Arte_g%C3%B3tica" },
       { "nome": "Medievalismo", "link": "https://pt.wikipedia.org/wiki/Medievalismo" },
       { "nome": "Romance de cavalaria", "link": "https://pt.wikipedia.org/wiki/Romance_de_cavalaria" },
       { "nome": "Sturm und Drang", "link": "https://pt.wikipedia.org/wiki/Sturm_und_Drang" }
@@ -226,10 +229,13 @@
       { "nome": "Revolução Industrial", "link": "https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Industrial" }
     ],
     "influenciou": [
+      { "nome": "Naturalismo", "link": "https://pt.wikipedia.org/wiki/Naturalismo" },
+      { "nome": "Pré-rafaelismo", "link": "https://pt.wikipedia.org/wiki/Pr%C3%A9-rafaelismo" },
       { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo" },
       { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
       { "nome": "Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" },
-      { "nome": "Nacionalismo", "link": "https://pt.wikipedia.org/wiki/Nacionalismo" }
+      { "nome": "Nacionalismo", "link": "https://pt.wikipedia.org/wiki/Nacionalismo" },
+      { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" }
     ],
     "artistas_e_obras": {
       "arquitetos": [
@@ -418,7 +424,9 @@
       { "nome": "Rococó", "link": "https://pt.wikipedia.org/wiki/Rococ%C3%B3" }
     ],
     "influenciou": [
-      { "nome": "Neoclassicismo no século XX", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo_no_s%C3%A9culo_XX_(m%C3%BAsica)" }
+      { "nome": "Pré-rafaelismo", "link": "https://pt.wikipedia.org/wiki/Pr%C3%A9-rafaelismo" },
+      { "nome": "Neoclassicismo no século XX", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo_no_s%C3%A9culo_XX_(m%C3%AAsica)" },
+      { "nome": "Realismo socialista", "link": "https://pt.wikipedia.org/wiki/Realismo_socialista" }
     ],
     "vertentes": [
       { "nome": "Arquitetura neoclássica", "link": "https://pt.wikipedia.org/wiki/Arquitetura_neocl%C3%A1ssica" },
@@ -499,6 +507,7 @@
     ],
     "influenciou": [
       { "nome": "Pop Art", "link": "https://pt.wikipedia.org/wiki/Pop_art" },
+      { "nome": "Realismo Mágico", "link": "https://pt.wikipedia.org/wiki/Realismo_m%C3%A1gico" },
       { "nome": "Arte conceitual", "link": "https://pt.wikipedia.org/wiki/Arte_conceitual" }
     ],
     "vertentes": [],
@@ -587,9 +596,11 @@
     ],
     "influenciou": [
       { "nome": "Naturalismo", "link": "https://pt.wikipedia.org/wiki/Naturalismo" },
+      { "nome": "Surrealismo", "link": "https://pt.wikipedia.org/wiki/Surrealismo" },      
       { "nome": "Verismo", "link": "https://pt.wikipedia.org/wiki/Verismo" },
       { "nome": "Realismo socialista", "link": "https://pt.wikipedia.org/wiki/Realismo_socialista" },
       { "nome": "Neorrealismo", "link": "https://pt.wikipedia.org/wiki/Neorrealismo" },
+      { "nome": "Pós-impressionismo", "link": "https://pt.wikipedia.org/wiki/P%C3%B3s-impressionismo" },
       { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" }
     ],
     "vertentes": [
@@ -689,6 +700,7 @@
     ],
     "influenciou": [
       { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" },
+      { "nome": "Pré-rafaelismo", "link": "https://pt.wikipedia.org/wiki/Pr%C3%A9-rafaelismo" },
       { "nome": "Arte moderna", "link": "https://pt.wikipedia.org/wiki/Arte_moderna" }
     ],
     "artistas_e_obras": {
@@ -850,7 +862,8 @@
     "influenciou": [
       { "nome": "Renascentismo", "link": "https://pt.wikipedia.org/wiki/Renascimento" },
       { "nome": "Neogótico", "link": "https://pt.wikipedia.org/wiki/Neog%C3%B3tico" },
-      { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" },
+      { "nome": "Maneirismo", "link": "https://pt.wikipedia.org/wiki/Maneirismo" },
+      { "nome": "Arts & Crafts", "link": null },
       { "nome": "Moda gótica", "link": "https://pt.wikipedia.org/wiki/Moda_g%C3%B3tica" }
     ],
     "vertentes": [
@@ -930,8 +943,9 @@
     "influencias": [
       { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" }
     ],
-    "reação": [
-      { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" }
+    "reação": [ 
+      { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" },
+      { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" } 
     ],
     "influenciou": [
       { "nome": "Art Nouveau", "link": "https://pt.wikipedia.org/wiki/Art_Nouveau" },
@@ -1015,8 +1029,10 @@
       { "nome": "Positivismo", "link": "https://pt.wikipedia.org/wiki/Positivismo" }
     ],
     "influenciou": [
+      { "nome": "Construtivismo", "link": "https://pt.wikipedia.org/wiki/Construtivismo_russo" },
       { "nome": "Art Nouveau", "link": "https://pt.wikipedia.org/wiki/Art_Nouveau" },
-      { "nome": "Surrealismo", "link": "https://pt.wikipedia.org/wiki/Surrealismo" }
+      { "nome": "Surrealismo", "link": "https://pt.wikipedia.org/wiki/Surrealismo" },
+      { "nome": "Realismo Mágico", "link": "https://pt.wikipedia.org/wiki/Realismo_m%C3%A1gico" }
     ],
     "vertentes": [
       { "nome": "Pintura do simbolismo", "link": "https://pt.wikipedia.org/wiki/Pintura_do_simbolismo" }
@@ -1111,9 +1127,11 @@
     "influenciou": [
       { "nome": "Nova Objetividade", "link": "https://pt.wikipedia.org/wiki/Nova_Objetividade" },
       { "nome": "Expressionismo abstrato", "link": "https://pt.wikipedia.org/wiki/Expressionismo_abstrato" },
+      { "nome": "Surrealismo", "link": "https://pt.wikipedia.org/wiki/Surrealismo" },
       { "nome": "Informalismo", "link": "https://pt.wikipedia.org/wiki/Informalismo" },
       { "nome": "Neoexpressionismo", "link": "https://pt.wikipedia.org/wiki/Neoexpressionismo" },
       { "nome": "Arquitetura funcionalista", "link": "https://pt.wikipedia.org/wiki/Funcionalismo_(arquitetura)" },
+      { "nome": "Bauhaus", "link": "https://pt.wikipedia.org/wiki/Bauhaus" },
       { "nome": "Arquitetura racionalista", "link": "https://pt.wikipedia.org/wiki/Arquitetura_racionalista" }
     ],
     "artistas_e_obras": {
@@ -1222,11 +1240,13 @@
     "influenciou": [
       { "nome": "Futurismo", "link": "https://pt.wikipedia.org/wiki/Futurismo" },
       { "nome": "Construtivismo", "link": "https://pt.wikipedia.org/wiki/Construtivismo_russo" },
-      { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" },
+      { "nome": "Surrealismo", "link": "https://pt.wikipedia.org/wiki/Surrealismo" },
+      { "nome": "Dadaísmo", "link": "https://pt.wikipedia.org/wiki/Dada%C3%ADsmo" },
       { "nome": "Abstracionismo geométrico", "link": "https://pt.wikipedia.org/wiki/Abstracionismo_geom%C3%A9trico" },
-      { "nome": "Cubofuturismo", "link": "https://pt.wikipedia.org/wiki/Cubofuturismo" }
+      { "nome": "Cubofuturismo", "link": "https://pt.wikipedia.org/wiki/Cubofuturismo" },
+      { "nome": "Art Déco", "link": "https://pt.wikipedia.org/wiki/Art_d%C3%A9co" }
     ],
-    "vertentes": [
+    "vertentes": [      
       { "nome": "Cubismo analítico", "link": "https://pt.wikipedia.org/wiki/Cubismo_anal%C3%ADtico" },
       { "nome": "Cubismo sintético", "link": "https://pt.wikipedia.org/wiki/Cubismo_sint%C3%A9tico" }
     ],
@@ -1300,6 +1320,7 @@
       { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
       { "nome": "Decadentismo", "link": "https://pt.wikipedia.org/wiki/Decadentismo" }
     ],
+    "influenciou": [],
     "vertentes": [
       { "nome": "Pintura realista", "link": "https://pt.wikipedia.org/wiki/Pintura_do_realismo" }
     ],
@@ -1613,10 +1634,11 @@
       { "nome": "Peregrinações", "link": "https://pt.wikipedia.org/wiki/Peregrina%C3%A7%C3%A3o" }
     ],
     "reação": [
-      { "nome": "Islamismo", "link": "https://pt.wikipedia.org/wiki/Islamismo" }
+      { "nome": "Islamismo", "link": "https://pt.wikipedia.org/wiki/Islamismo" },
+      { "nome": "Gótico", "link": "https://pt.wikipedia.org/wiki/Arte_g%C3%B3tica" }
     ],
     "influenciou": [
-      { "nome": "Arte gótica", "link": "https://pt.wikipedia.org/wiki/Arte_g%C3%B3tica" },
+      { "nome": "Arte da Roma Antiga", "link": "https://pt.wikipedia.org/wiki/Arte_da_Roma_Antiga" },
       { "nome": "Arquitetura neorromânica", "link": "https://pt.wikipedia.org/wiki/Arquitetura_neorrom%C3%A2nica" }
     ],
     "vertentes": [
@@ -1693,8 +1715,8 @@
     "influenciou": [
       { "nome": "Arte da Roma Antiga", "link": "https://pt.wikipedia.org/wiki/Arte_da_Roma_Antiga" },
       { "nome": "Renascentismo", "link": "https://pt.wikipedia.org/wiki/Renascimento" },
-      { "nome": "Classicismo", "link": "https://pt.wikipedia.org/wiki/Classicismo" },
-      { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" }
+      { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" },
+      { "nome": "Classicismo", "link": "https://pt.wikipedia.org/wiki/Classicismo" }
     ],
     "vertentes": [
       { "nome": "Período geométrico", "link": "https://pt.wikipedia.org/wiki/Per%C3%ADodo_geom%C3%A9trico" },
@@ -1782,8 +1804,10 @@
     "reação": [],
     "influenciou": [
       { "nome": "Arte bizantina", "link": "https://pt.wikipedia.org/wiki/Arte_bizantina" },
-      { "nome": "Arte românica", "link": "https://pt.wikipedia.org/wiki/Arte_rom%C3%A2nica" },
-      { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" }
+      { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" },
+      { "nome": "Arte Românica", "link": "https://pt.wikipedia.org/wiki/Arte_rom%C3%A2nica" },
+      { "nome": "Classicismo", "link": "https://pt.wikipedia.org/wiki/Classicismo" },
+      { "nome": "Renascentismo", "link": "https://pt.wikipedia.org/wiki/Renascimento" }
     ],
     "vertentes": [
       { "nome": "Escultura da Roma Antiga", "link": "https://pt.wikipedia.org/wiki/Escultura_da_Roma_Antiga" },
@@ -1881,8 +1905,9 @@
     "influenciou": [
       { "nome": "Surrealismo", "link": "https://pt.wikipedia.org/wiki/Surrealismo" },
       { "nome": "Nouveau réalisme", "link": "https://pt.wikipedia.org/wiki/Nouveau_r%C3%A9alisme" },
-      { "nome": "Pop art", "link": "https://pt.wikipedia.org/wiki/Pop_art" },
-      { "nome": "Fluxus", "link": "https://pt.wikipedia.org/wiki/Fluxus" }
+      { "nome": "Fluxus", "link": "https://pt.wikipedia.org/wiki/Fluxus" },
+      { "nome": "Pop Art", "link": "https://pt.wikipedia.org/wiki/Pop_art" },
+      { "nome": "Pop Art", "link": "https://pt.wikipedia.org/wiki/Pop_art" }
     ],
     "vertentes": [],
     "artistas_e_obras": {
@@ -1954,6 +1979,7 @@
     ],
     "influenciou": [
       { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" },
+      { "nome": "Art Déco", "link": "https://pt.wikipedia.org/wiki/Art_d%C3%A9co" },
       { "nome": "Abstracionismo lírico", "link": "https://pt.wikipedia.org/wiki/Abstracionismo_l%C3%ADrico" },
       { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" }
     ],
@@ -2007,9 +2033,10 @@
     ],
     "influenciou": [
       { "nome": "Fauvismo", "link": "https://pt.wikipedia.org/wiki/Fauvismo" },
-      { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" },
       { "nome": "Expressionismo", "link": "https://pt.wikipedia.org/wiki/Expressionismo" },
-      { "nome": "Abstracionismo", "link": "https://pt.wikipedia.org/wiki/Abstracionismo" }
+      { "nome": "Abstracionismo", "link": "https://pt.wikipedia.org/wiki/Abstracionismo" },
+      { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" },
+      { "nome": "Fauvismo", "link": "https://pt.wikipedia.org/wiki/Fauvismo" }
     ],
     "vertentes": [
       { "nome": "Cloisonnismo", "link": "https://pt.wikipedia.org/wiki/Cloisonnismo" },
@@ -2081,7 +2108,9 @@
   "influenciou": [
     { "nome": "Anime", "link": "https://pt.wikipedia.org/wiki/Anime" },
     { "nome": "Cosplay", "link": "https://pt.wikipedia.org/wiki/Cosplay" },
-    { "nome": "J-Pop", "link": "https://pt.wikipedia.org/wiki/J-pop" }
+    { "nome": "J-Pop", "link": "https://pt.wikipedia.org/wiki/J-pop" },
+    { "nome": "Ukiyo-e", "link": "https://pt.wikipedia.org/wiki/Ukiyo-e" },
+    { "nome": "Japonismo", "link": "https://pt.wikipedia.org/wiki/Japonismo" }
   ],
   "vertentes": [
     { "nome": "Shōnen", "link": "https://pt.wikipedia.org/wiki/Sh%C5%8Dnen" },
@@ -2254,7 +2283,8 @@
   "reação": [
     { "nome": "Modernismo", "link": "https://pt.wikipedia.org/wiki/Modernismo" },
     { "nome": "Abstracionismo", "link": "https://pt.wikipedia.org/wiki/Abstracionismo" },
-    { "nome": "Formalismo", "link": "https://pt.wikipedia.org/wiki/Formalismo_(arte)" }
+    { "nome": "Formalismo", "link": "https://pt.wikipedia.org/wiki/Formalismo_(arte)" },
+    { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo" }
   ],
   "influenciou": [
     { "nome": "Muralismo mexicano", "link": "https://pt.wikipedia.org/wiki/Muralismo_mexicano" },
@@ -2471,7 +2501,9 @@
   "reação": [
     { "nome": "Academicismo", "link": "https://pt.wikipedia.org/wiki/Academicismo" },
     { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" },
-    { "nome": "Maneirismo", "link": "https://pt.wikipedia.org/wiki/Maneirismo" }
+    { "nome": "Maneirismo", "link": "https://pt.wikipedia.org/wiki/Maneirismo" },
+    { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
+    { "nome": "Art Nouveau", "link": "https://pt.wikipedia.org/wiki/Art_Nouveau" }
   ],
   "influenciou": [
     { "nome": "Simbolismo", "link": "https://pt.wikipedia.org/wiki/Simbolismo" },
@@ -2657,74 +2689,6 @@
   }
 },
 {
-  "nome": "Cinema Novo",
-  "id": "Q1092505",
-  "tipo": "movimento",
-  "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/61/Deus_Diabo_Terra_Sol.jpg",
-  "link_wiki": "https://pt.wikipedia.org/wiki/Cinema_novo",
-  "legenda": "Cartaz do filme 'Deus e o Diabo na Terra do Sol' (1964), de Glauber Rocha, uma obra fundamental do movimento.",
-  "período": "Anos 1960 e início dos 1970",
-  "origem": "Brasil",
-  "características": [
-    { "nome": "Realismo Social e Político", "link": null },
-    { "nome": "Crítica às injustiças sociais e ao subdesenvolvimento", "link": null },
-    { "nome": "Estética de baixo orçamento ('uma câmera na mão e uma ideia na cabeça')", "link": null },
-    { "nome": "Valorização da cultura popular e regional", "link": null }
-  ],
-  "influencias": [
-    { "nome": "Neorrealismo Italiano", "link": "https://pt.wikipedia.org/wiki/Neorrealismo_italiano" },
-    { "nome": "Nouvelle Vague Francesa", "link": "https://pt.wikipedia.org/wiki/Nouvelle_Vague" },
-    { "nome": "Modernismo Brasileiro", "link": "https://pt.wikipedia.org/wiki/Modernismo_brasileiro" }
-  ],
-  "reação": [
-    { "nome": "Cinema comercial tradicional (Chanchada)", "link": null }
-  ],
-  "influenciou": [
-    { "nome": "Tropicalismo (em sua segunda fase)", "link": "https://pt.wikipedia.org/wiki/Tropicalismo" },
-    { "nome": "Nuevo Cine Latinoamericano", "link": "https://pt.wikipedia.org/wiki/Nuevo_Cine_Latinoamericano" },
-    { "nome": "Cinema Marginal", "link": "https://pt.wikipedia.org/wiki/Cinema_marginal" }
-  ],
-  "artistas_e_obras": {
-    "cineastas": [
-      { "nome": "Glauber Rocha", "link": "https://pt.wikipedia.org/wiki/Glauber_Rocha" },
-      { "nome": "Nelson Pereira dos Santos", "link": "https://pt.wikipedia.org/wiki/Nelson_Pereira_dos_Santos" },
-      { "nome": "Ruy Guerra", "link": "https://pt.wikipedia.org/wiki/Ruy_Guerra" },
-      { "nome": "Cacá Diegues", "link": "https://pt.wikipedia.org/wiki/Carlos_Diegues" },
-      { "nome": "Joaquim Pedro de Andrade", "link": "https://pt.wikipedia.org/wiki/Joaquim_Pedro_de_Andrade" },
-      { "nome": "Leon Hirszman", "link": "https://pt.wikipedia.org/wiki/Leon_Hirszman" }
-    ],
-    "escritores": [
-      { "nome": "Glauber Rocha (Manifesto Estética da Fome)", "link": "https://pt.wikipedia.org/wiki/Glauber_Rocha" }
-    ],
-    "obras": [
-      {
-        "titulo": "Deus e o Diabo na Terra do Sol",
-        "ano": "1964",
-        "artista": "Glauber Rocha",
-        "link": "https://pt.wikipedia.org/wiki/Deus_e_o_Diabo_na_Terra_do_Sol"
-      },
-      {
-        "titulo": "Vidas Secas",
-        "ano": "1963",
-        "artista": "Nelson Pereira dos Santos",
-        "link": "https://pt.wikipedia.org/wiki/Vidas_Secas_(filme)"
-      },
-      {
-        "titulo": "Terra em Transe",
-        "ano": "1967",
-        "artista": "Glauber Rocha",
-        "link": "https://pt.wikipedia.org/wiki/Terra_em_Transe"
-      },
-      {
-        "titulo": "Os Fuzis",
-        "ano": "1964",
-        "artista": "Ruy Guerra",
-        "link": "https://pt.wikipedia.org/wiki/Os_Fuzis"
-      }
-    ]
-  }
-},
-{
   "nome": "Arts & Crafts",
   "id": "Q283084",
   "tipo": "movimento",
@@ -2740,7 +2704,7 @@
   ],
   "influencias": [
     { "nome": "Socialismo", "link": "https://pt.wikipedia.org/wiki/Socialismo" },
-    { "nome": "Arte Gótica e Medieval", "link": null },
+    { "nome": "Gótico", "link": null },
     { "nome": "Ideias de John Ruskin", "link": "https://pt.wikipedia.org/wiki/John_Ruskin" }
   ],
   "reação": [
@@ -2929,7 +2893,7 @@
     { "nome": "Chiaroscuro", "link": "https://pt.wikipedia.org/wiki/Chiaroscuro_(cinema)" },
     { "nome": "Filme Noir (Cinema)", "link": "https://pt.wikipedia.org/wiki/Filme_noir" },
     { "nome": "Fotografia em preto e branco", "link": "https://pt.wikipedia.org/wiki/Fotografia_a_preto_e_branco" },
-    { "nome": "Barroco", "link": "https://pt.wikipedia.org/wiki/Barroco" }
+    { "nome": "Renascentismo", "link": "https://pt.wikipedia.org/wiki/Renascimento" }
   ],
   "artistas_e_obras": {
     "pintores": [
@@ -3050,5 +3014,318 @@
       }
     ]
   }
+},
+{
+  "nome": "Barroco Mineiro",
+  "id": "Q593781",
+  "tipo": "movimento",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Congonhas_sanctuary_of_Bom_Jesus_statues_2.jpg/500px-Congonhas_sanctuary_of_Bom_Jesus_statues_2.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Barroco_mineiro",
+  "legenda": "Os Doze Profetas (1800-1805) em pedra-sabão, de Aleijadinho, no Santuário do Bom Jesus de Matosinhos, Congonhas.",
+  "período": "Século XVIII (principalmente 1720–1820)",
+  "origem": "Minas Gerais, Brasil Colonial",
+  "características": [
+    { "nome": "Uso de materiais locais: Pedra-sabão e Cedro", "link": null },
+    { "nome": "Exuberância ornamental (talha dourada) e intensa espiritualidade", "link": null },
+    { "nome": "Fusão de elementos do Barroco e do Rococó", "link": "https://pt.wikipedia.org/wiki/Rococ%C3%B3" },
+    { "nome": "Dinâmica, movimento e expressividade dramática nas figuras", "link": null },
+    { "nome": "Arquitetura adaptada à topografia (cidades de montanha)", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Arte Barroca Europeia (Portugal e Itália)", "link": "https://pt.wikipedia.org/wiki/Arte_barroca" },
+    { "nome": "Rococó (Fase tardia, especialmente na decoração interna)", "link": "https://pt.wikipedia.org/wiki/Rococ%C3%B3" },
+    { "nome": "Ciclo do Ouro e a ascensão das Irmandades Leigas", "link": null }
+  ],
+  "reação": [
+    { "nome": "Estilos mais sóbrios e clássicos, como o Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo_no_Brasil" }
+  ],
+  "influenciou": [
+    { "nome": "Formação da identidade artística brasileira", "link": null }
+  ],
+  "artistas_e_obras": {
+    "escultores_e_arquitetos": [
+      { "nome": "Antônio Francisco Lisboa (Aleijadinho)", "link": "https://pt.wikipedia.org/wiki/Aleijadinho" },
+      { "nome": "Francisco Xavier de Brito", "link": "https://pt.wikipedia.org/wiki/Francisco_Xavier_de_Brito" }
+    ],
+    "pintores": [
+      { "nome": "Manuel da Costa Ataíde (Mestre Ataíde)", "link": "https://pt.wikipedia.org/wiki/Manuel_da_Costa_Ata%C3%ADde" },
+      { "nome": "João Nepomuceno Correia e Castro", "link": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Nepomuceno_Correia_e_Castro" }
+    ],
+    "músicos": [
+      { "nome": "José Joaquim Emerico Lobo de Mesquita", "link": "https://pt.wikipedia.org/wiki/José_Joaquim_Emerico_Lobo_de_Mesquita" },
+      { "nome": "Manoel Dias de Oliveira", "link": "https://pt.wikipedia.org/wiki/Manoel_Dias_de_Oliveira" }
+    ],
+    "obras": [
+      {
+        "titulo": "Os Doze Profetas (Pedra-sabão)",
+        "ano": "1800-1805",
+        "artista": "Aleijadinho",
+        "link": "https://pt.wikipedia.org/wiki/Santu%C3%A1rio_do_Bom_Jesus_de_Matosinhos"
+      },
+      {
+        "titulo": "Passos da Paixão de Cristo (Cedro)",
+        "ano": "c. 1796",
+        "artista": "Aleijadinho",
+        "link": "https://pt.wikipedia.org/wiki/Santu%C3%A1rio_do_Bom_Jesus_de_Matosinhos"
+      },
+      {
+        "titulo": "Pintura do Teto da Igreja de São Francisco de Assis (OP)",
+        "ano": "1801-1812",
+        "artista": "Mestre Ataíde",
+        "link": "https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Francisco_de_Assis_(Ouro_Preto)"
+      },
+      {
+        "titulo": "Igreja de São Francisco de Assis (SJDR)",
+        "ano": "1774–1803",
+        "artista": "Aleijadinho (Projeto geral)",
+        "link": "https://pt.wikipedia.org/wiki/Igreja_de_S%C3%A3o_Francisco_de_Assis_(S%C3%A3o_Jo%C3%A3o_del-Rei)"
+      }
+    ]
+  }
+},
+{
+  "nome": "Japonismo",
+  "id": "Q751880",
+  "tipo": "tendência",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Vincent_van_Gogh_-_Courtesan-_after_Eisen_-_Google_Art_Project.jpg/960px-Vincent_van_Gogh_-_Courtesan-_after_Eisen_-_Google_Art_Project.jpg?20121009144718",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Japonismo",
+  "legenda": "\"A Cortesã\" (1887), de Vincent van Gogh, baseada em uma estampa *ukiyo-e* de Keisai Eisen. É um exemplo direto da influência do Japonismo.",
+  "período": "Século XIX (c. 1854–1900)",
+  "origem": "Europa (principalmente França), influenciado pela arte japonesa",
+  "características": [
+    { "nome": "Composição Assimétrica e Ângulos Incomuns", "link": null },
+    { "nome": "Contornos bem definidos e 'recortes' nas figuras", "link": null },
+    { "nome": "Cores planas e brilhantes (sem modulação ou *chiaroscuro* europeu)", "link": null },
+    { "nome": "Ausência de sombra e de profundidade tradicional (planos achatados)", "link": null },
+    { "nome": "Temas: cotidiano, paisagens, flora e fauna (montanhas, pontes, gueixas)", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Ukiyo-e", "link": "https://pt.wikipedia.org/wiki/Ukiyo-e" },
+    { "nome": "Artistas Ukiyo-e: Hokusai, Hiroshige e Utamaro", "link": null }
+  ],
+  "reação": [
+    { "nome": "Academicismo Europeu (do qual se diferenciava radicalmente)", "link": "https://pt.wikipedia.org/wiki/Academicismo" }
+  ],
+  "influenciou": [
+    { "nome": "Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" },
+    { "nome": "Pós-Impressionismo", "link": "https://pt.wikipedia.org/wiki/P%C3%B3s-impressionismo" },
+    { "nome": "Art Nouveau (ou *Arte Nova*)", "link": "https://pt.wikipedia.org/wiki/Art_Nouveau" }
+  ],
+  "artistas_e_obras": {
+    "pintores": [
+      { "nome": "Vincent van Gogh", "link": "https://pt.wikipedia.org/wiki/Vincent_van_Gogh" },
+      { "nome": "Claude Monet", "link": "https://pt.wikipedia.org/wiki/Claude_Monet" },
+      { "nome": "Édouard Manet", "link": "https://pt.wikipedia.org/wiki/%C3%89douard_Manet" },
+      { "nome": "Edgar Degas", "link": "https://pt.wikipedia.org/wiki/Edgar_Degas" },
+      { "nome": "James Abbott McNeill Whistler", "link": "https://pt.wikipedia.org/wiki/James_Abbott_McNeill_Whistler" }
+    ],
+    "ilustradores_e_gráficos": [
+      { "nome": "Henri de Toulouse-Lautrec", "link": "https://pt.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec" },
+      { "nome": "Mary Cassatt", "link": "https://pt.wikipedia.org/wiki/Mary_Cassatt" }
+    ],
+    "obras_chave": [
+      {
+        "titulo": "A Ponte Japonesa",
+        "ano": "1899",
+        "artista": "Claude Monet",
+        "link": "https://pt.wikipedia.org/wiki/A_Ponte_Japonesa_(Monet)"
+      },
+      {
+        "titulo": "Retrato de Émile Zola",
+        "ano": "1868",
+        "artista": "Édouard Manet",
+        "link": "https://pt.wikipedia.org/wiki/Retrato_de_%C3%89mile_Zola"
+      },
+      {
+        "titulo": "Retrato de Père Tanguy",
+        "ano": "1887",
+        "artista": "Vincent van Gogh",
+        "link": "https://pt.wikipedia.org/wiki/Retrato_de_P%C3%A8re_Tanguy"
+      }
+    ]
+  }
+},
+{
+  "nome": "Academicismo",
+  "id": "Q273891",
+  "tipo": "escola",
+  "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/William-Adolphe_Bouguereau_(1825-1905)_-_The_Birth_of_Venus_(1879).jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Academicismo",
+  "legenda": "\"O Nascimento de Vênus\" (1879), de William-Adolphe Bouguereau, um dos pintores academicistas mais famosos do século XIX.",
+  "período": "Séculos XVI–XIX (estilo consolidado no Séc. XIX)",
+  "origem": "Academias de Arte da Europa (principalmente França, via Academia Real)",
+  "características": [
+    { "nome": "Subordinação a regras e métodos de ensino rígidos", "link": null },
+    { "nome": "Hierarquia de Gêneros (prioridade a temas históricos, mitológicos e religiosos)", "link": null },
+    { "nome": "Beleza Idealizada (busca pelo 'Sublime', rejeitando a 'fealdade' realista)", "link": null },
+    { "nome": "Técnica apurada, detalhada e polida (pinceladas invisíveis)", "link": null },
+    { "nome": "Valorização da Tradição Clássica e da Emulação de Mestres", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" },
+    { "nome": "Arte Renascentista", "link": "https://pt.wikipedia.org/wiki/Renascimento" },
+    { "nome": "Ideais de Winckelmann e do Classicismo", "link": "https://pt.wikipedia.org/wiki/Johann_Joachim_Winckelmann" }
+  ],
+  "reação": [
+    { "nome": "Arte Moderna", "link": "https://pt.wikipedia.org/wiki/Arte_moderna" },
+    { "nome": "Impressionismo", "link": "https://pt.wikipedia.org/wiki/Impressionismo" },
+    { "nome": "Realismo", "link": "https://pt.wikipedia.org/wiki/Realismo_(arte)" },
+    { "nome": "Suprematismo", "link": "https://pt.wikipedia.org/wiki/Suprematismo" },
+    { "nome": "Pré-rafaelismo", "link": "https://pt.wikipedia.org/wiki/Pr%C3%A9-rafaelismo" }
+  ],
+  "influenciou": [
+    { "nome": "Padrão de ensino artístico oficial no Ocidente", "link": null }
+  ],
+  "artistas_e_obras": {
+    "pintores": [
+      { "nome": "William-Adolphe Bouguereau", "link": "https://pt.wikipedia.org/wiki/William-Adolphe_Bouguereau" },
+      { "nome": "Jean-Léon Gérôme", "link": "https://pt.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me" },
+      { "nome": "Alexandre Cabanel", "link": "https://pt.wikipedia.org/wiki/Alexandre_Cabanel" },
+      { "nome": "Pedro Américo (Brasil)", "link": "https://pt.wikipedia.org/wiki/Pedro_Am%C3%A9rico" },
+      { "nome": "Victor Meirelles (Brasil)", "link": "https://pt.wikipedia.org/wiki/Victor_Meirelles" }
+    ],
+    "escultores": [
+      { "nome": "Antonio Canova (Neoclássico, base do academicismo)", "link": "https://pt.wikipedia.org/wiki/Antonio_Canova" }
+    ],
+    "arquitetos": [
+      { "nome": "Grandjean de Montigny (via Missão Artística Francesa no Brasil)", "link": "https://pt.wikipedia.org/wiki/Grandjean_de_Montigny" }
+    ],
+    "obras": [
+      {
+        "titulo": "O Nascimento de Vênus",
+        "ano": "1879",
+        "artista": "William-Adolphe Bouguereau",
+        "link": "https://en.wikipedia.org/wiki/The_Birth_of_Venus_(Bouguereau)"
+      },
+      {
+        "titulo": "Pollice Verso",
+        "ano": "1872",
+        "artista": "Jean-Léon Gérôme",
+        "link": "https://en.wikipedia.org/wiki/Pollice_Verso_(G%C3%A9r%C3%B4me)"
+      },
+      {
+        "titulo": "Independência ou Morte",
+        "ano": "1888",
+        "artista": "Pedro Américo",
+        "link": "https://pt.wikipedia.org/wiki/Independ%C3%AAncia_ou_Morte"
+      }
+    ]
+  }
+},
+{
+  "nome": "Chinoiserie",
+  "id": "Q1074156",
+  "tipo": "tendência",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fran%C3%A7ois_Boucher_-_Chinoiserie_-_2573_%28OK%29_-_Museum_Boijmans_Van_Beuningen.jpg/1200px-Fran%C3%A7ois_Boucher_-_Chinoiserie_-_2573_%28OK%29_-_Museum_Boijmans_Van_Beuningen.jpg?20180314182428",
+  "link_wiki": "https://pt.wikipedia.org/wiki/Chinoiserie",
+  "legenda": "Pintura Chinoiserie, (c. 1750) de François Boucher.",
+  "período": "Século XVII – Início do Século XIX (auge no Rococó, Séc. XVIII)",
+  "origem": "Europa (principalmente França e Reino Unido), inspirado na China",
+  "características": [
+    { "nome": "Motivos Exóticos e Fantásticos", "link": null },
+    { "nome": "Assimetria e Leveza", "link": null },
+    { "nome": "Paisagens Idealizadas com Pagodes e Pontes", "link": null },
+    { "nome": "Uso de Dragões, Aves Fantásticas, Flores e Folhagens Estilizadas", "link": null },
+    { "nome": "Cores Vibrantes e uso de laca (imitando a laca chinesa)", "link": null }
+  ],
+  "influencias": [
+    { "nome": "Arte Chinesa (principalmente porcelanas, sedas e lacas)", "link": "https://pt.wikipedia.org/wiki/Arte_da_China" },
+    { "nome": "Orientalismo (visão ocidental do Oriente)", "link": "https://pt.wikipedia.org/wiki/Orientalismo" }
+  ],
+  "reação": [
+    { "nome": "Neoclassicismo", "link": "https://pt.wikipedia.org/wiki/Neoclassicismo" }
+  ],
+  "influenciou": [
+    { "nome": "Rococó", "link": "https://pt.wikipedia.org/wiki/Rococ%C3%B3" },
+    { "nome": "Japonismo", "link": "https://pt.wikipedia.org/wiki/Japonismo" }
+  ],
+  "artistas_e_obras": {
+    "pintores": [
+      { "nome": "François Boucher", "link": "https://pt.wikipedia.org/wiki/Fran%C3%A7ois_Boucher" },
+      { "nome": "Antoine Watteau", "link": "https://pt.wikipedia.org/wiki/Antoine_Watteau" },
+      { "nome": "Giovanni Battista Tiepolo", "link": "https://pt.wikipedia.org/wiki/Giovanni_Battista_Tiepolo" }
+    ],
+    "arquitetos_e_designers": [
+      { "nome": "William Chambers", "link": "https://pt.wikipedia.org/wiki/William_Chambers_(arquitecto)" },
+      { "nome": "Thomas Chippendale (Mobiliário)", "link": "https://pt.wikipedia.org/wiki/Thomas_Chippendale" },
+      { "nome": "Josiah Wedgwood (Cerâmica)", "link": "https://pt.wikipedia.org/wiki/Josiah_Wedgwood" }
+    ],
+    "obras_chave": [
+      {
+        "titulo": "Grande Pagode de Kew Gardens",
+        "ano": "1762",
+        "artista": "William Chambers",
+        "link": "https://en.wikipedia.org/wiki/Great_Pagoda,_Kew_Gardens"
+      },
+      {
+        "titulo": "Série de tapeçarias 'Tenture chinoise'",
+        "ano": "c. 1742",
+        "artista": "François Boucher",
+        "link": null
+      }
+    ]
+  }
+},
+{
+  "nome": "De Stijl",
+  "id": "Q214152",
+  "tipo": "escola",
+  "imagem": "https://commons.wikimedia.org/wiki/Special:FilePath/Piet_Mondriaan,_1942_-_Broadway_Boogie_Woogie.jpg",
+  "link_wiki": "https://pt.wikipedia.org/wiki/De_Stijl",
+  "legenda": "\"Broadway Boogie Woogie\" (1942–43), de Piet Mondrian, obra que exemplifica os princípios do Neoplasticismo.",
+  "período": "1917–c. 1931",
+  "origem": "Países Baixos",
+  "características": [
+    { "nome": "Uso exclusivo de linhas retas horizontais e verticais", "link": "https://pt.wikipedia.org/wiki/Ortogonalidade" },
+    { "nome": "Uso exclusivo de cores primárias: vermelho, amarelo e azul", "link": "https://pt.wikipedia.org/wiki/Cor_prim%C3%A1ria" },
+    { "nome": "Uso de cores não-cores: preto, branco e cinza", "link": "https://pt.wikipedia.org/wiki/Teoria_das_cores" },
+    { "nome": "Ênfase na assimetria e no equilíbrio da composição", "link": "https://pt.wikipedia.org/wiki/Assimetria" },
+    { "nome": "Busca pela arte pura, universal e racional", "link": "https://pt.wikipedia.org/wiki/Neoplasticismo" }
+  ],
+  "influencias": [
+    { "nome": "Cubismo", "link": "https://pt.wikipedia.org/wiki/Cubismo" },
+    { "nome": "Misticismo e Teosofia", "link": "https://pt.wikipedia.org/wiki/Teosofia" }
+  ],
+  "reação": [
+    { "nome": "Expressionismo e subjetividade na arte", "link": "https://pt.wikipedia.org/wiki/Expressionismo" }
+  ],
+  "influenciou": [
+    { "nome": "Bauhaus e Arquitetura Moderna", "link": "https://pt.wikipedia.org/wiki/Bauhaus" },
+    { "nome": "Design Industrial e Gráfico", "link": "https://pt.wikipedia.org/wiki/Design_gr%C3%A1fico" }
+  ],
+  "artistas_e_obras": {
+    "pintores": [
+      { "nome": "Piet Mondrian", "link": "https://pt.wikipedia.org/wiki/Piet_Mondrian" },
+      { "nome": "Theo van Doesburg", "link": "https://pt.wikipedia.org/wiki/Theo_van_Doesburg" },
+      { "nome": "Vilmos Huszár", "link": "https://pt.wikipedia.org/wiki/Vilmos_Husz%C3%A1r" }
+    ],
+    "arquitetos": [
+      { "nome": "Gerrit Rietveld", "link": "https://pt.wikipedia.org/wiki/Gerrit_Rietveld" },
+      { "nome": "J.J.P. Oud", "link": "https://pt.wikipedia.org/wiki/J.J.P._Oud" }
+    ],
+    "designers": [
+      { "nome": "Bart van der Leck", "link": "https://pt.wikipedia.org/wiki/Bart_van_der_Leck" }
+    ],
+    "obras": [
+      {
+        "titulo": "Composição com Vermelho, Amarelo e Azul",
+        "ano": "1929",
+        "artista": "Piet Mondrian",
+        "link": "https://pt.wikipedia.org/wiki/Composi%C3%A7%C3%A3o_com_vermelho,_amarelo_e_azul"
+      },
+      {
+        "titulo": "Casa Schröder",
+        "ano": "1924",
+        "artista": "Gerrit Rietveld",
+        "link": "https://pt.wikipedia.org/wiki/Casa_Schr%C3%B6der"
+      },
+      {
+        "titulo": "Cadeira Vermelha e Azul",
+        "ano": "1918",
+        "artista": "Gerrit Rietveld",
+        "link": "https://pt.wikipedia.org/wiki/Cadeira_Vermelha_e_Azul"
+      }
+    ]
+  }
 }
-]
+]   

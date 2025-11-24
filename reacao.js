@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         document.title = `Reação a ${movimentoPrincipal.nome}`;
 
         // Cria e adiciona o card do movimento principal na caixa da esquerda
-        caixaReagente.innerHTML = criarCardSimples(movimentoPrincipal);
+        caixaReagente.innerHTML = criarCardCompleto(movimentoPrincipal);
 
         // Encontra os movimentos aos quais o movimentoPrincipal foi reação/oposição
         const nomesReacoes = (movimentoPrincipal.reação || []).map(r => r.nome);
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         // Cria e adiciona os cards dos movimentos relacionados na caixa da direita
         if (movimentosReagidos.length > 0) {
-            caixaReacoes.innerHTML = movimentosReagidos.map(criarCardSimples).join('');
+            caixaReacoes.innerHTML = movimentosReagidos.map(criarCardCompleto).join('');
         } else {
             caixaReacoes.innerHTML = '<p>Nenhuma reação/oposição encontrada neste acervo.</p>';
         }
@@ -50,17 +50,45 @@ document.addEventListener('DOMContentLoaded', async () => {
             }
         }
 
+        // Adiciona os listeners para permitir a expansão dos cards
+        adicionarListenersDeExpansao();
+
     } catch (error) {
         console.error('Erro ao carregar ou processar dados:', error);
         caixaReagente.innerHTML = '<p>Ocorreu um erro ao carregar as informações.</p>';
     }
 });
 
+// Adiciona um listener de clique no corpo do documento para capturar cliques nos botões de navegação.
+// Isso usa a delegação de eventos para funcionar com cards adicionados dinamicamente.
+document.body.addEventListener('click', (e) => {
+    const btn = e.target.closest('.info-btn');
+    if (btn && btn.dataset && btn.dataset.href) {
+        window.location.href = btn.dataset.href;
+    }
+});
+
 /**
- * Cria uma versão simplificada do card.
+ * Adiciona o evento de clique a todos os cards da página para expandir/recolher.
+ */
+function adicionarListenersDeExpansao() {
+    const cards = document.querySelectorAll('article.card');
+    cards.forEach(card => {
+        card.addEventListener('click', (e) => {
+            // Impede que o card expanda se o clique for num link ou botão
+            if (e.target.tagName === 'A' || e.target.closest('button')) {
+                return;
+            }
+            card.classList.toggle('expandido');
+        });
+    });
+}
+
+/**
+ * Cria a estrutura HTML completa de um card.
  * Reutiliza as classes do style.css para manter a consistência.
  */
-function criarCardSimples(movimento) {
+function criarCardCompleto(movimento) {
     if (!movimento) return '';
 
     const tipoClasse = movimento.tipo === 'movimento' ? ' tipo-movimento'
@@ -77,8 +105,48 @@ function criarCardSimples(movimento) {
         : (movimento.tipo === 'tendência' || movimento.tipo === 'tendencia') ? `<img class="card-icon" src="img/TEN.png" alt="Ícone tendência">`
         : '';
 
+    // Mapeia o tipo para um rótulo legível
+    const tipoTexto = movimento.tipo === 'movimento' ? 'Movimento artístico'
+        : movimento.tipo === 'período' ? 'Período artístico'
+        : (movimento.tipo === 'gênero' || movimento.tipo === 'genero') ? 'Gênero artístico'
+        : (movimento.tipo === 'tendência' || movimento.tipo === 'tendencia') ? 'Tendência artística'
+        : movimento.tipo || '';
+
+    // Funções auxiliares para criar listas
+    const criarListaComLinks = (titulo, itens, movimentoId) => {
+        if (!itens || itens.length === 0) return '';
+        let tituloHTML = `<p><strong>${titulo}:</strong></p>`;
+        if (titulo === 'Influências') {
+            tituloHTML = `<p><strong><button type="button" class="info-btn" data-href="influencias.html?id=${movimentoId}">${titulo}:</button></strong></p>`;
+        } else if (titulo === 'Influenciou') {
+            tituloHTML = `<p><strong><button type="button" class="info-btn" data-href="influenciados.html?id=${movimentoId}">${titulo}:</button></strong></p>`;
+        } else if (titulo === 'Reação a') {
+            tituloHTML = `<p><strong><button type="button" class="info-btn" data-href="reacao.html?id=${movimentoId}">${titulo}:</button></strong></p>`;
+        }
+        const linksArr = itens.map(item => {
+            if (!item) return '';
+            if (typeof item === 'string') return item;
+            if (item.link) return `<a href="${item.link}" target="_blank">${item.nome}</a>`;
+            return item.nome;
+        }).filter(Boolean);
+        const linksHTML = linksArr.join(', ');
+        return `<div class="info-section">${tituloHTML}<p class="inline-links">${linksHTML}</p></div>`;
+    };
+
+    const criarListaDeObras = (titulo, obras) => {
+        if (!obras || obras.length === 0) return '';
+        const obrasHTML = obras.map(obra => {
+            const linkTitulo = obra.link ? `<a href="${obra.link}" target="_blank">${obra.titulo}</a>` : obra.titulo;
+            const artistaNome = obra.artista || '';
+            const artistaHref = artistaNome ? `https://pt.wikipedia.org/w/index.php?search=${encodeURIComponent(artistaNome)}` : '';
+            const artistaHTML = artistaNome ? `<a href="${artistaHref}" target="_blank">${artistaNome}</a>` : '';
+            return `<li>${linkTitulo} <span>(${obra.ano}) — ${artistaHTML}</span></li>`;
+        }).join('');
+        return `<div class="info-section"><p><strong>${titulo}:</strong></p><ul>${obrasHTML}</ul></div>`;
+    };
+
     return `
-        <article class="card${tipoClasse}" style="max-height: none; transform: none; cursor: default;">
+        <article class="card${tipoClasse}">
             ${iconHTML}
             <div class="card-content-wrapper">
                 <div class="conteudo-visivel">
@@ -87,7 +155,20 @@ function criarCardSimples(movimento) {
                     <p class="legenda">${movimento.legenda}</p>
                     <p><strong>Período:</strong> ${movimento.período}</p>
                     <p><strong>Origem:</strong> ${movimento.origem}</p>
-                    <p><strong>Tipo:</strong> ${movimento.tipo}</p>
+                    <p><strong>Tipo:</strong> ${tipoTexto}</p>
+                </div>
+                <div class="detalhes-colapsaveis">
+                    ${criarListaComLinks('Influências', movimento.influencias, movimento.id)}
+                    ${criarListaComLinks('Reação a', movimento.reação, movimento.id)}
+                    ${criarListaComLinks('Vertentes', movimento.vertentes, movimento.id)}
+                    ${criarListaComLinks('Influenciou', movimento.influenciou, movimento.id)}
+                    ${criarListaComLinks('Características', movimento.características, movimento.id)}
+                    ${criarListaComLinks('Pintores', movimento.artistas_e_obras.pintores, movimento.id)}
+                    ${criarListaComLinks('Escultores', movimento.artistas_e_obras.escultores, movimento.id)}
+                    ${criarListaComLinks('Arquitetos', movimento.artistas_e_obras.arquitetos, movimento.id)}
+                    ${criarListaComLinks('Músicos', movimento.artistas_e_obras.musicos, movimento.id)}
+                    ${criarListaComLinks('Escritores', movimento.artistas_e_obras.escritores, movimento.id)}
+                    ${criarListaDeObras('Obras', movimento.artistas_e_obras.obras)}
                 </div>
             </div>
         </article>
