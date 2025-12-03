@@ -30,7 +30,7 @@ header {
     padding: 1rem; /* Espaçamento interno reduzido */
     display: flex; /* Habilita o layout flexbox */
     align-items: center; /* Alinha os itens verticalmente ao centro */
-    justify-content: space-around; /* Distribui os itens com espaço ao redor */
+    justify-content: space-between; /* Distribui os itens com espaço entre eles */
     position: sticky; /* Mantém o cabeçalho fixo no topo ao rolar a página */
     top: 0; /* Posição do topo quando sticky */
     /* Fundo semi-transparente para um efeito de profundidade sobre a textura */
@@ -40,6 +40,18 @@ header {
     gap: 1rem; /* Espaçamento entre os elementos flex */
 }
 
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+.controls-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    white-space: nowrap;
+}
+
 header h1 {
     font-size: 1.5rem; /* Tamanho da fonte */
     margin: 0; /* Remove a margem padrão */
@@ -47,26 +59,25 @@ header h1 {
     white-space: nowrap; /* Impede a quebra de linha do texto */
 }
 
-div input {
+input#busca {
     padding: 0.375rem 0.75rem; /* Espaçamento interno */
     border-radius: 1rem; /* Arredonda as bordas */
     border: 1px solid var(--tertiary-color); /* Define a borda */
     background: var(--bg-color); /* Cor de fundo */
     font-family: inherit; /* Herda a família da fonte do elemento pai */
-    font-size: 1.5rem; /* Tamanho da fonte */
     transition: all 0.2s ease; /* Adiciona uma transição suave para todas as propriedades */
     width: 30rem; /* Largura do input */
     color: var(--secondary-color); /* Cor do texto digitado */
     margin-right: .5rem; /* Margem à direita */
 }
 
-div input::placeholder {
+input#busca::placeholder {
     font-size: 1.2rem; /* Tamanho da fonte do placeholder */
     font-weight: 300; /* Peso da fonte do placeholder */
     color: var(--tertiary-color); /* Cor do texto do placeholder */
 }
 
-div input:focus {
+input#busca:focus {
     outline: none; /* Remove a borda de foco padrão */
     border-color: var(--bg-color); /* Muda a cor da borda ao focar */
     box-shadow: 0 0 0 0.1rem var(--tertiary-color); /* Adiciona uma sombra de caixa para indicar foco */
@@ -430,19 +441,26 @@ article a:hover {
         padding: 1rem; /* Reduz o espaçamento interno */
     }
 
-    header h1 { /* Estilos para o h1 no cabeçalho em telas menores */
-        text-align: center; /* Centraliza o texto */
-        margin-bottom: 1rem; /* Adiciona margem inferior */
+    /* Reorganiza o cabeçalho em 3 linhas */
+    header h1 {
+        width: 100%;
+        text-align: center;
     }
 
-    div input { /* Estilos para o input em telas menores */
-        width: 90vw; /* Largura baseada na largura da viewport */
-        font-size: 1.2rem; /* Reduz o tamanho da fonte */
+    .search-container {
+        order: 2; /* Move a busca para a segunda linha */
+        width: 100%;
+        justify-content: center;
     }
 
-    main { /* Estilos para o main em telas menores */
-        padding: 0 1rem; /* Adiciona espaçamento lateral */
+    .controls-container {
+        order: 3; /* Move os controles para a terceira linha */
+        width: 100%;
+        justify-content: center;
     }
+
+    /* Esconde o botão de busca em telas menores */
+    #botao-busca { display: none; }
 
     main {
         column-count: 2; /* Reduz para 2 colunas em tablets */
@@ -455,36 +473,9 @@ article a:hover {
 }
 
 @media (max-width: 480px) {
-    header {
-        padding: 0.5rem; /* Reduz drasticamente o padding do cabeçalho */
-        gap: 0.5rem; /* Reduz o espaço entre os elementos */
-    }
-
-    header h1 { /* Estilos para o h1 em telas com largura máxima de 480px */
-        font-size: 1rem; /* Reduz ainda mais o tamanho da fonte */
-        margin-bottom: 0.5rem; /* Reduz a margem inferior */
-    }
-
     main {
         column-count: 1; /* Uma única coluna em celulares */
         column-width: auto;
-    }
-
-    div input, /* Estilos para o input e seu placeholder em telas muito pequenas */
-    div input::placeholder {
-        font-size: 1rem; /* Reduz o tamanho da fonte */
-    }
-
-    article h2 { /* Estilos para o h2 do article em telas muito pequenas */
-        font-size: 1.3rem; /* Reduz o tamanho da fonte */
-    }
-
-    div { /* Estilos para a div do cabeçalho em telas muito pequenas */
-        display: flex; /* Habilita flexbox */
-        align-items: center; /* Alinha itens ao centro */
-        justify-content: center; /* Centraliza itens */
-        flex-direction: column; /* Organiza em coluna */
-        gap: 0.5rem; /* Espaçamento entre os itens */
     }
 
     .footer { /* Estilos para o rodapé em telas muito pequenas */
