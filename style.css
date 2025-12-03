@@ -143,10 +143,12 @@ article.card {
     transition: max-height 0.45s ease-in-out, transform 0.2s ease, box-shadow 0.2s ease;
     border-bottom: none; /* Remove a borda inferior anterior */
     padding-bottom: 1.5rem;
-    display: flex; /* Adicionado para o wrapper interno */
-    flex-direction: column; /* Adicionado para o wrapper interno */
-    max-height: 420px; /* Altura colapsada padrão */
+    display: flex;
+    flex-direction: column;
+    width: 300px; /* Largura fixa do card */
+    max-height: 500px; /* Altura fixa para o card colapsado */
     overflow: hidden; /* Esconder o excesso e animar via max-height */
+    margin: 0 auto; /* Centraliza o card dentro da coluna flexível */
 }
 
 /* Ícone e cor do título para cards do tipo "movimento" */

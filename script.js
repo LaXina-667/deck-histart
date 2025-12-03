@@ -195,9 +195,14 @@ function renderPage(page) {
 
 // recalcula o número de colunas baseando-se na largura da janela
 function getColumnCount() {
-    if (window.innerWidth <= 480) return 1;
-    if (window.innerWidth <= 768) return 2;
-    return 5;
+    const containerWidth = cardcontainer.offsetWidth;
+    const cardWidth = 300; // A largura fixa do seu card
+    const cardGap = 20; // O 'gap' entre as colunas (1.25rem ≈ 20px)
+
+    // Calcula quantas colunas de (largura do card + gap) cabem no contêiner
+    const columnCount = Math.floor(containerWidth / (cardWidth + cardGap));
+
+    return Math.max(1, columnCount); // Garante que sempre haverá pelo menos 1 coluna
 }
 
 // re-render quando a janela for redimensionada (debounced) mantendo os resultados atuais
