@@ -298,6 +298,12 @@ article img {
     object-fit: cover; /* Faz a imagem preencher o espaço sem distorcer, cortando o excesso */
 }
 
+/* Quando o card está expandido, a imagem deve ser exibida por inteiro */
+.card.expandido img {
+    aspect-ratio: auto; /* Remove a proporção fixa */
+    height: auto; /* Permite que a altura se ajuste ao conteúdo da imagem */
+}
+
 /* Ajuste específico para a imagem do Art Nouveau */
 article img[src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Alfons_Mucha_-_1898_-_Dance.jpg/960px-Alfons_Mucha_-_1898_-_Dance.jpg"],
 article img[src="https://upload.wikimedia.org/wikipedia/commons/3/32/Makowski_Woman_with_buckets.jpg"],
