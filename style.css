@@ -455,10 +455,14 @@ article a:hover {
 }
 
 @media (max-width: 480px) {
+    header {
+        padding: 0.5rem; /* Reduz drasticamente o padding do cabeçalho */
+        gap: 0.5rem; /* Reduz o espaço entre os elementos */
+    }
+
     header h1 { /* Estilos para o h1 em telas com largura máxima de 480px */
         font-size: 1rem; /* Reduz ainda mais o tamanho da fonte */
-        max-width: 70%; /* Define uma largura máxima */
-        word-wrap: break-word; /* Permite a quebra de palavras longas */
+        margin-bottom: 0.5rem; /* Reduz a margem inferior */
     }
 
     main {

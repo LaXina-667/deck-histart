@@ -1,7 +1,7 @@
 let cardcontainer = document.querySelector("main"); // Vamos injetar direto no <main>
 let dados = [];
 let currentRenderData = []; // guarda os dados atualmente renderizados (para resize)
-let pageSize = 30;
+let pageSize = 16; // número de cards por página
 let currentPage = 1;
 // estado para ordenação alfabética (toggle)
 let _alphaSorted = false;
