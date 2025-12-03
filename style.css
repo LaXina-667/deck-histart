@@ -116,11 +116,12 @@ main {
     margin: 2rem auto 0; /* Centraliza e adiciona margem no topo */
     margin-top: 2rem; /* Margem no topo */
     padding: 0 1.5rem; /* Adiciona um espaçamento nas laterais */
+    text-align: center; /* Centraliza os elementos inline-level filhos, como o nosso .columns */
 }
 
 /* Container que agrupa colunas criadas pelo JS */
 .columns {
-    display: flex;
+    display: inline-flex; /* Faz o container se ajustar à largura do conteúdo */
     gap: 1.25rem;
     align-items: flex-start;
 }
