@@ -8,14 +8,25 @@
 </head>
 <body>
     <header>
-        <h1>Deck de História da Arte</h1>
-        <div class="search-container">
-            <input type="text" id="busca" placeholder="Pesquisar por nome...">
-            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+        <h1><a href="index.html" class="back-link">Deck de História da Arte</a></h1>
+
+        <!-- Agrupa a navegação para controle no modo mobile -->
+        <div class="nav-wrapper">
+            <div class="search-container">
+                <input type="text" id="busca" placeholder="Pesquisar por nome...">
+                <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+            </div>
+            <div class="controls-container">
+                <a href="sobre.html" class="back-link">Sobre</a>
+                <button id="botao-alfabetico" type="button" title="Ordenar A→Z">A→Z</button>
+            </div>
         </div>
-        <div class="controls-container">
-            <a href="sobre.html" class="back-link">Sobre</a>
-            <button id="botao-alfabetico" type="button" title="Ordenar A→Z">A→Z</button>
+
+        <!-- Ícone do Menu Hambúrguer -->
+        <div class="hamburger-menu">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
         </div>
     </header>
     <main>
@@ -27,5 +38,18 @@
         </div>
     </footer>
     <script src="script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const hamburger = document.querySelector('.hamburger-menu');
+            const navWrapper = document.querySelector('.nav-wrapper');
+    
+            hamburger.addEventListener('click', () => {
+                // Adiciona/remove a classe 'active' para animar o ícone
+                hamburger.classList.toggle('active');
+                // Adiciona/remove a classe 'active' para mostrar/esconder o menu
+                navWrapper.classList.toggle('active');
+            });
+        });
+    </script>
 </body>
 </html>

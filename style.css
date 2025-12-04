@@ -40,9 +40,33 @@ header {
     gap: 1rem; /* Espaçamento entre os elementos flex */
 }
 
+.nav-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
 .search-container {
     display: flex;
     align-items: center;
+}
+
+.hamburger-menu {
+    display: none; /* Oculto em telas grandes */
+    flex-direction: column;
+    justify-content: space-around;
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    z-index: 25; /* Acima do header */
+}
+
+.hamburger-menu .bar {
+    width: 100%;
+    height: 3px;
+    background-color: var(--secondary-color);
+    border-radius: 2px;
+    transition: all 0.3s ease-in-out;
 }
 
 .controls-container {
@@ -66,7 +90,7 @@ input#busca {
     background: var(--bg-color); /* Cor de fundo */
     font-family: inherit; /* Herda a família da fonte do elemento pai */
     transition: all 0.2s ease; /* Adiciona uma transição suave para todas as propriedades */
-    width: 30rem; /* Largura do input */
+    width: 20rem; /* Largura do input - você pode ajustar este valor */
     color: var(--secondary-color); /* Cor do texto digitado */
     margin-right: .5rem; /* Margem à direita */
 }
@@ -84,7 +108,7 @@ input#busca:focus {
 }
 
 #botao-busca {
-    padding: 1rem 2rem; /* Espaçamento interno */
+    padding: 0.3rem 0.3rem; /* Espaçamento interno */
     border-radius: 1rem; /* Arredonda as bordas */
     border: none; /* Remove a borda padrão */
     cursor: pointer; /* Muda o cursor para uma mão ao passar por cima */
@@ -115,6 +139,14 @@ input#busca:focus {
     background-color: var(--primary-color); /* Muda a cor de fundo ao passar o mouse */
     color: var(--bg-color); /* Muda a cor do texto ao passar o mouse */
     box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra de caixa */
+}
+/* Transição para o menu hambúrguer ativo */
+.hamburger-menu.active .bar:nth-child(1) {
+    transform: rotate(45deg) translate(0.6rem, 0.6rem);
+}
+.hamburger-menu.active .bar:nth-child(2) { opacity: 0; }
+.hamburger-menu.active .bar:nth-child(3) {
+    transform: rotate(-45deg) translate(0.6rem, -0.6rem);
 }
 
 #botao-busca:active {
@@ -437,30 +469,33 @@ article a:hover {
 
 @media (max-width: 768px) {
     header { /* Estilos para telas com largura máxima de 768px */
-        flex-direction: column; /* Organiza os itens do cabeçalho em coluna */
-        padding: 1rem; /* Reduz o espaçamento interno */
+        justify-content: space-between;
     }
 
-    /* Reorganiza o cabeçalho em 3 linhas */
-    header h1 {
+    .hamburger-menu {
+        display: flex; /* Exibe o ícone do hambúrguer */
+    }
+
+    .nav-wrapper {
+        display: none; /* Esconde o menu por padrão */
+        flex-direction: column;
+        position: absolute;
+        top: 68px; /* Altura do header */
+        left: 0;
         width: 100%;
-        text-align: center;
+        background: rgba(32, 33, 36, 0.95);
+        padding: 1rem;
+        border-bottom: 1px solid var(--bg-color);
     }
 
-    .search-container {
-        order: 2; /* Move a busca para a segunda linha */
+    .nav-wrapper.active {
+        display: flex; /* Mostra o menu quando ativo */
+    }
+
+    .search-container, .controls-container {
+        flex-direction: column;
         width: 100%;
-        justify-content: center;
     }
-
-    .controls-container {
-        order: 3; /* Move os controles para a terceira linha */
-        width: 100%;
-        justify-content: center;
-    }
-
-    /* Esconde o botão de busca em telas menores */
-    #botao-busca { display: none; }
 
     main {
         column-count: 2; /* Reduz para 2 colunas em tablets */
