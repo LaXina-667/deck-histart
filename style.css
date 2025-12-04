@@ -513,6 +513,13 @@ body.sobre a:hover {
     text-decoration: underline;
 }
 
+/* Seção de conteúdo principal da página 'Sobre' */
+.about-section {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
 /* Layout para seção 'Sobre mim' com imagem ao lado */
 body.sobre .sobre-mim {
     display: flex;
